@@ -8,7 +8,7 @@
     "anchor": "start",
     "color": "black"
   },
-  "width": 280,
+  "width": 300,
   "height": 300,
   "data": {
     "url": "https://api.allorigins.win/raw?url=https://api.ons.gov.uk/timeseries/d7g7/dataset/mm23/data",
@@ -64,7 +64,7 @@
     {
       "mark": {
         "type": "line",
-        "color": "#00BFFF",
+        "color": "RGB(120,200,200)",
         "width": 10,
         "strokeWidth": 2,
         "opacity": 1
@@ -89,8 +89,8 @@
         }
       },
       "layer": [
-        {"mark": {"type": "circle", "color": "#00BFFF", "size": 100}},
-        {"mark": {"type": "text", "align": "left", "dx": 8, "color": "#00BFFF"}}
+        {"mark": {"type": "circle", "color": "RGB(120,200,200)", "size": 100}},
+        {"mark": {"type": "text", "align": "left", "dx": 8, "color": "RGB(120,200,200)"}}
       ]
     }
   ],
