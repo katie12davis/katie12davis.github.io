@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Title for the page -->
-    <title>Document</title>
+    <title>Portfolio for Katie</title>
 
     <!-- Link to my style sheet -->
     <link rel="stylesheet" href="indexworkshop.css">
@@ -25,8 +25,15 @@
 <body>
     <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
     <div class="myWeek1">
-        <h1>Data Science for Economists</h1>
-        
+        <h1>Data Science for Economists - Homework Portfolio</h1>
+    
+    </div>   
+
+<br>
+
+<!--Week 1-->
+     <div class="myWeek1">  
+        <h1>Week 1</h1>
 
         <h3>Inflation</h3>
         <p>The first chart shows the % change of inflation-official target.</p>
@@ -36,8 +43,31 @@
         <p>My second chart looks at aging population across the world, with data for Korea being highlighted</p>
      
         <div class="chart" id="Chart2"> </div>
-   <br>     
+<br>     
     </div> 
+
+<br>
+<!--Week 2-->
+    <div class="myWeek1">
+        <h1>Week 2</h1>
+        <h3>A chart of IMF lending outstanding</h3>
+        <p> This chart shows outstanding IMF outstanding lending in billions ($)</p>
+        <div class="chart" id="Chart3"> </div>
+
+        <h3> A chart of IMF lending, as a percentage of worldwide GDP</h3>
+        <p> Adjusted IMF lending outstanding adjusted for GDP</p>
+        <div class="chart" id="Chart4"> </div>
+
+        
+    <!--The source for the worldwide GDP data https://www.imf.org/external/datamapper/NGDPD@WEO/WEOWORLD//
+   The source for IMF lending outstanding https://www.imf.org/external/np/fin/tad/extcred1.aspx -->
+
+
+
+<br>
+
+</div>
+
 </body>
 
 
@@ -45,11 +75,20 @@
     //Define charts:
     var myChart1 = "Chart1_ONSinflation.json";
     var myChart2 = "Chart2_Aging population.json";
+    var myChart3 = "IMF outstanding lending.json";
+    var myChart4 = "Lending as a percentage of GDP.json";
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart3', myChart3);
+    vegaEmbed('#Chart4', myChart4);
 </script>
+
+
+
+<a href="project.html"> </a>
+
 
 </html>
 
