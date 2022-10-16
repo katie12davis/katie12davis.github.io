@@ -31,7 +31,7 @@ h1, h3, p{
 /*Border radius is the rounding of the edges */
 .myWeek1{
     margin: auto;
-    max-width:750px;
+    max-width: 1500px;
     background-color: rgb(220,220,220);
     text-align: center;
 
@@ -62,3 +62,47 @@ h1, h3, p{
     margin-bottom: 0.5cm;
 
 }
+
+/* Set the apperance for a particular chart */
+#Chart5{
+    width: 700px;
+    height:500px;
+    border-color: grey; 
+    margin-bottom: 0.5cm;
+
+}
+
+/* Containers can center text and graphs into the page*/
+.container {
+    display: flex;
+    flex-flow: wrap;
+    column-gap: 20px;
+    margin-top: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    justify-content: center;
+    align-content: center;
+  }
+
+  
+#text {
+    position: static;
+    top: 80px;
+    right: 100px;
+    bottom: 50px;
+    left: 50px;
+    padding: 0px;
+    overflow-y: hidden;
+    box-sizing: border-box;
+  }
+
+#text2 {
+    position: static;
+    top: 80px;
+    right: 50px;
+    bottom: 50px;
+    left: 100px;
+    padding: 0px;
+    overflow-y: hidden;
+    box-sizing: border-box;
+  }

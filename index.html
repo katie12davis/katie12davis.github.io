@@ -33,46 +33,89 @@
 
 <!--Week 1-->
      <div class="myWeek1">  
+
+        
         <h1>Week 1</h1>
 
-        <h3>Inflation</h3>
-        <p>The first chart shows the % change of inflation-official target.</p>
-        <div class="chart" id="Chart1"></div>
+        <container class="container">
 
-        <h3>Aging population</h3>
-        <p>My second chart looks at aging population across the world, with data for Korea being highlighted</p>
+        <div id="text">
+
+            <h3>Inflation</h3>
+            <p>The first chart shows the % change of inflation-official target.</p>
+
+            <div class="chart" id="Chart1"></div>
+
+         </div>
+
+
+         <div id="text2">
+
+            <h3>Aging population</h3>
+            <p>My second chart looks at aging population across the world, <br> with data for Korea being highlighted</p>
      
-        <div class="chart" id="Chart2"> </div>
+            <div class="chart" id="Chart2"> </div>}
+
+        </div>
+    
+         </container>
+
+         
 <br>     
-    </div> 
+    </div>
 
 <br>
 <!--Week 2-->
 
 
-    <div class="myWeek1">
+   
+<div class="myWeek1">
 
+        
+
+    
         <h1>Week 2</h1>
+        <container class="container">
+
+    <div id="text">  
+
         <h3>A chart of IMF lending outstanding</h3>
-        <p> This chart shows outstanding IMF outstanding lending in billions ($)</p>
+        <p> This chart shows outstanding IMF outstanding <br> lending in billions ($)</p>
         <div class="chart" id="Chart3"> </div>
 
-        <h3> A chart of IMF lending, as a percentage of worldwide GDP</h3>
-        <p> Adjusted IMF lending outstanding adjusted for GDP</p>
-        <div class="chart" id="Chart4"> </div>
-        <p> In absolute terms, the riskiest year of lending is in 2022, but the real riskiest year is 1984 since lending is
-            0.4% of global GDP 
+    </div>    
+
+    <div id="text2">
+        <h3> A chart of IMF lending, as a percentage of <br> worldwide GDP</h3>
+        <p> Adjusted IMF lending outstanding adjusted for GDP  
         </p>
+        <div class="chart" id="Chart4"> </div>
+        <p> In absolute terms, the riskiest year of lending is in 2022, <br> but the real riskiest year is 1984 since lending is
+            0.4% <br>of global GDP 
+        </p>
+
+    </div>  
+
+    </container>
 
         
     <!--The source for the worldwide GDP data https://www.imf.org/external/datamapper/NGDPD@WEO/WEOWORLD//
    The source for IMF lending outstanding https://www.imf.org/external/np/fin/tad/extcred1.aspx -->
 
-  
-
 <br>
 
 </div>
+<br>
+
+
+<div class="myWeek1">
+
+    <h1> Week 3</h1>
+    <h3> This weeks task was to use google colab to format data into the correct format for vega lite</h3>
+    <p> This chart shows the UK's monthly visits abroad </p>
+    <div class="chart" id="Chart5"> </div>
+
+    </div>
 
 </body>
 
@@ -83,12 +126,14 @@
     var myChart2 = "Chart2_Aging population.json";
     var myChart3 = "IMF outstanding lending USD 05102022.json";
     var myChart4 = "IMF perecentage of GDP USD.json";
+    var myChart5 = "UK visits abroad graph_monthly.json";
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);
     vegaEmbed('#Chart3', myChart3);
     vegaEmbed('#Chart4', myChart4);
+    vegaEmbed('#Chart5', myChart5);
 </script>
 
 
