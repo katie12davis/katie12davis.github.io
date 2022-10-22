@@ -1,0 +1,464 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "International visits to the UK  ",
+    "subtitle": "Total international UK visitors, divided by region. Missing 2020. Source: International Passenger Survey, ONS",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "values": [
+      {"Region": "SCOTLAND", "Year": "2002", "Visits yearly (000)": 1580.85},
+      {"Region": "SCOTLAND", "Year": "2003", "Visits yearly (000)": 1565.29},
+      {"Region": "SCOTLAND", "Year": "2004", "Visits yearly (000)": 1881.18},
+      {"Region": "SCOTLAND", "Year": "2005", "Visits yearly (000)": 2392.48},
+      {"Region": "SCOTLAND", "Year": "2006", "Visits yearly (000)": 2732.34},
+      {"Region": "SCOTLAND", "Year": "2007", "Visits yearly (000)": 2790.94},
+      {"Region": "SCOTLAND", "Year": "2008", "Visits yearly (000)": 2491.65},
+      {"Region": "SCOTLAND", "Year": "2009", "Visits yearly (000)": 2564.12},
+      {"Region": "SCOTLAND", "Year": "2010", "Visits yearly (000)": 2318.56},
+      {"Region": "SCOTLAND", "Year": "2011", "Visits yearly (000)": 2367.19},
+      {"Region": "SCOTLAND", "Year": "2012", "Visits yearly (000)": 2249.39},
+      {"Region": "SCOTLAND", "Year": "2013", "Visits yearly (000)": 2435.63},
+      {"Region": "SCOTLAND", "Year": "2014", "Visits yearly (000)": 2689.55},
+      {"Region": "SCOTLAND", "Year": "2015", "Visits yearly (000)": 2634.6},
+      {"Region": "SCOTLAND", "Year": "2016", "Visits yearly (000)": 2871.02},
+      {"Region": "SCOTLAND", "Year": "2017", "Visits yearly (000)": 3431.78},
+      {"Region": "SCOTLAND", "Year": "2018", "Visits yearly (000)": 3729.43},
+      {"Region": "SCOTLAND", "Year": "2019", "Visits yearly (000)": 3460.1},
+      {"Region": "SCOTLAND", "Year": "2021", "Visits yearly (000)": 478.85},
+      {"Region": "WALES", "Year": "2002", "Visits yearly (000)": 860.71},
+      {"Region": "WALES", "Year": "2003", "Visits yearly (000)": 893.97},
+      {"Region": "WALES", "Year": "2004", "Visits yearly (000)": 1013.13},
+      {"Region": "WALES", "Year": "2005", "Visits yearly (000)": 973.49},
+      {"Region": "WALES", "Year": "2006", "Visits yearly (000)": 1136.07},
+      {"Region": "WALES", "Year": "2007", "Visits yearly (000)": 987.18},
+      {"Region": "WALES", "Year": "2008", "Visits yearly (000)": 1065.38},
+      {"Region": "WALES", "Year": "2009", "Visits yearly (000)": 986.07},
+      {"Region": "WALES", "Year": "2010", "Visits yearly (000)": 878.43},
+      {"Region": "WALES", "Year": "2011", "Visits yearly (000)": 876.97},
+      {"Region": "WALES", "Year": "2012", "Visits yearly (000)": 847.92},
+      {"Region": "WALES", "Year": "2013", "Visits yearly (000)": 876.62},
+      {"Region": "WALES", "Year": "2014", "Visits yearly (000)": 935.11},
+      {"Region": "WALES", "Year": "2015", "Visits yearly (000)": 958.31},
+      {"Region": "WALES", "Year": "2016", "Visits yearly (000)": 1079.85},
+      {"Region": "WALES", "Year": "2017", "Visits yearly (000)": 1112.5},
+      {"Region": "WALES", "Year": "2018", "Visits yearly (000)": 987.5},
+      {"Region": "WALES", "Year": "2019", "Visits yearly (000)": 1023.07},
+      {"Region": "WALES", "Year": "2021", "Visits yearly (000)": 123.86},
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2002",
+        "Visits yearly (000)": 279.55
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2003",
+        "Visits yearly (000)": 276.94
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2004",
+        "Visits yearly (000)": 318.93
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2005",
+        "Visits yearly (000)": 291.56
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2006",
+        "Visits yearly (000)": 332.95
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2007",
+        "Visits yearly (000)": 296.44
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2008",
+        "Visits yearly (000)": 298.87
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2009",
+        "Visits yearly (000)": 361.56
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2010",
+        "Visits yearly (000)": 358.43
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2011",
+        "Visits yearly (000)": 359.19
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2012",
+        "Visits yearly (000)": 368.94
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2013",
+        "Visits yearly (000)": 367.98
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2014",
+        "Visits yearly (000)": 380.96
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2015",
+        "Visits yearly (000)": 388.02
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2016",
+        "Visits yearly (000)": 417.86
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2017",
+        "Visits yearly (000)": 459.66
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2018",
+        "Visits yearly (000)": 432.05
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2019",
+        "Visits yearly (000)": 397.56
+      },
+      {
+        "Region": "NORTHERN IRELAND",
+        "Year": "2021",
+        "Visits yearly (000)": 17.96
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2002",
+        "Visits yearly (000)": 2743.56
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2003",
+        "Visits yearly (000)": 3015.39
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2004",
+        "Visits yearly (000)": 3199.96
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2005",
+        "Visits yearly (000)": 3832.55
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2006",
+        "Visits yearly (000)": 4235.63
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2007",
+        "Visits yearly (000)": 4223.83
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2008",
+        "Visits yearly (000)": 4020.39
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2009",
+        "Visits yearly (000)": 3476.89
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2010",
+        "Visits yearly (000)": 3462.64
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2011",
+        "Visits yearly (000)": 3842.93
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2012",
+        "Visits yearly (000)": 3705.84
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2013",
+        "Visits yearly (000)": 3870.12
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2014",
+        "Visits yearly (000)": 4185.21
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2015",
+        "Visits yearly (000)": 4331.63
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2016",
+        "Visits yearly (000)": 4600.64
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2017",
+        "Visits yearly (000)": 4923.02
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2018",
+        "Visits yearly (000)": 4885.37
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2019",
+        "Visits yearly (000)": 5020.55
+      },
+      {
+        "Region": "ENGLAND'S NORTH COUNTRY",
+        "Year": "2021",
+        "Visits yearly (000)": 1016.2
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2002",
+        "Visits yearly (000)": 3871.33
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2003",
+        "Visits yearly (000)": 4265.84
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2004",
+        "Visits yearly (000)": 4510.96
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2005",
+        "Visits yearly (000)": 4773.45
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2006",
+        "Visits yearly (000)": 4660.13
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2007",
+        "Visits yearly (000)": 4810.16
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2008",
+        "Visits yearly (000)": 4906.64
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2009",
+        "Visits yearly (000)": 4639.63
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2010",
+        "Visits yearly (000)": 4364.23
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2011",
+        "Visits yearly (000)": 4521.87
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2012",
+        "Visits yearly (000)": 4389.47
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2013",
+        "Visits yearly (000)": 4832.2
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2014",
+        "Visits yearly (000)": 4979.17
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2015",
+        "Visits yearly (000)": 5206.86
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2016",
+        "Visits yearly (000)": 5798.31
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2017",
+        "Visits yearly (000)": 5808.91
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2018",
+        "Visits yearly (000)": 5532.77
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2019",
+        "Visits yearly (000)": 5733.77
+      },
+      {
+        "Region": "CENTRAL ENGLAND",
+        "Year": "2021",
+        "Visits yearly (000)": 1178.05
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2002",
+        "Visits yearly (000)": 5253.67
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2003",
+        "Visits yearly (000)": 5169.05
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2004",
+        "Visits yearly (000)": 5648.7
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2005",
+        "Visits yearly (000)": 5937.9
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2006",
+        "Visits yearly (000)": 6207.27
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2007",
+        "Visits yearly (000)": 6350.43
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2008",
+        "Visits yearly (000)": 6531.42
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2009",
+        "Visits yearly (000)": 6299.44
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2010",
+        "Visits yearly (000)": 5946.94
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2011",
+        "Visits yearly (000)": 6136.78
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2012",
+        "Visits yearly (000)": 6171.78
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2013",
+        "Visits yearly (000)": 6384.71
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2014",
+        "Visits yearly (000)": 6601.93
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2015",
+        "Visits yearly (000)": 7133.6
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2016",
+        "Visits yearly (000)": 7402.96
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2017",
+        "Visits yearly (000)": 7630.05
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2018",
+        "Visits yearly (000)": 7211.2
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2019",
+        "Visits yearly (000)": 7526.93
+      },
+      {
+        "Region": "SOUTHERN ENGLAND",
+        "Year": "2021",
+        "Visits yearly (000)": 1183.79
+      }
+    ]
+  },
+  "mark": "line",
+  "width": 560,
+  "height": 400,
+  "encoding": {
+    "x": {"field": "Year", "type": "ordinal", "title": "Year"},
+    "y": {"field": "Visits yearly (000)", "type": "quantitative"},
+    "color": {
+      "field": "Region",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "SCOTLAND",
+          "WALES",
+          "NORTHERN IRELAND",
+          "ENGLAND'S NORTH COUNTRY",
+          "CENTRAL ENGLAND",
+          "SOUTHERN ENGLAND"
+        ],
+        "range": [
+          "RGB(164,202,202)",
+          "rgb(215,212,193)",
+          "RGB(187,180,160)",
+          "rgb(84,130,130)",
+          "rgb(120,105,86)",
+          "rgb(120,200,200)"
+        ]
+      },
+      "title": "Region"
+    }
+  },
+  "config": {}
+}

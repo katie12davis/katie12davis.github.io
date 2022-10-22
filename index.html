@@ -24,8 +24,8 @@
 
 <body>
     <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
-    <div class="myWeek1">
-        <h1>Data Science for Economists - Homework Portfolio</h1>
+    <div class="myheader">
+        <h1>Data Science for Economists <br> <br> Homework Portfolio</h1>
     
     </div>   
 
@@ -42,7 +42,7 @@
         <div id="text">
 
             <h3>Inflation</h3>
-            <p>The first chart shows the % change of inflation-official target.</p>
+            <p>The first chart shows the % change of inflation-official target. <br> </p>
 
             <div class="chart" id="Chart1"></div>
 
@@ -111,11 +111,52 @@
 <div class="myWeek1">
 
     <h1> Week 3</h1>
-    <h3> This weeks task was to use google colab to format data into the correct format for vega lite</h3>
-    <p> This chart shows the UK's monthly visits abroad </p>
-    <div class="chart" id="Chart5"> </div>
+    <h2> Inline data objects and visual encodings  </h2>
+    <h3> This weeks task involved transforming data from short to long, from csv to inline, using google collab and data from an ONS file </h3> 
+    
+
+    <!--The source of this data is https://www.visitbritain.org/inbound-trends-uk-nation-region-county-->
+
+
+      <container class="container">
+
+        <div id="text2">
+
+        <div class="chartw3" id="Chart7"> </div>
+        <div class="chartw3" id="Chart6"> </div>  
+
+        <h3> The second chart uses a stacked bar chart, enabling users to visualise total UK visits, and how regions contribute as a whole </h3>
+
+        </div>
+
+    </container>
+
+
 
     </div>
+
+
+<div class="'myWeek1">
+
+    <h1>Week 4</h1>
+    <h2>Implementing a data scraper of your own </h2>
+    <h3> I conducted my data analysis in the following notebook <br>
+        <a href="https://colab.research.google.com/drive/1uS-GjtI8snyWG612jsps_j0uaavsd9Nl#scrollTo=voAN7gElZ8NZ"> Google Collab </a> 
+    </h3>
+        
+        <container class="container"> 
+
+            <div class="chartw3" id="Chart8"> </div>
+
+            <!-- https://www.worldometers.info/world-population/europe-population/ -->
+
+        </container>
+
+        <h3> I chose this site as i was interested to see a visualisation showing <br> European population's dwindling growth in comparison to the world </h3>
+
+
+
+</div>    
 
 </body>
 
@@ -127,6 +168,9 @@
     var myChart3 = "IMF outstanding lending USD 05102022.json";
     var myChart4 = "IMF perecentage of GDP USD.json";
     var myChart5 = "UK visits abroad graph_monthly.json";
+    var myChart6 = "Inline_Regional foreign visits bar.json";
+    var myChart7 = "Inline_Regional foreign visits line.json";
+    var myChart8 = "European v World population.json";
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
@@ -134,6 +178,11 @@
     vegaEmbed('#Chart3', myChart3);
     vegaEmbed('#Chart4', myChart4);
     vegaEmbed('#Chart5', myChart5);
+    vegaEmbed('#Chart6', myChart6);
+    vegaEmbed('#Chart7', myChart7);
+    vegaEmbed('#Chart8', myChart8);
+
+
 </script>
 
 

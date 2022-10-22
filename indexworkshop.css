@@ -16,13 +16,12 @@ A yellow body tag has been opened here */
 /* 255,255,255 is white - if after a professional colour adjust from here */
 
 body{
-    background-color: rgb(130, 200, 200);
- 
+    background-color: rgb(220,220,220);
 }
 
 
 /* Choose the appearance of the tags, h1, h3 and p: */
-h1, h3, p{
+h1, h2, h3, p{
     color:rgb(0, 0, 0);
     font-family: 'Roboto', sans-serif;
     text-align: center;
@@ -31,16 +30,29 @@ h1, h3, p{
 /*Border radius is the rounding of the edges */
 .myWeek1{
     margin: auto;
-    max-width: 1500px;
-    background-color: rgb(220,220,220);
+    max-width: 900px;
+    text-align: center;
+    border-top: 2px;
+    border-bottom: 2px;
+    border-left: 0cm;
+    border-right: 0cm;
+    border-style: solid;
+    border-color: (rgb(100,100,100)) ;
+}
+
+.myheader{
+    margin: auto;
+    max-width: 600px;
     text-align: center;
 
       
-    border-width: 3px;
+    border-width: 0px;
+    border-bottom: 2px;
     border-style: solid;
-    border-radius: 50px;
-    border-color: rgb(100,100,100);
+    border-radius: 0px;
+    border-color: black;
 }
+
 
 
 /* Set the apperance of the class, chart */
@@ -49,7 +61,7 @@ h1, h3, p{
     width:400px;
     border-width: 2px;
     border-style: solid;
-    border-radius: 10px;
+    border-radius: 5px;
     border-color: grey;
     margin-bottom: 1cm;
     padding-left: 0.1cm
@@ -72,6 +84,19 @@ h1, h3, p{
 
 }
 
+.chartw3{
+    background-color: white;
+    width: auto;  
+    height: auto; 
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: grey;
+    margin-bottom: 0.5cm;
+   
+
+}
+
 /* Containers can center text and graphs into the page*/
 .container {
     display: flex;
@@ -84,7 +109,7 @@ h1, h3, p{
     align-content: center;
   }
 
-  
+
 #text {
     position: static;
     top: 80px;

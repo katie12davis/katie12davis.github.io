@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "International visits to the UK  ",
+    "subtitle": "Total international UK visitors, divided by region. Missing 2020. Source: International Passenger Survey, ONS",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Regional_visits.csv"
+  },
+  "mark": "bar",
+  "width": 560,
+  "height": 400,
+  "encoding": {
+    "x": {"field": "Year", "type": "ordinal", "title": "Month of the year"},
+    "y": {"field": "Visits (000)", "type": "quantitative"},
+    "color": {
+      "field": "Region",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "SCOTLAND",
+          "WALES",
+          "NORTHERN IRELAND",
+          "ENGLAND'S NORTH COUNTRY",
+          "CENTRAL ENGLAND",
+          "SOUTHERN ENGLAND"
+        ],
+        "range": [
+          "RGB(164,202,202)",
+          "rgb(215,212,193)",
+          "RGB(187,180,160)",
+          "rgb(84,130,130)",
+          "rgb(120,105,86)",
+          "rgb(120,200,200)"
+        ]
+      },
+      "title": "Region"
+    }
+  },
+  "config": {}
+}

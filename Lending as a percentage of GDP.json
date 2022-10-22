@@ -12,8 +12,8 @@
     "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/IMF%20outstanding%20lending.csv"
 
   },
-  "height": 300,
-  "width": 300,
+  "height": 560,
+  "width": 400,
   "mark": {"type": "bar", "color": "RGB(120,200,200)"},
   "encoding": {
     "x": {
