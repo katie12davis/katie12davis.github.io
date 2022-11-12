@@ -30,7 +30,7 @@ h1, h2, h3, p{
 /*Border radius is the rounding of the edges */
 .myWeek1{
     margin: auto;
-    max-width: 900px;
+    max-width: 1200px;
     text-align: center;
     border-top: 2px;
     border-bottom: 2px;
@@ -72,6 +72,7 @@ h1, h2, h3, p{
 #Chart2{
     border-color: grey; 
     margin-bottom: 0.5cm;
+    height: 600 px
 
 }
 
@@ -94,6 +95,14 @@ h1, h2, h3, p{
     border-color: grey;
     margin-bottom: 0.5cm;
    
+
+}
+
+.chartw5{
+    width: 200px;
+    height:200px;
+    border-color: grey; 
+    margin-bottom: 0.5cm;
 
 }
 

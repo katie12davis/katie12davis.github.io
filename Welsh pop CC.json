@@ -1,0 +1,37 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Welsh pop cc.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/week5/data_ONS-DPBP.json",
+    "format": {"type": "json", "property": "years"}
+  },
+  "width": 250,
+  "height": 250,
+  "title": {
+    "text": "Welsh Claimant Count (%)",
+    "subtitle": "Wales (all population) Claimant Count. Source:ONS",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 8,
+    "anchor": "start",
+    "color": "black"
+  },
+  "mark": {
+    "type": "line",
+    "color": "RGB(120,200,200)",
+    "width": 10,
+    "strokeWidth": 2,
+    "opacity": 1
+  },
+  "encoding": {
+    "x": {"field": "year", "type": "temporal", "title": "Year"},
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "title": "Claimant Count  (%)",
+
+      "scale": {"domain": [0, 16]}
+      
+    }
+  },
+  "config": {}
+}

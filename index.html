@@ -36,15 +36,18 @@
 
         
         <h1>Week 1</h1>
+        <h2> Setting up web page and embedding charts </h2>
 
         <container class="container">
 
         <div id="text">
 
             <h3>Inflation</h3>
-            <p>The first chart shows the % change of inflation-official target. <br> </p>
+            <p> This chart shows how inflation has changed yearly
+            </p>
+            <br>
 
-            <div class="chart" id="Chart1"></div>
+            <div class="chartw3" id="Chart1"></div>
 
          </div>
 
@@ -52,9 +55,9 @@
          <div id="text2">
 
             <h3>Aging population</h3>
-            <p>My second chart looks at aging population across the world, <br> with data for Korea being highlighted</p>
+            <p> This chart shows the share of population over 65 <br> with South Korea highlighted</p>
      
-            <div class="chart" id="Chart2"> </div>}
+            <div class="chart" id="Chart2"> </div>
 
         </div>
     
@@ -75,11 +78,12 @@
 
     
         <h1>Week 2</h1>
+        <h2> Replicating and adjusting charts </h2>
         <container class="container">
 
     <div id="text">  
 
-        <h3>A chart of IMF lending outstanding</h3>
+        <h3>A chart of IMF lending outstanding <br> globally</h3>
         <p> This chart shows outstanding IMF outstanding <br> lending in billions ($)</p>
         <div class="chart" id="Chart3"> </div>
 
@@ -87,14 +91,15 @@
 
     <div id="text2">
         <h3> A chart of IMF lending, as a percentage of <br> worldwide GDP</h3>
-        <p> Adjusted IMF lending outstanding adjusted for GDP  
-        </p>
+        <p> IMF lending outstanding <br> adjusted for GDP </p>
         <div class="chart" id="Chart4"> </div>
-        <p> In absolute terms, the riskiest year of lending is in 2022, <br> but the real riskiest year is 1984 since lending is
-            0.4% <br>of global GDP 
-        </p>
+      
+    </div> 
+    
+    <h3> In absolute terms, the riskiest year of lending is in 2022, but the real riskiest year is 1984 since lending is
+        0.4% of global GDP 
+    </h3>
 
-    </div>  
 
     </container>
 
@@ -112,7 +117,9 @@
 
     <h1> Week 3</h1>
     <h2> Inline data objects and visual encodings  </h2>
-    <h3> This weeks task involved transforming data from short to long, from csv to inline, using google collab and data from an ONS file </h3> 
+    <h3> This weeks task involved transforming data from short to long, from csv to inline, using 
+        <a href="https://colab.research.google.com/drive/1jPjR93SFXkre5Euic30JRK7kYalYRK45?usp=sharing"> Google Collab </a>
+         and data from an ONS file </h3> 
     
 
     <!--The source of this data is https://www.visitbritain.org/inbound-trends-uk-nation-region-county-->
@@ -156,7 +163,38 @@
 
 
 
-</div>    
+</div> 
+
+<div class="myWeek1">
+
+    <h1>Week 5</h1>
+    <h2>Build a dashboard</h2>
+    <h3> I conducted my batch download in the following notebook 
+
+        <br>
+        <a href="https://colab.research.google.com/drive/1Nk6vzXqm35_IGwfdXv_4vEMTRJ9LaDgU?usp=sharing"> Google Collab</a> 
+         
+    </h3>
+         
+
+        <container class="container">
+            <div class="chartw3" id="Chart9"> </div>
+            <div class="chartw3" id="Chart10"> </div>
+            <div class="chartw3" id="Chart11"> </div>
+            <div class="chartw3" id="Chart12"> </div>
+            <div class="chartw3" id="Chart13"> </div>
+            <div class="chartw3" id="Chart14"> </div>
+            <div class="chartw3" id="Chart15"> </div>
+            <div class="chartw3" id="Chart16"> </div>
+            <div class="chartw3" id="Chart17"> </div>
+
+
+        </container>
+
+        <h3> I have set all graphs on the same axis so the difference between groups is clearer</h3>
+
+
+</div>
 
 </body>
 
@@ -171,6 +209,17 @@
     var myChart6 = "Inline_Regional foreign visits bar.json";
     var myChart7 = "Inline_Regional foreign visits line.json";
     var myChart8 = "European v World population.json";
+    var myChart9 = "Scottish pop CC.json";
+    var myChart10 = "Scottish men CC.json";
+    var myChart11 = "Scottish women CC.json";
+    var myChart12 = "English pop CC.json";
+    var myChart13 = "English men CC.json";
+    var myChart14 = "English women CC.json";
+    var myChart15 = "Welsh pop CC.json";
+    var myChart16 = "Welsh men CC.json";
+    var myChart17 = "Welsh women CC.json";
+
+
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
@@ -181,6 +230,15 @@
     vegaEmbed('#Chart6', myChart6);
     vegaEmbed('#Chart7', myChart7);
     vegaEmbed('#Chart8', myChart8);
+    vegaEmbed('#Chart9', myChart9);
+    vegaEmbed('#Chart10', myChart10);
+    vegaEmbed('#Chart11', myChart11);
+    vegaEmbed('#Chart12', myChart12);
+    vegaEmbed('#Chart13', myChart13);
+    vegaEmbed('#Chart14', myChart14);
+    vegaEmbed('#Chart15', myChart15);
+    vegaEmbed('#Chart16', myChart16);
+    vegaEmbed('#Chart17', myChart17);
 
 
 </script>
