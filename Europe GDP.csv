@@ -1,40 +1,52 @@
 Country ,GDP
-Germany,3570620.00
-United Kingdom*,2526615.20
-France,2483616.00
-Italy,1781221.10
-Spain,1205063.00
-Netherlands,860719.00
-Switzerland,687110.40
-Turkey,685765.40
-Poland,570206.60
-Sweden,530356.60
-Belgium,506950.40
-Ireland,421529.20
-Norway,407754.80
-Austria,403370.40
-Denmark,334526.50
-Finland,252934.00
-Romania,240154.00
-Czechia,238714.20
-Portugal,211277.50
-Greece,182830.20
-Hungary,153536.70
-Slovakia,97122.50
-Luxembourg,73313.50
-Bulgaria,67872.10
-Croatia,57310.20
-Lithuania,55383.10
-Serbia,53317.50
-Slovenia,52020.20
-Latvia,32922.50
-Estonia,30660.10
-Cyprus,23352.80
-Iceland,21531.80
-Bosnia and Herzegovina**,17506.70
-Malta,14533.80
-Albania**,13068.90
-North Macedonia,11734.00
-Kosovo***,7816.60
-Liechtenstein**,5362.90
-Montenegro,4911.60
+Azerbaijan,N/A
+Albania,13068.9
+Austria,403370.4
+Belgium,506950.4
+Bosnia and Herzegovina,17506.7
+Bulgaria,67872.1
+Croatia,57310.2
+Cyprus,23352.8
+Czech Republic,238714.2
+Denmark,334526.5
+Estonia,30660.1
+Finland,252934
+France,2483616
+Germany,3570620
+Greece,182830.2
+Hungary,153536.7
+Iceland,21531.8
+Ireland,421529.2
+Italy,1781221.1
+Kosovo,7816.6
+Latvia,32922.5
+Liechtenstein,5362.9
+Lithuania,55383.1
+Luxembourg,73313.5
+Malta,14533.8
+Montenegro,4911.6
+Netherlands,860719
+The former Yugoslav Republic of Macedonia,11734
+Norway,407754.8
+Poland,570206.6
+Portugal,211277.5
+Romania,240154
+Serbia,53317.5
+Slovakia,97122.5
+Slovenia,52020.2
+Spain,1205063
+Sweden,530356.6
+Switzerland,687110.4
+Turkey,685765.4
+United Kingdom,2526615.2
+Armenia ,N/A
+Georgia ,N/A
+Israel,N/A
+Belarus ,56800
+Andorra,2800
+Monaco,7270
+Republic of Moldova ,12000
+Holy See (Vatican City),N/A
+Russia ,14493212
+Ukraine,200090
+Faroe Islands,N/A
