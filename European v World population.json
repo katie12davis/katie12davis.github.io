@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
   "title": {
-    "text": "International visits to the UK  ",
+    "text": "Population growth ",
     "subtitle": "European and World population growth since 1955. Source: Worldometer",
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,
