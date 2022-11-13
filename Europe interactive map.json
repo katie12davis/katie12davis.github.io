@@ -1,0 +1,37 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Europe%20map.json",
+    "format": {"type": "topojson", "feature": "europe"}
+  },
+
+
+  "title": {
+    "text": "Europe",
+    "subtitle": "A map showing the countries in geographical Europe",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 8,
+    "anchor": "start",
+    "color": "black"
+  },
+
+  "height": 400,
+  "width": 400,
+
+
+  "projection": {"type": "mercator"},
+  "mark": {
+    "color": "RGB(187,180,160)",
+    "type": "geoshape",
+    "stroke": "black",
+    "strokeWidth": "0.5"
+  },
+  "encoding": {
+    "tooltip": {
+      "field": "properties.NAME",
+      "type": "nominal",
+      "title": "Country"
+    }
+  },
+  "config": {}
+}
