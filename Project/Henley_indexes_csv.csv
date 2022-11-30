@@ -1,0 +1,3354 @@
+year,score,passport_id,name,code,region_id,rank
+2006,130,2,Denmark,DK,5,1
+2006,130,3,Finland,FI,5,1
+2006,130,20,United States,US,3,1
+2006,129,1,Germany,DE,5,2
+2006,129,17,Ireland,IE,5,2
+2006,129,9,Sweden,SE,5,2
+2006,128,4,France,FR,5,3
+2006,128,5,Italy,IT,5,3
+2006,128,6,Japan,JP,6,3
+2006,125,13,Luxembourg,LU,5,3
+2006,128,10,United Kingdom,GB,5,3
+2006,127,12,Belgium,BE,5,4
+2006,127,7,Norway,NO,5,4
+2006,127,15,Spain,ES,5,4
+2006,127,16,Switzerland,CH,5,4
+2006,126,14,Netherlands,NL,5,5
+2006,125,11,Austria,AT,5,6
+2006,125,21,Canada,CA,3,6
+2006,125,24,New Zealand,NZ,8,6
+2006,123,19,Portugal,PT,5,7
+2006,122,8,Singapore,SG,6,8
+2006,120,22,Australia,AU,8,9
+2006,120,23,Greece,GR,5,9
+2006,120,26,Iceland,IS,5,9
+2006,120,34,Malaysia,MY,6,9
+2006,116,29,Liechtenstein,LI,5,10
+2006,115,27,Malta,MT,5,11
+2006,115,18,South Korea,KR,6,11
+2006,113,39,Cyprus,CY,5,12
+2006,110,45,Hong Kong (SAR China),HK,6,13
+2006,109,38,Chile,CL,3,14
+2006,109,43,San Marino,SM,5,14
+2006,108,37,Monaco,MC,5,15
+2006,106,36,Poland,PL,5,16
+2006,105,31,Slovenia,SI,5,17
+2006,104,49,Israel,IL,7,18
+2006,101,40,Argentina,AR,3,19
+2006,101,48,Brunei,BN,6,19
+2006,101,28,Hungary,HU,5,19
+2006,99,42,Andorra,AD,5,20
+2006,99,41,Brazil,BR,3,20
+2006,99,54,Uruguay,UY,3,20
+2006,98,25,Czech Republic,CZ,5,21
+2006,98,51,Mexico,MX,3,21
+2006,97,30,Slovakia,SK,5,22
+2006,95,57,Costa Rica,CR,3,23
+2006,94,33,Lithuania,LT,5,24
+2006,92,64,Venezuela,VE,3,25
+2006,91,35,Estonia,EE,5,26
+2006,91,32,Latvia,LV,5,26
+2006,84,44,Croatia,HR,5,28
+2006,83,107,Bolivia,BO,3,29
+2006,83,46,Bulgaria,BG,5,29
+2006,82,72,Guatemala,GT,3,30
+2006,82,65,Panama,PA,3,30
+2006,82,63,Paraguay,PY,3,30
+2006,81,73,El Salvador,SV,3,31
+2006,80,70,Honduras,HN,3,32
+2006,75,79,Nicaragua,NI,3,33
+2006,73,47,Romania,RO,5,34
+2006,71,52,Bahamas,BS,4,35
+2006,71,50,Barbados,BB,4,35
+2006,71,68,Macao (SAR China),MO,6,35
+2006,66,61,Trinidad and Tobago,TT,4,36
+2006,65,96,South Africa,ZA,1,37
+2006,64,67,St. Vincent and the Grenadines,VC,4,38
+2006,63,58,Antigua and Barbuda,AG,4,39
+2006,63,66,St. Lucia,LC,4,39
+2006,62,55,St. Kitts and Nevis,KN,4,40
+2006,60,69,Grenada,GD,4,41
+2006,58,97,Belize,BZ,3,42
+2006,57,105,Jamaica,JM,4,43
+2006,54,76,Solomon Islands,SB,8,44
+2006,53,101,Guyana,GY,3,45
+2006,53,121,The Gambia,GM,1,45
+2006,52,71,Dominica,DM,4,46
+2006,52,60,Mauritius,MU,1,46
+2006,52,53,Seychelles,SC,1,46
+2006,52,91,Türkiye,TR,5,46
+2006,51,119,Lesotho,LS,1,47
+2006,50,85,Tuvalu,TV,8,48
+2006,49,86,Kiribati,KI,8,49
+2006,49,77,Samoa,WS,8,49
+2006,48,108,Botswana,BW,1,50
+2006,48,122,Malawi,MW,1,50
+2006,47,100,Fiji,FJ,8,51
+2006,47,133,Sierra Leone,SL,1,51
+2006,47,78,Vanuatu,VU,8,51
+2006,46,118,Kenya,KE,1,52
+2006,46,103,Maldives,MV,6,52
+2006,46,84,Tonga,TO,8,52
+2006,46,117,eSwatini,SZ,1,52
+2006,45,134,Ghana,GH,1,53
+2006,45,125,Zambia,ZM,1,53
+2006,44,104,Nauru,NR,8,54
+2006,42,59,Taiwan (Chinese Taipei),TW,6,55
+2006,41,98,Ecuador,EC,3,56
+2006,41,112,Namibia,NA,1,56
+2006,41,106,Papua New Guinea,PG,8,56
+2006,41,74,Peru,PE,3,56
+2006,41,123,Tanzania,TZ,1,56
+2006,41,135,Zimbabwe,ZW,1,56
+2006,40,111,Suriname,SR,3,57
+2006,39,102,Kuwait,KW,7,58
+2006,39,143,Mauritania,MR,1,58
+2006,39,130,Uganda,UG,1,58
+2006,38,110,Bahrain,BH,7,59
+2006,38,150,Mali,ML,1,59
+2006,38,124,Tunisia,TN,1,59
+2006,37,149,Guinea,GN,1,60
+2006,37,151,Niger,NE,1,60
+2006,37,109,Qatar,QA,7,60
+2006,37,145,Senegal,SN,1,60
+2006,36,136,Benin,BJ,1,61
+2006,36,83,Marshall Islands,MH,8,61
+2006,36,115,Oman,OM,7,61
+2006,35,142,Burkina Faso,BF,1,62
+2006,0,88,Montenegro,ME,5,62
+2006,35,173,Nigeria,NG,1,62
+2006,35,89,Russian Federation,RU,5,62
+2006,35,148,Togo,TG,1,62
+2006,35,62,United Arab Emirates,AE,7,62
+2006,33,160,Guinea-Bissau,GW,1,63
+2006,33,129,Philippines,PH,6,63
+2006,32,116,Belarus,BY,5,64
+2006,32,81,Colombia,CO,3,64
+2006,32,75,Serbia,RS,5,64
+2006,32,80,Ukraine,UA,5,64
+2006,0,146,"Ivoire""",CI,1,65
+2006,31,171,Liberia,LR,1,65
+2006,31,120,Saudi Arabia,SA,7,65
+2006,30,138,Morocco,MA,1,66
+2006,29,128,Indonesia,ID,6,67
+2006,29,113,Thailand,TH,6,67
+2006,28,126,Azerbaijan,AZ,5,68
+2006,28,186,Bangladesh,BD,6,68
+2006,28,165,Central African Republic,CF,1,68
+2006,28,95,Georgia,GE,5,68
+2006,28,114,Kazakhstan,KZ,6,68
+2006,28,140,Kyrgyzstan,KG,6,68
+2006,23,139,Armenia,AM,7,69
+2006,27,176,Congo (Rep.),CG,1,69
+2006,27,131,Cuba,CU,4,69
+2006,27,152,Tajikistan,TJ,6,69
+2006,26,175,Cameroon,CM,1,70
+2006,25,93,Bosnia and Herzegovina,BA,5,71
+2006,25,132,Dominican Republic,DO,4,71
+2006,25,163,India,IN,6,71
+2006,25,157,Madagascar,MG,1,71
+2006,24,156,Gabon,GA,1,72
+2006,24,147,Mongolia,MN,6,72
+2006,24,153,Uzbekistan,UZ,6,72
+2006,23,166,Algeria,DZ,1,73
+2006,23,161,Rwanda,RW,1,73
+2006,22,154,Haiti,HT,4,74
+2006,22,144,Mozambique,MZ,1,74
+2006,22,141,Sao Tome and Principe,ST,1,74
+2006,22,181,Sri Lanka,LK,6,74
+2006,21,177,Jordan,JO,7,75
+2006,20,169,Equatorial Guinea,GQ,1,76
+2006,20,190,Eritrea,ER,1,76
+2006,20,170,Laos,LA,6,76
+2006,20,192,Nepal,NP,6,76
+2006,19,167,Angola,AO,1,77
+2006,19,158,Bhutan,BT,6,77
+2006,19,178,Djibouti,DJ,1,77
+2006,19,191,Libya,LY,1,77
+2006,19,162,Turkmenistan,TM,6,77
+2006,18,174,Burundi,BI,1,78
+2006,18,137,China,CN,6,78
+2006,18,183,Ethiopia,ET,1,78
+2006,18,184,North Korea,KP,6,78
+2006,18,172,Vietnam,VN,6,78
+2006,18,194,Yemen,YE,7,78
+2006,17,94,Albania,AL,5,79
+2006,17,164,Cambodia,KH,6,79
+2006,17,189,Lebanon,LB,7,79
+2006,17,196,Pakistan,PK,6,79
+2006,17,182,Sudan,SD,1,79
+2006,16,197,Syria,SY,7,80
+2006,15,198,Iraq,IQ,7,81
+2006,15,180,Myanmar,MM,6,81
+2006,15,195,Somalia,SO,1,81
+2006,14,187,Iran,IR,7,82
+2006,12,199,Afghanistan,AF,6,83
+2007,0,2,Denmark,DK,5,1
+2007,0,3,Finland,FI,5,1
+2007,0,1,Germany,DE,5,2
+2007,0,17,Ireland,IE,5,2
+2007,0,9,Sweden,SE,5,2
+2007,0,20,United States,US,3,2
+2007,0,12,Belgium,BE,5,3
+2007,0,5,Italy,IT,5,3
+2007,0,6,Japan,JP,6,3
+2007,0,13,Luxembourg,LU,5,3
+2007,0,4,France,FR,5,4
+2007,0,14,Netherlands,NL,5,4
+2007,0,7,Norway,NO,5,4
+2007,0,19,Portugal,PT,5,4
+2007,0,15,Spain,ES,5,4
+2007,0,10,United Kingdom,GB,5,4
+2007,0,11,Austria,AT,5,5
+2007,0,21,Canada,CA,3,5
+2007,0,16,Switzerland,CH,5,6
+2007,0,24,New Zealand,NZ,8,7
+2007,0,22,Australia,AU,8,8
+2007,0,8,Singapore,SG,6,8
+2007,0,23,Greece,GR,5,9
+2007,0,26,Iceland,IS,5,9
+2007,0,34,Malaysia,MY,6,10
+2007,0,29,Liechtenstein,LI,5,11
+2007,0,18,South Korea,KR,6,11
+2007,0,27,Malta,MT,5,12
+2007,0,39,Cyprus,CY,5,13
+2007,0,43,San Marino,SM,5,14
+2007,0,31,Slovenia,SI,5,15
+2007,0,37,Monaco,MC,5,16
+2007,0,36,Poland,PL,5,16
+2007,0,38,Chile,CL,3,17
+2007,0,45,Hong Kong (SAR China),HK,6,17
+2007,0,28,Hungary,HU,5,18
+2007,0,40,Argentina,AR,3,19
+2007,0,48,Brunei,BN,6,19
+2007,0,25,Czech Republic,CZ,5,19
+2007,0,42,Andorra,AD,5,20
+2007,0,30,Slovakia,SK,5,20
+2007,0,41,Brazil,BR,3,21
+2007,0,49,Israel,IL,7,21
+2007,0,33,Lithuania,LT,5,22
+2007,0,54,Uruguay,UY,3,22
+2007,0,35,Estonia,EE,5,23
+2007,0,32,Latvia,LV,5,23
+2007,0,51,Mexico,MX,3,24
+2007,0,57,Costa Rica,CR,3,26
+2007,0,64,Venezuela,VE,3,26
+2007,0,46,Bulgaria,BG,5,27
+2007,0,44,Croatia,HR,5,28
+2007,0,72,Guatemala,GT,3,30
+2007,0,65,Panama,PA,3,30
+2007,0,63,Paraguay,PY,3,30
+2007,0,47,Romania,RO,5,30
+2007,0,73,El Salvador,SV,3,31
+2007,0,70,Honduras,HN,3,31
+2007,0,79,Nicaragua,NI,3,33
+2007,0,50,Barbados,BB,4,34
+2007,0,68,Macao (SAR China),MO,6,35
+2007,0,52,Bahamas,BS,4,36
+2007,0,96,South Africa,ZA,1,36
+2007,0,67,St. Vincent and the Grenadines,VC,4,37
+2007,0,61,Trinidad and Tobago,TT,4,37
+2007,0,66,St. Lucia,LC,4,38
+2007,0,58,Antigua and Barbuda,AG,4,39
+2007,0,107,Bolivia,BO,3,39
+2007,0,55,St. Kitts and Nevis,KN,4,39
+2007,0,69,Grenada,GD,4,41
+2007,0,97,Belize,BZ,3,42
+2007,0,76,Solomon Islands,SB,8,43
+2007,0,91,Türkiye,TR,5,44
+2007,0,71,Dominica,DM,4,45
+2007,0,101,Guyana,GY,3,45
+2007,0,105,Jamaica,JM,4,45
+2007,0,53,Seychelles,SC,1,45
+2007,0,85,Tuvalu,TV,8,46
+2007,0,60,Mauritius,MU,1,47
+2007,0,77,Samoa,WS,8,47
+2007,0,86,Kiribati,KI,8,48
+2007,0,121,The Gambia,GM,1,48
+2007,0,119,Lesotho,LS,1,49
+2007,0,78,Vanuatu,VU,8,49
+2007,0,100,Fiji,FJ,8,50
+2007,0,122,Malawi,MW,1,51
+2007,0,103,Maldives,MV,6,51
+2007,0,84,Tonga,TO,8,51
+2007,0,108,Botswana,BW,1,52
+2007,0,104,Nauru,NR,8,52
+2007,0,133,Sierra Leone,SL,1,52
+2007,0,118,Kenya,KE,1,53
+2007,0,117,eSwatini,SZ,1,53
+2007,0,74,Peru,PE,3,54
+2007,0,59,Taiwan (Chinese Taipei),TW,6,54
+2007,0,125,Zambia,ZM,1,54
+2007,0,98,Ecuador,EC,3,55
+2007,0,134,Ghana,GH,1,55
+2007,0,112,Namibia,NA,1,55
+2007,0,106,Papua New Guinea,PG,8,55
+2007,0,111,Suriname,SR,3,56
+2007,0,102,Kuwait,KW,7,57
+2007,0,89,Russian Federation,RU,5,57
+2007,0,123,Tanzania,TZ,1,57
+2007,0,83,Marshall Islands,MH,8,58
+2007,0,124,Tunisia,TN,1,58
+2007,0,135,Zimbabwe,ZW,1,58
+2007,0,110,Bahrain,BH,7,59
+2007,0,130,Uganda,UG,1,59
+2007,0,143,Mauritania,MR,1,60
+2007,0,109,Qatar,QA,7,60
+2007,0,62,United Arab Emirates,AE,7,61
+2007,0,150,Mali,ML,1,62
+2007,0,88,Montenegro,ME,5,62
+2007,0,151,Niger,NE,1,62
+2007,0,115,Oman,OM,7,62
+2007,0,129,Philippines,PH,6,62
+2007,0,145,Senegal,SN,1,62
+2007,0,116,Belarus,BY,5,63
+2007,0,136,Benin,BJ,1,63
+2007,0,149,Guinea,GN,1,63
+2007,0,75,Serbia,RS,5,63
+2007,0,80,Ukraine,UA,5,63
+2007,0,81,Colombia,CO,3,64
+2007,0,173,Nigeria,NG,1,64
+2007,0,113,Thailand,TH,6,64
+2007,0,142,Burkina Faso,BF,1,65
+2007,0,146,"Ivoire""",CI,1,65
+2007,0,148,Togo,TG,1,65
+2007,0,160,Guinea-Bissau,GW,1,66
+2007,0,114,Kazakhstan,KZ,6,66
+2007,0,139,Armenia,AM,7,67
+2007,0,95,Georgia,GE,5,67
+2007,0,120,Saudi Arabia,SA,7,67
+2007,0,126,Azerbaijan,AZ,5,68
+2007,0,128,Indonesia,ID,6,68
+2007,0,140,Kyrgyzstan,KG,6,68
+2007,0,171,Liberia,LR,1,68
+2007,0,138,Morocco,MA,1,68
+2007,0,152,Tajikistan,TJ,6,68
+2007,0,131,Cuba,CU,4,69
+2007,0,186,Bangladesh,BD,6,70
+2007,0,132,Dominican Republic,DO,4,70
+2007,0,93,Bosnia and Herzegovina,BA,5,71
+2007,0,165,Central African Republic,CF,1,71
+2007,0,153,Uzbekistan,UZ,6,71
+2007,0,175,Cameroon,CM,1,72
+2007,0,176,Congo (Rep.),CG,1,72
+2007,0,157,Madagascar,MG,1,72
+2007,0,147,Mongolia,MN,6,72
+2007,0,163,India,IN,6,73
+2007,0,166,Algeria,DZ,1,74
+2007,0,156,Gabon,GA,1,74
+2007,0,144,Mozambique,MZ,1,74
+2007,0,141,Sao Tome and Principe,ST,1,74
+2007,0,154,Haiti,HT,4,75
+2007,0,161,Rwanda,RW,1,75
+2007,0,162,Turkmenistan,TM,6,75
+2007,0,158,Bhutan,BT,6,76
+2007,0,181,Sri Lanka,LK,6,76
+2007,0,94,Albania,AL,5,77
+2007,0,170,Laos,LA,6,77
+2007,0,137,China,CN,6,78
+2007,0,177,Jordan,JO,7,78
+2007,0,191,Libya,LY,1,78
+2007,0,192,Nepal,NP,6,78
+2007,0,172,Vietnam,VN,6,78
+2007,0,167,Angola,AO,1,79
+2007,0,169,Equatorial Guinea,GQ,1,79
+2007,0,190,Eritrea,ER,1,79
+2007,0,174,Burundi,BI,1,80
+2007,0,178,Djibouti,DJ,1,80
+2007,0,183,Ethiopia,ET,1,80
+2007,0,184,North Korea,KP,6,80
+2007,0,194,Yemen,YE,7,80
+2007,0,164,Cambodia,KH,6,81
+2007,0,197,Syria,SY,7,81
+2007,0,189,Lebanon,LB,7,82
+2007,0,182,Sudan,SD,1,82
+2007,0,180,Myanmar,MM,6,83
+2007,0,196,Pakistan,PK,6,83
+2007,0,187,Iran,IR,7,84
+2007,0,198,Iraq,IQ,7,84
+2007,0,195,Somalia,SO,1,84
+2007,0,199,Afghanistan,AF,6,86
+2008,157,2,Denmark,DK,5,1
+2008,156,3,Finland,FI,5,2
+2008,156,17,Ireland,IE,5,2
+2008,156,19,Portugal,PT,5,2
+2008,155,12,Belgium,BE,5,3
+2008,155,1,Germany,DE,5,3
+2008,155,9,Sweden,SE,5,3
+2008,155,20,United States,US,3,3
+2008,154,21,Canada,CA,3,4
+2008,154,5,Italy,IT,5,4
+2008,154,6,Japan,JP,6,4
+2008,154,13,Luxembourg,LU,5,4
+2008,154,14,Netherlands,NL,5,4
+2008,154,15,Spain,ES,5,4
+2008,153,11,Austria,AT,5,5
+2008,153,7,Norway,NO,5,5
+2008,152,4,France,FR,5,6
+2008,152,10,United Kingdom,GB,5,6
+2008,151,22,Australia,AU,8,7
+2008,150,24,New Zealand,NZ,8,8
+2008,150,8,Singapore,SG,6,8
+2008,149,23,Greece,GR,5,9
+2008,149,16,Switzerland,CH,5,9
+2008,146,26,Iceland,IS,5,10
+2008,145,34,Malaysia,MY,6,11
+2008,144,18,South Korea,KR,6,12
+2008,140,29,Liechtenstein,LI,5,13
+2008,139,39,Cyprus,CY,5,14
+2008,139,27,Malta,MT,5,14
+2008,139,31,Slovenia,SI,5,14
+2008,134,43,San Marino,SM,5,15
+2008,132,36,Poland,PL,5,16
+2008,131,25,Czech Republic,CZ,5,17
+2008,131,28,Hungary,HU,5,17
+2008,131,37,Monaco,MC,5,17
+2008,130,30,Slovakia,SK,5,18
+2008,129,48,Brunei,BN,6,19
+2008,127,42,Andorra,AD,5,20
+2008,127,40,Argentina,AR,3,20
+2008,127,38,Chile,CL,3,20
+2008,127,35,Estonia,EE,5,20
+2008,127,32,Latvia,LV,5,20
+2008,125,33,Lithuania,LT,5,21
+2008,123,45,Hong Kong (SAR China),HK,6,22
+2008,122,41,Brazil,BR,3,23
+2008,118,49,Israel,IL,7,24
+2008,118,54,Uruguay,UY,3,24
+2008,116,46,Bulgaria,BG,5,25
+2008,115,47,Romania,RO,5,26
+2008,114,51,Mexico,MX,3,27
+2008,111,64,Venezuela,VE,3,28
+2008,108,57,Costa Rica,CR,3,29
+2008,108,44,Croatia,HR,5,29
+2008,104,63,Paraguay,PY,3,30
+2008,100,72,Guatemala,GT,3,31
+2008,100,70,Honduras,HN,3,31
+2008,100,65,Panama,PA,3,31
+2008,98,73,El Salvador,SV,3,32
+2008,93,79,Nicaragua,NI,3,33
+2008,0,56,Vatican City,VA,5,33
+2008,89,50,Barbados,BB,4,34
+2008,88,96,South Africa,ZA,1,35
+2008,87,68,Macao (SAR China),MO,6,36
+2008,96,52,Bahamas,BS,4,37
+2008,86,67,St. Vincent and the Grenadines,VC,4,37
+2008,84,55,St. Kitts and Nevis,KN,4,38
+2008,84,66,St. Lucia,LC,4,38
+2008,83,61,Trinidad and Tobago,TT,4,39
+2008,82,58,Antigua and Barbuda,AG,4,40
+2008,79,69,Grenada,GD,4,41
+2008,75,97,Belize,BZ,3,42
+2008,75,91,Türkiye,TR,5,42
+2008,73,76,Solomon Islands,SB,8,43
+2008,71,71,Dominica,DM,4,44
+2008,71,53,Seychelles,SC,1,44
+2008,70,85,Tuvalu,TV,8,45
+2008,69,101,Guyana,GY,3,46
+2008,69,77,Samoa,WS,8,46
+2008,68,78,Vanuatu,VU,8,47
+2008,67,105,Jamaica,JM,4,48
+2008,67,86,Kiribati,KI,8,48
+2008,67,60,Mauritius,MU,1,48
+2008,66,100,Fiji,FJ,8,49
+2008,65,107,Bolivia,BO,3,50
+2008,64,103,Maldives,MV,6,51
+2008,64,104,Nauru,NR,8,51
+2008,64,84,Tonga,TO,8,51
+2008,62,119,Lesotho,LS,1,52
+2008,62,74,Peru,PE,3,52
+2008,62,121,The Gambia,GM,1,52
+2008,60,122,Malawi,MW,1,53
+2008,60,89,Russian Federation,RU,5,53
+2008,60,133,Sierra Leone,SL,1,53
+2008,59,108,Botswana,BW,1,54
+2008,59,106,Papua New Guinea,PG,8,54
+2008,59,59,Taiwan (Chinese Taipei),TW,6,54
+2008,59,117,eSwatini,SZ,1,54
+2008,58,98,Ecuador,EC,3,55
+2008,58,118,Kenya,KE,1,55
+2008,58,112,Namibia,NA,1,55
+2008,0,82,North Macedonia,MK,5,55
+2008,57,83,Marshall Islands,MH,8,56
+2008,57,111,Suriname,SR,3,56
+2008,57,125,Zambia,ZM,1,56
+2008,56,102,Kuwait,KW,7,57
+2008,55,134,Ghana,GH,1,58
+2008,55,124,Tunisia,TN,1,58
+2008,54,123,Tanzania,TZ,1,59
+2008,53,110,Bahrain,BH,7,60
+2008,53,109,Qatar,QA,7,60
+2008,53,130,Uganda,UG,1,60
+2008,0,92,Palau Islands,PW,8,61
+2008,52,113,Thailand,TH,6,61
+2008,52,62,United Arab Emirates,AE,7,61
+2008,52,135,Zimbabwe,ZW,1,61
+2008,0,88,Montenegro,ME,5,62
+2008,50,129,Philippines,PH,6,62
+2008,50,75,Serbia,RS,5,62
+2008,50,80,Ukraine,UA,5,62
+2008,49,116,Belarus,BY,5,63
+2008,49,143,Mauritania,MR,1,63
+2008,49,115,Oman,OM,7,63
+2008,48,81,Colombia,CO,3,64
+2008,48,145,Senegal,SN,1,64
+2008,47,136,Benin,BJ,1,65
+2008,0,127,Cape Verde Islands,CV,1,65
+2008,0,146,"Ivoire""",CI,1,65
+2008,47,114,Kazakhstan,KZ,6,65
+2008,47,150,Mali,ML,1,65
+2008,47,151,Niger,NE,1,65
+2008,46,139,Armenia,AM,7,66
+2008,46,95,Georgia,GE,5,66
+2008,46,149,Guinea,GN,1,66
+2008,0,87,Moldova,MD,5,66
+2008,45,173,Nigeria,NG,1,67
+2008,44,126,Azerbaijan,AZ,5,68
+2008,44,142,Burkina Faso,BF,1,68
+2008,44,140,Kyrgyzstan,KG,6,68
+2008,44,152,Tajikistan,TJ,6,68
+2008,43,132,Dominican Republic,DO,4,69
+2008,43,128,Indonesia,ID,6,69
+2008,0,90,Micronesia,FM,8,69
+2008,43,148,Togo,TG,1,69
+2008,42,131,Cuba,CU,4,70
+2008,42,160,Guinea-Bissau,GW,1,70
+2008,42,138,Morocco,MA,1,70
+2008,42,120,Saudi Arabia,SA,7,70
+2008,41,153,Uzbekistan,UZ,6,71
+2008,40,93,Bosnia and Herzegovina,BA,5,72
+2008,40,171,Liberia,LR,1,72
+2008,39,186,Bangladesh,BD,6,73
+2008,39,157,Madagascar,MG,1,73
+2008,39,147,Mongolia,MN,6,73
+2008,38,162,Turkmenistan,TM,6,74
+2008,37,175,Cameroon,CM,1,75
+2008,37,165,Central African Republic,CF,1,75
+2008,0,155,Chad,TD,1,75
+2008,37,163,India,IN,6,75
+2008,37,144,Mozambique,MZ,1,75
+2008,37,141,Sao Tome and Principe,ST,1,75
+2008,0,99,Timor-Leste,TL,6,75
+2008,36,94,Albania,AL,5,76
+2008,36,166,Algeria,DZ,1,76
+2008,36,158,Bhutan,BT,6,76
+2008,36,176,Congo (Rep.),CG,1,76
+2008,36,154,Haiti,HT,4,76
+2008,35,156,Gabon,GA,1,77
+2008,0,168,Egypt,EG,1,78
+2008,34,161,Rwanda,RW,1,78
+2008,33,137,China,CN,6,79
+2008,33,170,Laos,LA,6,79
+2008,33,181,Sri Lanka,LK,6,79
+2008,33,172,Vietnam,VN,6,79
+2008,32,191,Libya,LY,1,80
+2008,32,192,Nepal,NP,6,80
+2008,31,167,Angola,AO,1,81
+2008,0,159,Comoro Islands,KM,1,81
+2008,30,174,Burundi,BI,1,82
+2008,30,169,Equatorial Guinea,GQ,1,82
+2008,30,177,Jordan,JO,7,82
+2008,30,197,Syria,SY,7,82
+2008,30,194,Yemen,YE,7,82
+2008,29,164,Cambodia,KH,6,83
+2008,29,190,Eritrea,ER,1,83
+2008,29,183,Ethiopia,ET,1,83
+2008,29,184,North Korea,KP,6,83
+2008,28,178,Djibouti,DJ,1,84
+2008,27,189,Lebanon,LB,7,85
+2008,27,180,Myanmar,MM,6,85
+2008,0,185,South Sudan,SS,1,86
+2008,26,182,Sudan,SD,1,86
+2008,25,187,Iran,IR,7,87
+2008,25,196,Pakistan,PK,6,87
+2008,25,195,Somalia,SO,1,87
+2008,23,198,Iraq,IQ,7,88
+2008,22,199,Afghanistan,AF,6,89
+2008,0,179,Congo (Dem. Rep.),CD,1,90
+2008,0,193,Palestinian Territory,PS,7,97
+2009,0,2,Denmark,DK,5,1
+2009,0,3,Finland,FI,5,2
+2009,0,17,Ireland,IE,5,2
+2009,0,19,Portugal,PT,5,2
+2009,0,12,Belgium,BE,5,3
+2009,0,1,Germany,DE,5,3
+2009,0,9,Sweden,SE,5,3
+2009,0,20,United States,US,3,3
+2009,0,21,Canada,CA,3,4
+2009,0,5,Italy,IT,5,4
+2009,0,6,Japan,JP,6,4
+2009,0,13,Luxembourg,LU,5,4
+2009,0,14,Netherlands,NL,5,4
+2009,0,15,Spain,ES,5,4
+2009,0,11,Austria,AT,5,5
+2009,0,7,Norway,NO,5,5
+2009,0,4,France,FR,5,6
+2009,0,10,United Kingdom,GB,5,6
+2009,0,22,Australia,AU,8,7
+2009,0,24,New Zealand,NZ,8,8
+2009,0,8,Singapore,SG,6,8
+2009,0,23,Greece,GR,5,9
+2009,0,16,Switzerland,CH,5,9
+2009,0,26,Iceland,IS,5,10
+2009,0,34,Malaysia,MY,6,11
+2009,0,18,South Korea,KR,6,12
+2009,0,29,Liechtenstein,LI,5,13
+2009,0,39,Cyprus,CY,5,14
+2009,0,27,Malta,MT,5,14
+2009,0,31,Slovenia,SI,5,14
+2009,0,43,San Marino,SM,5,15
+2009,0,36,Poland,PL,5,16
+2009,0,25,Czech Republic,CZ,5,17
+2009,0,28,Hungary,HU,5,17
+2009,0,37,Monaco,MC,5,17
+2009,0,30,Slovakia,SK,5,18
+2009,0,48,Brunei,BN,6,19
+2009,0,42,Andorra,AD,5,20
+2009,0,40,Argentina,AR,3,20
+2009,0,38,Chile,CL,3,20
+2009,0,35,Estonia,EE,5,20
+2009,0,32,Latvia,LV,5,20
+2009,0,33,Lithuania,LT,5,21
+2009,0,45,Hong Kong (SAR China),HK,6,22
+2009,0,41,Brazil,BR,3,23
+2009,0,49,Israel,IL,7,24
+2009,0,54,Uruguay,UY,3,24
+2009,0,46,Bulgaria,BG,5,25
+2009,0,47,Romania,RO,5,26
+2009,0,51,Mexico,MX,3,27
+2009,0,64,Venezuela,VE,3,28
+2009,0,57,Costa Rica,CR,3,29
+2009,0,44,Croatia,HR,5,29
+2009,0,63,Paraguay,PY,3,30
+2009,0,72,Guatemala,GT,3,31
+2009,0,70,Honduras,HN,3,31
+2009,0,65,Panama,PA,3,31
+2009,0,73,El Salvador,SV,3,32
+2009,0,79,Nicaragua,NI,3,33
+2009,0,50,Barbados,BB,4,34
+2009,0,96,South Africa,ZA,1,35
+2009,0,68,Macao (SAR China),MO,6,36
+2009,0,56,Vatican City,VA,5,36
+2009,0,52,Bahamas,BS,4,37
+2009,0,67,St. Vincent and the Grenadines,VC,4,37
+2009,0,55,St. Kitts and Nevis,KN,4,38
+2009,0,66,St. Lucia,LC,4,38
+2009,0,61,Trinidad and Tobago,TT,4,39
+2009,0,58,Antigua and Barbuda,AG,4,40
+2009,0,69,Grenada,GD,4,41
+2009,0,97,Belize,BZ,3,42
+2009,0,91,Türkiye,TR,5,42
+2009,0,76,Solomon Islands,SB,8,43
+2009,0,71,Dominica,DM,4,44
+2009,0,53,Seychelles,SC,1,44
+2009,0,85,Tuvalu,TV,8,45
+2009,0,101,Guyana,GY,3,46
+2009,0,77,Samoa,WS,8,46
+2009,0,78,Vanuatu,VU,8,47
+2009,0,105,Jamaica,JM,4,48
+2009,0,86,Kiribati,KI,8,48
+2009,0,60,Mauritius,MU,1,48
+2009,0,100,Fiji,FJ,8,49
+2009,0,107,Bolivia,BO,3,50
+2009,0,103,Maldives,MV,6,51
+2009,0,104,Nauru,NR,8,51
+2009,0,82,North Macedonia,MK,5,51
+2009,0,84,Tonga,TO,8,51
+2009,0,119,Lesotho,LS,1,52
+2009,0,74,Peru,PE,3,52
+2009,0,121,The Gambia,GM,1,52
+2009,0,122,Malawi,MW,1,53
+2009,0,89,Russian Federation,RU,5,53
+2009,0,133,Sierra Leone,SL,1,53
+2009,0,108,Botswana,BW,1,54
+2009,0,106,Papua New Guinea,PG,8,54
+2009,0,59,Taiwan (Chinese Taipei),TW,6,54
+2009,0,117,eSwatini,SZ,1,54
+2009,0,98,Ecuador,EC,3,55
+2009,0,118,Kenya,KE,1,55
+2009,0,112,Namibia,NA,1,55
+2009,0,83,Marshall Islands,MH,8,56
+2009,0,111,Suriname,SR,3,56
+2009,0,125,Zambia,ZM,1,56
+2009,0,102,Kuwait,KW,7,57
+2009,0,134,Ghana,GH,1,58
+2009,0,124,Tunisia,TN,1,58
+2009,0,123,Tanzania,TZ,1,59
+2009,0,110,Bahrain,BH,7,60
+2009,0,109,Qatar,QA,7,60
+2009,0,130,Uganda,UG,1,60
+2009,0,92,Palau Islands,PW,8,61
+2009,0,113,Thailand,TH,6,61
+2009,0,62,United Arab Emirates,AE,7,61
+2009,0,135,Zimbabwe,ZW,1,61
+2009,0,88,Montenegro,ME,5,62
+2009,0,129,Philippines,PH,6,62
+2009,0,75,Serbia,RS,5,62
+2009,0,80,Ukraine,UA,5,62
+2009,0,116,Belarus,BY,5,63
+2009,0,143,Mauritania,MR,1,63
+2009,0,115,Oman,OM,7,63
+2009,0,81,Colombia,CO,3,64
+2009,0,145,Senegal,SN,1,64
+2009,0,136,Benin,BJ,1,65
+2009,0,127,Cape Verde Islands,CV,1,65
+2009,0,146,"Ivoire""",CI,1,65
+2009,0,114,Kazakhstan,KZ,6,65
+2009,0,150,Mali,ML,1,65
+2009,0,151,Niger,NE,1,65
+2009,0,139,Armenia,AM,7,66
+2009,0,95,Georgia,GE,5,66
+2009,0,149,Guinea,GN,1,66
+2009,0,87,Moldova,MD,5,66
+2009,0,173,Nigeria,NG,1,67
+2009,0,126,Azerbaijan,AZ,5,68
+2009,0,142,Burkina Faso,BF,1,68
+2009,0,140,Kyrgyzstan,KG,6,68
+2009,0,152,Tajikistan,TJ,6,68
+2009,0,132,Dominican Republic,DO,4,69
+2009,0,128,Indonesia,ID,6,69
+2009,0,90,Micronesia,FM,8,69
+2009,0,148,Togo,TG,1,69
+2009,0,131,Cuba,CU,4,70
+2009,0,160,Guinea-Bissau,GW,1,70
+2009,0,138,Morocco,MA,1,70
+2009,0,120,Saudi Arabia,SA,7,70
+2009,0,153,Uzbekistan,UZ,6,71
+2009,0,93,Bosnia and Herzegovina,BA,5,72
+2009,0,171,Liberia,LR,1,72
+2009,0,186,Bangladesh,BD,6,73
+2009,0,157,Madagascar,MG,1,73
+2009,0,147,Mongolia,MN,6,73
+2009,0,162,Turkmenistan,TM,6,74
+2009,0,175,Cameroon,CM,1,75
+2009,0,165,Central African Republic,CF,1,75
+2009,0,155,Chad,TD,1,75
+2009,0,163,India,IN,6,75
+2009,0,144,Mozambique,MZ,1,75
+2009,0,141,Sao Tome and Principe,ST,1,75
+2009,0,99,Timor-Leste,TL,6,75
+2009,0,94,Albania,AL,5,76
+2009,0,166,Algeria,DZ,1,76
+2009,0,158,Bhutan,BT,6,76
+2009,0,176,Congo (Rep.),CG,1,76
+2009,0,154,Haiti,HT,4,76
+2009,0,156,Gabon,GA,1,77
+2009,0,168,Egypt,EG,1,78
+2009,0,161,Rwanda,RW,1,78
+2009,0,137,China,CN,6,79
+2009,0,170,Laos,LA,6,79
+2009,0,181,Sri Lanka,LK,6,79
+2009,0,172,Vietnam,VN,6,79
+2009,0,191,Libya,LY,1,80
+2009,0,192,Nepal,NP,6,80
+2009,0,167,Angola,AO,1,81
+2009,0,174,Burundi,BI,1,82
+2009,0,169,Equatorial Guinea,GQ,1,82
+2009,0,177,Jordan,JO,7,82
+2009,0,197,Syria,SY,7,82
+2009,0,194,Yemen,YE,7,82
+2009,0,164,Cambodia,KH,6,83
+2009,0,190,Eritrea,ER,1,83
+2009,0,183,Ethiopia,ET,1,83
+2009,0,184,North Korea,KP,6,83
+2009,0,178,Djibouti,DJ,1,84
+2009,0,159,Comoro Islands,KM,1,85
+2009,0,189,Lebanon,LB,7,85
+2009,0,180,Myanmar,MM,6,85
+2009,0,185,South Sudan,SS,1,86
+2009,0,182,Sudan,SD,1,86
+2009,0,187,Iran,IR,7,87
+2009,0,196,Pakistan,PK,6,87
+2009,0,195,Somalia,SO,1,87
+2009,0,198,Iraq,IQ,7,88
+2009,0,199,Afghanistan,AF,6,89
+2009,0,179,Congo (Dem. Rep.),CD,1,89
+2009,0,193,Palestinian Territory,PS,7,97
+2010,166,10,United Kingdom,GB,5,1
+2010,164,2,Denmark,DK,5,2
+2010,163,9,Sweden,SE,5,3
+2010,162,3,Finland,FI,5,4
+2010,162,13,Luxembourg,LU,5,4
+2010,161,4,France,FR,5,5
+2010,161,1,Germany,DE,5,5
+2010,161,5,Italy,IT,5,5
+2010,161,14,Netherlands,NL,5,5
+2010,160,12,Belgium,BE,5,6
+2010,160,6,Japan,JP,6,6
+2010,160,15,Spain,ES,5,6
+2010,159,17,Ireland,IE,5,7
+2010,159,7,Norway,NO,5,7
+2010,159,20,United States,US,3,7
+2010,158,11,Austria,AT,5,8
+2010,158,19,Portugal,PT,5,8
+2010,157,22,Australia,AU,8,9
+2010,157,21,Canada,CA,3,9
+2010,157,24,New Zealand,NZ,8,9
+2010,156,16,Switzerland,CH,5,10
+2010,155,8,Singapore,SG,6,11
+2010,153,23,Greece,GR,5,12
+2010,151,26,Iceland,IS,5,13
+2010,151,34,Malaysia,MY,6,13
+2010,151,18,South Korea,KR,6,13
+2010,147,29,Liechtenstein,LI,5,14
+2010,146,27,Malta,MT,5,15
+2010,145,36,Poland,PL,5,16
+2010,144,30,Slovakia,SK,5,17
+2010,144,31,Slovenia,SI,5,17
+2010,142,39,Cyprus,CY,5,18
+2010,142,25,Czech Republic,CZ,5,18
+2010,142,28,Hungary,HU,5,18
+2010,140,35,Estonia,EE,5,19
+2010,140,45,Hong Kong (SAR China),HK,6,19
+2010,140,33,Lithuania,LT,5,19
+2010,139,32,Latvia,LV,5,20
+2010,138,37,Monaco,MC,5,21
+2010,136,47,Romania,RO,5,22
+2010,135,43,San Marino,SM,5,23
+2010,134,48,Brunei,BN,6,24
+2010,133,46,Bulgaria,BG,5,25
+2010,133,49,Israel,IL,7,25
+2010,132,40,Argentina,AR,3,26
+2010,131,42,Andorra,AD,5,27
+2010,131,38,Chile,CL,3,27
+2010,130,41,Brazil,BR,3,28
+2010,127,50,Barbados,BB,4,29
+2010,124,52,Bahamas,BS,4,30
+2010,121,55,St. Kitts and Nevis,KN,4,31
+2010,120,51,Mexico,MX,3,32
+2010,119,58,Antigua and Barbuda,AG,4,33
+2010,118,54,Uruguay,UY,3,34
+2010,116,44,Croatia,HR,5,35
+2010,115,64,Venezuela,VE,3,36
+2010,114,57,Costa Rica,CR,3,37
+2010,113,53,Seychelles,SC,1,38
+2010,112,63,Paraguay,PY,3,39
+2010,112,56,Vatican City,VA,5,39
+2010,111,60,Mauritius,MU,1,40
+2010,106,65,Panama,PA,3,41
+2010,105,73,El Salvador,SV,3,42
+2010,105,72,Guatemala,GT,3,42
+2010,105,70,Honduras,HN,3,42
+2010,101,79,Nicaragua,NI,3,43
+2010,99,68,Macao (SAR China),MO,6,44
+2010,92,61,Trinidad and Tobago,TT,4,45
+2010,0,82,North Macedonia,MK,5,46
+2010,89,66,St. Lucia,LC,4,46
+2010,89,91,Türkiye,TR,5,46
+2010,88,75,Serbia,RS,5,47
+2010,88,96,South Africa,ZA,1,47
+2010,88,67,St. Vincent and the Grenadines,VC,4,47
+2010,86,88,Montenegro,ME,5,48
+2010,83,69,Grenada,GD,4,49
+2010,83,89,Russian Federation,RU,5,49
+2010,82,97,Belize,BZ,3,50
+2010,80,71,Dominica,DM,4,51
+2010,78,76,Solomon Islands,SB,8,52
+2010,77,77,Samoa,WS,8,53
+2010,75,85,Tuvalu,TV,8,54
+2010,74,78,Vanuatu,VU,8,55
+2010,73,105,Jamaica,JM,4,56
+2010,73,86,Kiribati,KI,8,56
+2010,73,103,Maldives,MV,6,56
+2010,73,104,Nauru,NR,8,56
+2010,72,100,Fiji,FJ,8,57
+2010,72,101,Guyana,GY,3,57
+2010,72,84,Tonga,TO,8,57
+2010,71,102,Kuwait,KW,7,58
+2010,71,74,Peru,PE,3,58
+2010,70,106,Papua New Guinea,PG,8,59
+2010,69,108,Botswana,BW,1,60
+2010,68,121,The Gambia,GM,1,61
+2010,67,110,Bahrain,BH,7,62
+2010,67,112,Namibia,NA,1,62
+2010,66,109,Qatar,QA,7,63
+2010,65,98,Ecuador,EC,3,64
+2010,65,118,Kenya,KE,1,64
+2010,65,119,Lesotho,LS,1,64
+2010,65,122,Malawi,MW,1,64
+2010,65,133,Sierra Leone,SL,1,64
+2010,64,80,Ukraine,UA,5,65
+2010,64,62,United Arab Emirates,AE,7,65
+2010,64,125,Zambia,ZM,1,65
+2010,64,117,eSwatini,SZ,1,65
+2010,63,83,Marshall Islands,MH,8,66
+2010,0,87,Moldova,MD,5,66
+2010,63,111,Suriname,SR,3,66
+2010,62,107,Bolivia,BO,3,67
+2010,62,134,Ghana,GH,1,67
+2010,62,124,Tunisia,TN,1,67
+2010,61,115,Oman,OM,7,68
+2010,61,123,Tanzania,TZ,1,68
+2010,60,90,Micronesia,FM,8,69
+2010,60,59,Taiwan (Chinese Taipei),TW,6,69
+2010,60,113,Thailand,TH,6,69
+2010,0,92,Palau Islands,PW,8,70
+2010,59,130,Uganda,UG,1,70
+2010,59,135,Zimbabwe,ZW,1,70
+2010,57,120,Saudi Arabia,SA,7,71
+2010,56,116,Belarus,BY,5,72
+2010,0,146,"Ivoire""",CI,1,72
+2010,56,95,Georgia,GE,5,72
+2010,54,136,Benin,BJ,1,73
+2010,0,127,Cape Verde Islands,CV,1,73
+2010,54,81,Colombia,CO,3,73
+2010,54,114,Kazakhstan,KZ,6,73
+2010,54,129,Philippines,PH,6,73
+2010,53,93,Bosnia and Herzegovina,BA,5,74
+2010,53,140,Kyrgyzstan,KG,6,74
+2010,52,149,Guinea,GN,1,75
+2010,52,150,Mali,ML,1,75
+2010,52,143,Mauritania,MR,1,75
+2010,51,139,Armenia,AM,7,76
+2010,51,126,Azerbaijan,AZ,5,76
+2010,51,142,Burkina Faso,BF,1,76
+2010,51,138,Morocco,MA,1,76
+2010,51,151,Niger,NE,1,76
+2010,51,173,Nigeria,NG,1,76
+2010,51,145,Senegal,SN,1,76
+2010,51,148,Togo,TG,1,76
+2010,50,132,Dominican Republic,DO,4,77
+2010,50,163,India,IN,6,77
+2010,50,152,Tajikistan,TJ,6,77
+2010,49,94,Albania,AL,5,78
+2010,49,131,Cuba,CU,4,78
+2010,48,166,Algeria,DZ,1,79
+2010,48,160,Guinea-Bissau,GW,1,79
+2010,47,153,Uzbekistan,UZ,6,80
+2010,46,165,Central African Republic,CF,1,81
+2010,0,155,Chad,TD,1,82
+2010,45,171,Liberia,LR,1,82
+2010,45,147,Mongolia,MN,6,82
+2010,45,144,Mozambique,MZ,1,82
+2010,44,158,Bhutan,BT,6,83
+2010,44,157,Madagascar,MG,1,83
+2010,44,141,Sao Tome and Principe,ST,1,83
+2010,0,168,Egypt,EG,1,84
+2010,43,128,Indonesia,ID,6,84
+2010,43,181,Sri Lanka,LK,6,84
+2010,43,172,Vietnam,VN,6,84
+2010,42,186,Bangladesh,BD,6,85
+2010,42,175,Cameroon,CM,1,85
+2010,42,176,Congo (Rep.),CG,1,85
+2010,42,156,Gabon,GA,1,85
+2010,42,154,Haiti,HT,4,85
+2010,42,170,Laos,LA,6,85
+2010,0,99,Timor-Leste,TL,6,85
+2010,41,162,Turkmenistan,TM,6,86
+2010,39,164,Cambodia,KH,6,87
+2010,39,177,Jordan,JO,7,87
+2010,39,191,Libya,LY,1,87
+2010,39,161,Rwanda,RW,1,87
+2010,39,197,Syria,SY,7,87
+2010,38,137,China,CN,6,88
+2010,38,192,Nepal,NP,6,88
+2010,38,194,Yemen,YE,7,88
+2010,37,174,Burundi,BI,1,89
+2010,0,159,Comoro Islands,KM,1,89
+2010,37,169,Equatorial Guinea,GQ,1,89
+2010,37,188,Kosovo,XK,5,89
+2010,36,179,Congo (Dem. Rep.),CD,1,90
+2010,36,184,North Korea,KP,6,90
+2010,36,196,Pakistan,PK,6,90
+2010,35,178,Djibouti,DJ,1,91
+2010,34,167,Angola,AO,1,92
+2010,34,183,Ethiopia,ET,1,92
+2010,34,187,Iran,IR,7,92
+2010,34,180,Myanmar,MM,6,92
+2010,33,190,Eritrea,ER,1,93
+2010,32,189,Lebanon,LB,7,94
+2010,31,195,Somalia,SO,1,95
+2010,30,185,South Sudan,SS,1,96
+2010,30,182,Sudan,SD,1,96
+2010,27,198,Iraq,IQ,7,97
+2010,0,193,Palestinian Territory,PS,7,97
+2010,26,199,Afghanistan,AF,6,98
+2011,173,2,Denmark,DK,5,1
+2011,173,3,Finland,FI,5,1
+2011,173,9,Sweden,SE,5,1
+2011,172,1,Germany,DE,5,2
+2011,171,12,Belgium,BE,5,3
+2011,171,4,France,FR,5,3
+2011,171,5,Italy,IT,5,3
+2011,171,13,Luxembourg,LU,5,3
+2011,171,14,Netherlands,NL,5,3
+2011,171,10,United Kingdom,GB,5,3
+2011,170,6,Japan,JP,6,4
+2011,170,7,Norway,NO,5,4
+2011,170,19,Portugal,PT,5,4
+2011,170,15,Spain,ES,5,4
+2011,169,17,Ireland,IE,5,5
+2011,169,20,United States,US,3,5
+2011,168,11,Austria,AT,5,6
+2011,167,16,Switzerland,CH,5,7
+2011,166,22,Australia,AU,8,8
+2011,166,23,Greece,GR,5,8
+2011,166,24,New Zealand,NZ,8,8
+2011,164,21,Canada,CA,3,9
+2011,164,26,Iceland,IS,5,9
+2011,164,8,Singapore,SG,6,9
+2011,163,18,South Korea,KR,6,10
+2011,160,27,Malta,MT,5,11
+2011,158,29,Liechtenstein,LI,5,12
+2011,158,34,Malaysia,MY,6,12
+2011,157,28,Hungary,HU,5,13
+2011,157,30,Slovakia,SK,5,13
+2011,156,31,Slovenia,SI,5,14
+2011,155,25,Czech Republic,CZ,5,15
+2011,154,36,Poland,PL,5,16
+2011,153,35,Estonia,EE,5,17
+2011,153,32,Latvia,LV,5,17
+2011,153,33,Lithuania,LT,5,17
+2011,150,39,Cyprus,CY,5,18
+2011,150,37,Monaco,MC,5,18
+2011,149,45,Hong Kong (SAR China),HK,6,19
+2011,148,43,San Marino,SM,5,20
+2011,144,48,Brunei,BN,6,21
+2011,144,47,Romania,RO,5,21
+2011,143,42,Andorra,AD,5,22
+2011,143,46,Bulgaria,BG,5,22
+2011,142,49,Israel,IL,7,23
+2011,141,40,Argentina,AR,3,24
+2011,141,38,Chile,CL,3,24
+2011,140,41,Brazil,BR,3,25
+2011,137,50,Barbados,BB,4,26
+2011,136,52,Bahamas,BS,4,27
+2011,131,55,St. Kitts and Nevis,KN,4,28
+2011,129,51,Mexico,MX,3,29
+2011,128,58,Antigua and Barbuda,AG,4,30
+2011,127,54,Uruguay,UY,3,31
+2011,125,56,Vatican City,VA,5,32
+2011,124,53,Seychelles,SC,1,33
+2011,124,64,Venezuela,VE,3,33
+2011,122,44,Croatia,HR,5,34
+2011,122,60,Mauritius,MU,1,34
+2011,121,63,Paraguay,PY,3,35
+2011,120,57,Costa Rica,CR,3,36
+2011,114,65,Panama,PA,3,37
+2011,113,73,El Salvador,SV,3,38
+2011,112,72,Guatemala,GT,3,39
+2011,112,70,Honduras,HN,3,39
+2011,111,59,Taiwan (Chinese Taipei),TW,6,40
+2011,109,68,Macao (SAR China),MO,6,41
+2011,108,79,Nicaragua,NI,3,42
+2011,100,75,Serbia,RS,5,43
+2011,0,82,North Macedonia,MK,5,44
+2011,97,88,Montenegro,ME,5,45
+2011,95,61,Trinidad and Tobago,TT,4,46
+2011,92,96,South Africa,ZA,1,47
+2011,91,66,St. Lucia,LC,4,48
+2011,91,67,St. Vincent and the Grenadines,VC,4,48
+2011,91,91,Türkiye,TR,5,48
+2011,89,89,Russian Federation,RU,5,49
+2011,87,93,Bosnia and Herzegovina,BA,5,50
+2011,86,69,Grenada,GD,4,51
+2011,84,94,Albania,AL,5,52
+2011,83,97,Belize,BZ,3,53
+2011,82,71,Dominica,DM,4,54
+2011,79,76,Solomon Islands,SB,8,55
+2011,78,77,Samoa,WS,8,56
+2011,76,100,Fiji,FJ,8,57
+2011,76,103,Maldives,MV,6,57
+2011,76,85,Tuvalu,TV,8,57
+2011,75,105,Jamaica,JM,4,58
+2011,75,74,Peru,PE,3,58
+2011,75,78,Vanuatu,VU,8,58
+2011,74,101,Guyana,GY,3,59
+2011,74,86,Kiribati,KI,8,59
+2011,73,104,Nauru,NR,8,60
+2011,73,84,Tonga,TO,8,60
+2011,71,102,Kuwait,KW,7,61
+2011,70,106,Papua New Guinea,PG,8,62
+2011,69,98,Ecuador,EC,3,63
+2011,69,83,Marshall Islands,MH,8,63
+2011,69,121,The Gambia,GM,1,63
+2011,69,80,Ukraine,UA,5,63
+2011,68,108,Botswana,BW,1,64
+2011,67,107,Bolivia,BO,3,65
+2011,67,62,United Arab Emirates,AE,7,65
+2011,66,90,Micronesia,FM,8,66
+2011,66,109,Qatar,QA,7,66
+2011,66,111,Suriname,SR,3,66
+2011,65,110,Bahrain,BH,7,67
+2011,65,118,Kenya,KE,1,67
+2011,65,119,Lesotho,LS,1,67
+2011,65,122,Malawi,MW,1,67
+2011,0,87,Moldova,MD,5,67
+2011,65,112,Namibia,NA,1,67
+2011,0,92,Palau Islands,PW,8,67
+2011,64,133,Sierra Leone,SL,1,68
+2011,63,113,Thailand,TH,6,69
+2011,63,124,Tunisia,TN,1,69
+2011,63,125,Zambia,ZM,1,69
+2011,63,117,eSwatini,SZ,1,69
+2011,62,134,Ghana,GH,1,70
+2011,62,123,Tanzania,TZ,1,70
+2011,60,115,Oman,OM,7,71
+2011,59,130,Uganda,UG,1,72
+2011,58,95,Georgia,GE,5,73
+2011,58,114,Kazakhstan,KZ,6,73
+2011,58,129,Philippines,PH,6,73
+2011,58,120,Saudi Arabia,SA,7,73
+2011,57,116,Belarus,BY,5,74
+2011,56,126,Azerbaijan,AZ,5,75
+2011,56,135,Zimbabwe,ZW,1,75
+2011,0,127,Cape Verde Islands,CV,1,76
+2011,55,140,Kyrgyzstan,KG,6,76
+2011,54,81,Colombia,CO,3,77
+2011,53,136,Benin,BJ,1,78
+2011,53,163,India,IN,6,78
+2011,52,146,"Ivoire""",CI,1,79
+2011,52,131,Cuba,CU,4,79
+2011,52,149,Guinea,GN,1,79
+2011,52,143,Mauritania,MR,1,79
+2011,52,145,Senegal,SN,1,79
+2011,51,139,Armenia,AM,7,80
+2011,51,142,Burkina Faso,BF,1,80
+2011,51,128,Indonesia,ID,6,80
+2011,51,150,Mali,ML,1,80
+2011,51,148,Togo,TG,1,80
+2011,50,138,Morocco,MA,1,81
+2011,50,152,Tajikistan,TJ,6,81
+2011,49,153,Uzbekistan,UZ,6,82
+2011,48,132,Dominican Republic,DO,4,83
+2011,48,160,Guinea-Bissau,GW,1,83
+2011,48,151,Niger,NE,1,83
+2011,46,166,Algeria,DZ,1,84
+2011,46,173,Nigeria,NG,1,84
+2011,46,162,Turkmenistan,TM,6,84
+2011,45,141,Sao Tome and Principe,ST,1,85
+2011,44,158,Bhutan,BT,6,86
+2011,44,165,Central African Republic,CF,1,86
+2011,44,171,Liberia,LR,1,86
+2011,44,157,Madagascar,MG,1,86
+2011,44,144,Mozambique,MZ,1,86
+2011,43,147,Mongolia,MN,6,87
+2011,42,156,Gabon,GA,1,88
+2011,42,154,Haiti,HT,4,88
+2011,42,170,Laos,LA,6,88
+2011,0,99,Timor-Leste,TL,6,88
+2011,42,172,Vietnam,VN,6,88
+2011,41,155,Chad,TD,1,89
+2011,41,168,Egypt,EG,1,89
+2011,40,164,Cambodia,KH,6,90
+2011,40,137,China,CN,6,90
+2011,40,177,Jordan,JO,7,90
+2011,39,186,Bangladesh,BD,6,91
+2011,39,176,Congo (Rep.),CG,1,91
+2011,39,161,Rwanda,RW,1,91
+2011,39,194,Yemen,YE,7,91
+2011,38,175,Cameroon,CM,1,92
+2011,0,159,Comoro Islands,KM,1,92
+2011,38,191,Libya,LY,1,92
+2011,38,181,Sri Lanka,LK,6,92
+2011,37,169,Equatorial Guinea,GQ,1,93
+2011,37,188,Kosovo,XK,5,93
+2011,37,184,North Korea,KP,6,93
+2011,37,197,Syria,SY,7,93
+2011,36,187,Iran,IR,7,94
+2011,35,174,Burundi,BI,1,95
+2011,35,178,Djibouti,DJ,1,95
+2011,34,167,Angola,AO,1,96
+2011,34,179,Congo (Dem. Rep.),CD,1,96
+2011,34,183,Ethiopia,ET,1,96
+2011,34,180,Myanmar,MM,6,96
+2011,34,192,Nepal,NP,6,96
+2011,33,189,Lebanon,LB,7,97
+2011,33,193,Palestinian Territory,PS,7,97
+2011,32,190,Eritrea,ER,1,98
+2011,32,185,South Sudan,SS,1,98
+2011,32,182,Sudan,SD,1,98
+2011,31,196,Pakistan,PK,6,99
+2011,28,198,Iraq,IQ,7,100
+2011,28,195,Somalia,SO,1,100
+2011,24,199,Afghanistan,AF,6,101
+2012,169,2,Denmark,DK,5,1
+2012,168,3,Finland,FI,5,2
+2012,168,1,Germany,DE,5,2
+2012,168,9,Sweden,SE,5,2
+2012,167,12,Belgium,BE,5,3
+2012,167,4,France,FR,5,3
+2012,167,14,Netherlands,NL,5,3
+2012,167,10,United Kingdom,GB,5,3
+2012,166,5,Italy,IT,5,4
+2012,166,13,Luxembourg,LU,5,4
+2012,166,20,United States,US,3,4
+2012,165,17,Ireland,IE,5,5
+2012,165,6,Japan,JP,6,5
+2012,165,24,New Zealand,NZ,8,5
+2012,165,7,Norway,NO,5,5
+2012,165,19,Portugal,PT,5,5
+2012,165,15,Spain,ES,5,5
+2012,163,22,Australia,AU,8,6
+2012,163,11,Austria,AT,5,6
+2012,163,21,Canada,CA,3,6
+2012,162,23,Greece,GR,5,7
+2012,162,16,Switzerland,CH,5,7
+2012,161,8,Singapore,SG,6,8
+2012,160,18,South Korea,KR,6,9
+2012,159,26,Iceland,IS,5,10
+2012,156,27,Malta,MT,5,11
+2012,155,29,Liechtenstein,LI,5,12
+2012,154,30,Slovakia,SK,5,13
+2012,153,28,Hungary,HU,5,14
+2012,153,34,Malaysia,MY,6,14
+2012,152,25,Czech Republic,CZ,5,15
+2012,151,31,Slovenia,SI,5,16
+2012,150,36,Poland,PL,5,17
+2012,149,35,Estonia,EE,5,18
+2012,148,32,Latvia,LV,5,18
+2012,149,33,Lithuania,LT,5,18
+2012,147,45,Hong Kong (SAR China),HK,6,19
+2012,147,37,Monaco,MC,5,19
+2012,146,39,Cyprus,CY,5,20
+2012,143,43,San Marino,SM,5,21
+2012,141,41,Brazil,BR,3,22
+2012,141,49,Israel,IL,7,22
+2012,140,42,Andorra,AD,5,23
+2012,140,40,Argentina,AR,3,23
+2012,139,48,Brunei,BN,6,24
+2012,138,47,Romania,RO,5,25
+2012,137,46,Bulgaria,BG,5,26
+2012,137,38,Chile,CL,3,26
+2012,135,50,Barbados,BB,4,27
+2012,133,52,Bahamas,BS,4,28
+2012,128,55,St. Kitts and Nevis,KN,4,29
+2012,127,51,Mexico,MX,3,30
+2012,126,58,Antigua and Barbuda,AG,4,31
+2012,125,54,Uruguay,UY,3,32
+2012,124,56,Vatican City,VA,5,33
+2012,123,64,Venezuela,VE,3,34
+2012,122,53,Seychelles,SC,1,35
+2012,120,60,Mauritius,MU,1,36
+2012,120,59,Taiwan (Chinese Taipei),TW,6,36
+2012,119,44,Croatia,HR,5,37
+2012,119,63,Paraguay,PY,3,37
+2012,117,57,Costa Rica,CR,3,38
+2012,113,65,Panama,PA,3,39
+2012,111,73,El Salvador,SV,3,40
+2012,110,70,Honduras,HN,3,41
+2012,109,72,Guatemala,GT,3,42
+2012,107,68,Macao (SAR China),MO,6,43
+2012,105,79,Nicaragua,NI,3,44
+2012,99,75,Serbia,RS,5,45
+2012,98,61,Trinidad and Tobago,TT,4,46
+2012,0,82,North Macedonia,MK,5,47
+2012,95,91,Türkiye,TR,5,48
+2012,94,88,Montenegro,ME,5,49
+2012,94,89,Russian Federation,RU,5,49
+2012,93,96,South Africa,ZA,1,50
+2012,93,66,St. Lucia,LC,4,50
+2012,92,67,St. Vincent and the Grenadines,VC,4,51
+2012,87,93,Bosnia and Herzegovina,BA,5,52
+2012,87,69,Grenada,GD,4,52
+2012,86,97,Belize,BZ,3,53
+2012,85,71,Dominica,DM,4,54
+2012,84,94,Albania,AL,5,55
+2012,81,76,Solomon Islands,SB,8,56
+2012,79,77,Samoa,WS,8,57
+2012,78,103,Maldives,MV,6,58
+2012,77,100,Fiji,FJ,8,59
+2012,77,105,Jamaica,JM,4,59
+2012,77,85,Tuvalu,TV,8,59
+2012,77,78,Vanuatu,VU,8,59
+2012,76,101,Guyana,GY,3,60
+2012,76,74,Peru,PE,3,60
+2012,76,80,Ukraine,UA,5,60
+2012,75,86,Kiribati,KI,8,61
+2012,75,104,Nauru,NR,8,61
+2012,75,84,Tonga,TO,8,61
+2012,72,102,Kuwait,KW,7,62
+2012,72,83,Marshall Islands,MH,8,62
+2012,72,106,Papua New Guinea,PG,8,62
+2012,71,121,The Gambia,GM,1,63
+2012,70,108,Botswana,BW,1,64
+2012,70,98,Ecuador,EC,3,64
+2012,70,111,Suriname,SR,3,64
+2012,70,62,United Arab Emirates,AE,7,64
+2012,69,107,Bolivia,BO,3,65
+2012,67,90,Micronesia,FM,8,66
+2012,68,118,Kenya,KE,1,67
+2012,67,119,Lesotho,LS,1,67
+2012,67,112,Namibia,NA,1,67
+2012,0,92,Palau Islands,PW,8,67
+2012,67,109,Qatar,QA,7,67
+2012,66,110,Bahrain,BH,7,68
+2012,66,122,Malawi,MW,1,68
+2012,0,87,Moldova,MD,5,68
+2012,66,123,Tanzania,TZ,1,68
+2012,66,125,Zambia,ZM,1,68
+2012,66,117,eSwatini,SZ,1,68
+2012,64,113,Thailand,TH,6,69
+2012,63,133,Sierra Leone,SL,1,70
+2012,62,134,Ghana,GH,1,71
+2012,62,124,Tunisia,TN,1,71
+2012,62,130,Uganda,UG,1,71
+2012,61,114,Kazakhstan,KZ,6,72
+2012,61,115,Oman,OM,7,72
+2012,60,95,Georgia,GE,5,73
+2012,59,116,Belarus,BY,5,74
+2012,59,81,Colombia,CO,3,74
+2012,59,129,Philippines,PH,6,74
+2012,59,120,Saudi Arabia,SA,7,74
+2012,58,135,Zimbabwe,ZW,1,75
+2012,57,126,Azerbaijan,AZ,5,76
+2012,0,127,Cape Verde Islands,CV,1,76
+2012,56,131,Cuba,CU,4,77
+2012,56,140,Kyrgyzstan,KG,6,77
+2012,55,136,Benin,BJ,1,78
+2012,54,142,Burkina Faso,BF,1,79
+2012,54,146,"Ivoire""",CI,1,79
+2012,54,150,Mali,ML,1,79
+2012,54,143,Mauritania,MR,1,79
+2012,54,145,Senegal,SN,1,79
+2012,53,148,Togo,TG,1,80
+2012,52,139,Armenia,AM,7,81
+2012,52,128,Indonesia,ID,6,81
+2012,52,151,Niger,NE,1,81
+2012,51,163,India,IN,6,82
+2012,51,138,Morocco,MA,1,82
+2012,51,153,Uzbekistan,UZ,6,82
+2012,50,132,Dominican Republic,DO,4,83
+2012,50,149,Guinea,GN,1,83
+2012,50,160,Guinea-Bissau,GW,1,83
+2012,50,152,Tajikistan,TJ,6,83
+2012,49,147,Mongolia,MN,6,84
+2012,49,144,Mozambique,MZ,1,84
+2012,48,141,Sao Tome and Principe,ST,1,85
+2012,47,165,Central African Republic,CF,1,86
+2012,47,157,Madagascar,MG,1,86
+2012,46,158,Bhutan,BT,6,87
+2012,46,171,Liberia,LR,1,87
+2012,46,173,Nigeria,NG,1,87
+2012,46,162,Turkmenistan,TM,6,87
+2012,45,166,Algeria,DZ,1,88
+2012,45,156,Gabon,GA,1,88
+2012,44,168,Egypt,EG,1,89
+2012,44,170,Laos,LA,6,89
+2012,0,99,Timor-Leste,TL,6,89
+2012,44,172,Vietnam,VN,6,89
+2012,43,155,Chad,TD,1,90
+2012,43,154,Haiti,HT,4,90
+2012,43,177,Jordan,JO,7,90
+2012,43,161,Rwanda,RW,1,90
+2012,42,164,Cambodia,KH,6,91
+2012,42,176,Congo (Rep.),CG,1,91
+2012,41,137,China,CN,6,92
+2012,0,159,Comoro Islands,KM,1,92
+2012,41,194,Yemen,YE,7,92
+2012,40,186,Bangladesh,BD,6,93
+2012,40,174,Burundi,BI,1,93
+2012,40,169,Equatorial Guinea,GQ,1,93
+2012,39,175,Cameroon,CM,1,94
+2012,39,191,Libya,LY,1,94
+2012,39,184,North Korea,KP,6,94
+2012,38,179,Congo (Dem. Rep.),CD,1,95
+2012,38,185,South Sudan,SS,1,95
+2012,37,167,Angola,AO,1,96
+2012,37,178,Djibouti,DJ,1,96
+2012,37,183,Ethiopia,ET,1,96
+2012,37,187,Iran,IR,7,96
+2012,37,188,Kosovo,XK,5,96
+2012,37,180,Myanmar,MM,6,96
+2012,37,181,Sri Lanka,LK,6,96
+2012,37,197,Syria,SY,7,96
+2012,36,182,Sudan,SD,1,97
+2012,35,189,Lebanon,LB,7,98
+2012,35,192,Nepal,NP,6,98
+2012,34,190,Eritrea,ER,1,99
+2012,32,196,Pakistan,PK,6,100
+2012,32,193,Palestinian Territory,PS,7,100
+2012,30,198,Iraq,IQ,7,101
+2012,28,195,Somalia,SO,1,102
+2012,26,199,Afghanistan,AF,6,103
+2013,173,3,Finland,FI,5,1
+2013,173,9,Sweden,SE,5,1
+2013,173,10,United Kingdom,GB,5,1
+2013,172,2,Denmark,DK,5,2
+2013,172,1,Germany,DE,5,2
+2013,172,13,Luxembourg,LU,5,2
+2013,172,20,United States,US,3,2
+2013,171,12,Belgium,BE,5,3
+2013,171,5,Italy,IT,5,3
+2013,171,14,Netherlands,NL,5,3
+2013,170,21,Canada,CA,3,4
+2013,170,4,France,FR,5,4
+2013,170,17,Ireland,IE,5,4
+2013,170,6,Japan,JP,6,4
+2013,170,7,Norway,NO,5,4
+2013,170,19,Portugal,PT,5,4
+2013,170,15,Spain,ES,5,4
+2013,168,11,Austria,AT,5,5
+2013,168,24,New Zealand,NZ,8,5
+2013,168,16,Switzerland,CH,5,5
+2013,167,22,Australia,AU,8,6
+2013,167,23,Greece,GR,5,6
+2013,167,8,Singapore,SG,6,6
+2013,166,18,South Korea,KR,6,7
+2013,165,26,Iceland,IS,5,8
+2013,163,34,Malaysia,MY,6,9
+2013,163,27,Malta,MT,5,9
+2013,159,29,Liechtenstein,LI,5,10
+2013,157,28,Hungary,HU,5,11
+2013,155,25,Czech Republic,CZ,5,12
+2013,155,30,Slovakia,SK,5,12
+2013,155,31,Slovenia,SI,5,12
+2013,153,36,Poland,PL,5,13
+2013,152,35,Estonia,EE,5,14
+2013,152,45,Hong Kong (SAR China),HK,6,14
+2013,152,32,Latvia,LV,5,14
+2013,151,39,Cyprus,CY,5,15
+2013,151,33,Lithuania,LT,5,15
+2013,149,43,San Marino,SM,5,16
+2013,148,37,Monaco,MC,5,17
+2013,147,42,Andorra,AD,5,18
+2013,147,40,Argentina,AR,3,18
+2013,146,41,Brazil,BR,3,19
+2013,146,48,Brunei,BN,6,19
+2013,144,49,Israel,IL,7,20
+2013,141,46,Bulgaria,BG,5,21
+2013,141,38,Chile,CL,3,21
+2013,141,47,Romania,RO,5,21
+2013,137,52,Bahamas,BS,4,22
+2013,137,50,Barbados,BB,4,22
+2013,132,51,Mexico,MX,3,23
+2013,132,54,Uruguay,UY,3,23
+2013,131,55,St. Kitts and Nevis,KN,4,24
+2013,130,58,Antigua and Barbuda,AG,4,25
+2013,130,59,Taiwan (Chinese Taipei),TW,6,25
+2013,130,56,Vatican City,VA,5,25
+2013,129,44,Croatia,HR,5,26
+2013,128,64,Venezuela,VE,3,27
+2013,126,53,Seychelles,SC,1,28
+2013,124,63,Paraguay,PY,3,29
+2013,123,60,Mauritius,MU,1,30
+2013,122,57,Costa Rica,CR,3,31
+2013,121,65,Panama,PA,3,32
+2013,118,68,Macao (SAR China),MO,6,33
+2013,114,72,Guatemala,GT,3,34
+2013,114,70,Honduras,HN,3,34
+2013,113,73,El Salvador,SV,3,35
+2013,109,79,Nicaragua,NI,3,36
+2013,104,75,Serbia,RS,5,37
+2013,0,82,North Macedonia,MK,5,38
+2013,100,61,Trinidad and Tobago,TT,4,39
+2013,98,88,Montenegro,ME,5,40
+2013,95,89,Russian Federation,RU,5,41
+2013,94,96,South Africa,ZA,1,42
+2013,94,66,St. Lucia,LC,4,42
+2013,94,91,Türkiye,TR,5,42
+2013,92,67,St. Vincent and the Grenadines,VC,4,43
+2013,91,93,Bosnia and Herzegovina,BA,5,44
+2013,88,94,Albania,AL,5,45
+2013,88,69,Grenada,GD,4,45
+2013,87,97,Belize,BZ,3,46
+2013,87,71,Dominica,DM,4,46
+2013,84,76,Solomon Islands,SB,8,47
+2013,81,77,Samoa,WS,8,48
+2013,81,85,Tuvalu,TV,8,48
+2013,80,103,Maldives,MV,6,49
+2013,80,74,Peru,PE,3,49
+2013,80,84,Tonga,TO,8,49
+2013,79,78,Vanuatu,VU,8,50
+2013,78,100,Fiji,FJ,8,51
+2013,78,101,Guyana,GY,3,51
+2013,78,86,Kiribati,KI,8,51
+2013,78,104,Nauru,NR,8,51
+2013,77,105,Jamaica,JM,4,52
+2013,77,102,Kuwait,KW,7,52
+2013,77,83,Marshall Islands,MH,8,52
+2013,77,80,Ukraine,UA,5,52
+2013,75,106,Papua New Guinea,PG,8,53
+2013,74,98,Ecuador,EC,3,54
+2013,73,107,Bolivia,BO,3,55
+2013,73,90,Micronesia,FM,8,55
+2013,0,92,Palau Islands,PW,8,56
+2013,72,111,Suriname,SR,3,56
+2013,72,62,United Arab Emirates,AE,7,56
+2013,71,109,Qatar,QA,7,57
+2013,70,108,Botswana,BW,1,58
+2013,69,110,Bahrain,BH,7,59
+2013,68,118,Kenya,KE,1,60
+2013,68,119,Lesotho,LS,1,60
+2013,68,112,Namibia,NA,1,60
+2013,68,113,Thailand,TH,6,60
+2013,68,121,The Gambia,GM,1,60
+2013,67,122,Malawi,MW,1,61
+2013,66,125,Zambia,ZM,1,62
+2013,66,117,eSwatini,SZ,1,62
+2013,65,123,Tanzania,TZ,1,63
+2013,64,120,Saudi Arabia,SA,7,64
+2013,63,81,Colombia,CO,3,65
+2013,63,115,Oman,OM,7,65
+2013,63,133,Sierra Leone,SL,1,65
+2013,63,124,Tunisia,TN,1,65
+2013,63,130,Uganda,UG,1,65
+2013,61,116,Belarus,BY,5,66
+2013,61,131,Cuba,CU,4,66
+2013,61,134,Ghana,GH,1,66
+2013,61,114,Kazakhstan,KZ,6,66
+2013,60,95,Georgia,GE,5,67
+2013,60,135,Zimbabwe,ZW,1,67
+2013,59,87,Moldova,MD,5,68
+2013,58,129,Philippines,PH,6,69
+2013,0,127,Cape Verde Islands,CV,1,70
+2013,56,126,Azerbaijan,AZ,5,71
+2013,56,140,Kyrgyzstan,KG,6,71
+2013,55,139,Armenia,AM,7,72
+2013,55,136,Benin,BJ,1,72
+2013,55,146,"Ivoire""",CI,1,72
+2013,55,143,Mauritania,MR,1,72
+2013,55,145,Senegal,SN,1,72
+2013,53,142,Burkina Faso,BF,1,73
+2013,53,149,Guinea,GN,1,73
+2013,53,128,Indonesia,ID,6,73
+2013,53,150,Mali,ML,1,73
+2013,53,151,Niger,NE,1,73
+2013,53,148,Togo,TG,1,73
+2013,53,132,Dominican Republic,DO,4,74
+2013,52,163,India,IN,6,74
+2013,52,153,Uzbekistan,UZ,6,74
+2013,51,147,Mongolia,MN,6,75
+2013,51,138,Morocco,MA,1,75
+2013,50,141,Sao Tome and Principe,ST,1,76
+2013,50,152,Tajikistan,TJ,6,76
+2013,49,158,Bhutan,BT,6,77
+2013,49,165,Central African Republic,CF,1,77
+2013,49,157,Madagascar,MG,1,77
+2013,49,144,Mozambique,MZ,1,77
+2013,48,160,Guinea-Bissau,GW,1,78
+2013,48,173,Nigeria,NG,1,78
+2013,0,99,Timor-Leste,TL,6,78
+2013,47,166,Algeria,DZ,1,79
+2013,47,164,Cambodia,KH,6,79
+2013,47,168,Egypt,EG,1,79
+2013,47,156,Gabon,GA,1,79
+2013,46,155,Chad,TD,1,80
+2013,46,154,Haiti,HT,4,80
+2013,46,170,Laos,LA,6,80
+2013,46,171,Liberia,LR,1,80
+2013,46,162,Turkmenistan,TM,6,80
+2013,45,172,Vietnam,VN,6,81
+2013,44,175,Cameroon,CM,1,82
+2013,44,137,China,CN,6,82
+2013,44,176,Congo (Rep.),CG,1,82
+2013,44,177,Jordan,JO,7,82
+2013,44,161,Rwanda,RW,1,82
+2013,0,159,Comoro Islands,KM,1,83
+2013,43,194,Yemen,YE,7,83
+2013,42,169,Equatorial Guinea,GQ,1,84
+2013,41,186,Bangladesh,BD,6,85
+2013,41,174,Burundi,BI,1,85
+2013,41,183,Ethiopia,ET,1,85
+2013,41,184,North Korea,KP,6,85
+2013,40,167,Angola,AO,1,86
+2013,40,178,Djibouti,DJ,1,86
+2013,40,187,Iran,IR,7,86
+2013,40,180,Myanmar,MM,6,86
+2013,39,179,Congo (Dem. Rep.),CD,1,87
+2013,39,191,Libya,LY,1,87
+2013,39,185,South Sudan,SS,1,87
+2013,39,197,Syria,SY,7,87
+2013,38,188,Kosovo,XK,5,88
+2013,38,189,Lebanon,LB,7,88
+2013,38,181,Sri Lanka,LK,6,88
+2013,38,182,Sudan,SD,1,88
+2013,37,192,Nepal,NP,6,89
+2013,36,190,Eritrea,ER,1,90
+2013,36,193,Palestinian Territory,PS,7,90
+2013,32,196,Pakistan,PK,6,91
+2013,32,195,Somalia,SO,1,91
+2013,31,198,Iraq,IQ,7,92
+2013,28,199,Afghanistan,AF,6,93
+2014,174,3,Finland,FI,5,1
+2014,174,1,Germany,DE,5,1
+2014,174,9,Sweden,SE,5,1
+2014,174,10,United Kingdom,GB,5,1
+2014,174,20,United States,US,3,1
+2014,173,21,Canada,CA,3,2
+2014,173,2,Denmark,DK,5,2
+2014,172,12,Belgium,BE,5,3
+2014,172,4,France,FR,5,3
+2014,172,5,Italy,IT,5,3
+2014,172,6,Japan,JP,6,3
+2014,172,13,Luxembourg,LU,5,3
+2014,172,14,Netherlands,NL,5,3
+2014,172,19,Portugal,PT,5,3
+2014,172,18,South Korea,KR,6,3
+2014,172,15,Spain,ES,5,3
+2014,171,11,Austria,AT,5,4
+2014,171,17,Ireland,IE,5,4
+2014,171,7,Norway,NO,5,4
+2014,170,24,New Zealand,NZ,8,5
+2014,170,8,Singapore,SG,6,5
+2014,170,16,Switzerland,CH,5,5
+2014,169,23,Greece,GR,5,6
+2014,168,22,Australia,AU,8,7
+2014,166,34,Malaysia,MY,6,8
+2014,166,27,Malta,MT,5,8
+2014,165,26,Iceland,IS,5,9
+2014,162,25,Czech Republic,CZ,5,10
+2014,162,28,Hungary,HU,5,10
+2014,161,29,Liechtenstein,LI,5,11
+2014,161,30,Slovakia,SK,5,11
+2014,160,31,Slovenia,SI,5,12
+2014,158,32,Latvia,LV,5,13
+2014,157,39,Cyprus,CY,5,14
+2014,157,35,Estonia,EE,5,14
+2014,157,33,Lithuania,LT,5,14
+2014,157,36,Poland,PL,5,14
+2014,156,45,Hong Kong (SAR China),HK,6,15
+2014,151,43,San Marino,SM,5,16
+2014,150,40,Argentina,AR,3,17
+2014,150,48,Brunei,BN,6,17
+2014,150,37,Monaco,MC,5,17
+2014,149,46,Bulgaria,BG,5,18
+2014,149,38,Chile,CL,3,18
+2014,148,42,Andorra,AD,5,19
+2014,148,47,Romania,RO,5,19
+2014,147,49,Israel,IL,7,20
+2014,146,41,Brazil,BR,3,21
+2014,138,52,Bahamas,BS,4,22
+2014,138,50,Barbados,BB,4,22
+2014,138,44,Croatia,HR,5,22
+2014,133,51,Mexico,MX,3,23
+2014,133,54,Uruguay,UY,3,23
+2014,132,58,Antigua and Barbuda,AG,4,24
+2014,132,55,St. Kitts and Nevis,KN,4,24
+2014,132,59,Taiwan (Chinese Taipei),TW,6,24
+2014,131,56,Vatican City,VA,5,25
+2014,131,64,Venezuela,VE,3,25
+2014,129,53,Seychelles,SC,1,26
+2014,125,57,Costa Rica,CR,3,27
+2014,125,60,Mauritius,MU,1,27
+2014,124,65,Panama,PA,3,28
+2014,123,63,Paraguay,PY,3,29
+2014,122,68,Macao (SAR China),MO,6,30
+2014,116,70,Honduras,HN,3,31
+2014,114,72,Guatemala,GT,3,32
+2014,112,73,El Salvador,SV,3,33
+2014,110,79,Nicaragua,NI,3,34
+2014,107,75,Serbia,RS,5,35
+2014,0,82,North Macedonia,MK,5,36
+2014,103,61,Trinidad and Tobago,TT,4,37
+2014,100,89,Russian Federation,RU,5,38
+2014,100,91,Türkiye,TR,5,38
+2014,99,88,Montenegro,ME,5,39
+2014,98,66,St. Lucia,LC,4,40
+2014,97,96,South Africa,ZA,1,41
+2014,95,93,Bosnia and Herzegovina,BA,5,42
+2014,94,67,St. Vincent and the Grenadines,VC,4,43
+2014,93,97,Belize,BZ,3,44
+2014,91,94,Albania,AL,5,45
+2014,91,71,Dominica,DM,4,45
+2014,91,69,Grenada,GD,4,45
+2014,89,87,Moldova,MD,5,46
+2014,87,76,Solomon Islands,SB,8,47
+2014,85,77,Samoa,WS,8,48
+2014,85,85,Tuvalu,TV,8,48
+2014,84,103,Maldives,MV,6,49
+2014,83,74,Peru,PE,3,50
+2014,83,84,Tonga,TO,8,50
+2014,82,86,Kiribati,KI,8,51
+2014,82,78,Vanuatu,VU,8,51
+2014,81,100,Fiji,FJ,8,52
+2014,81,101,Guyana,GY,3,52
+2014,81,104,Nauru,NR,8,52
+2014,79,105,Jamaica,JM,4,53
+2014,79,83,Marshall Islands,MH,8,53
+2014,79,80,Ukraine,UA,5,53
+2014,78,98,Ecuador,EC,3,54
+2014,78,102,Kuwait,KW,7,54
+2014,78,106,Papua New Guinea,PG,8,54
+2014,77,62,United Arab Emirates,AE,7,55
+2014,75,90,Micronesia,FM,8,56
+2014,75,109,Qatar,QA,7,56
+2014,74,107,Bolivia,BO,3,57
+2014,0,92,Palau Islands,PW,8,57
+2014,73,108,Botswana,BW,1,58
+2014,72,119,Lesotho,LS,1,59
+2014,72,111,Suriname,SR,3,59
+2014,71,118,Kenya,KE,1,60
+2014,71,112,Namibia,NA,1,60
+2014,70,121,The Gambia,GM,1,61
+2014,70,117,eSwatini,SZ,1,61
+2014,69,110,Bahrain,BH,7,62
+2014,69,122,Malawi,MW,1,62
+2014,69,113,Thailand,TH,6,62
+2014,67,125,Zambia,ZM,1,63
+2014,66,81,Colombia,CO,3,64
+2014,66,114,Kazakhstan,KZ,6,64
+2014,66,115,Oman,OM,7,64
+2014,66,123,Tanzania,TZ,1,64
+2014,65,120,Saudi Arabia,SA,7,65
+2014,65,133,Sierra Leone,SL,1,65
+2014,64,124,Tunisia,TN,1,66
+2014,64,130,Uganda,UG,1,66
+2014,63,116,Belarus,BY,5,67
+2014,63,134,Ghana,GH,1,67
+2014,62,95,Georgia,GE,5,68
+2014,62,129,Philippines,PH,6,68
+2014,61,131,Cuba,CU,4,69
+2014,61,135,Zimbabwe,ZW,1,69
+2014,58,126,Azerbaijan,AZ,5,70
+2014,58,136,Benin,BJ,1,70
+2014,58,140,Kyrgyzstan,KG,6,70
+2014,0,127,Cape Verde Islands,CV,1,71
+2014,57,145,Senegal,SN,1,71
+2014,56,146,"Ivoire""",CI,1,72
+2014,56,128,Indonesia,ID,6,72
+2014,55,139,Armenia,AM,7,73
+2014,55,142,Burkina Faso,BF,1,73
+2014,55,143,Mauritania,MR,1,73
+2014,55,138,Morocco,MA,1,73
+2014,54,149,Guinea,GN,1,74
+2014,54,150,Mali,ML,1,74
+2014,54,151,Niger,NE,1,74
+2014,54,141,Sao Tome and Principe,ST,1,74
+2014,54,148,Togo,TG,1,74
+2014,54,153,Uzbekistan,UZ,6,74
+2014,53,132,Dominican Republic,DO,4,75
+2014,53,152,Tajikistan,TJ,6,75
+2014,52,163,India,IN,6,76
+2014,51,158,Bhutan,BT,6,77
+2014,51,147,Mongolia,MN,6,77
+2014,51,144,Mozambique,MZ,1,77
+2014,0,99,Timor-Leste,TL,6,77
+2014,50,164,Cambodia,KH,6,78
+2014,49,160,Guinea-Bissau,GW,1,79
+2014,49,154,Haiti,HT,4,79
+2014,49,157,Madagascar,MG,1,79
+2014,49,173,Nigeria,NG,1,79
+2014,49,162,Turkmenistan,TM,6,79
+2014,48,165,Central African Republic,CF,1,80
+2014,48,168,Egypt,EG,1,80
+2014,48,170,Laos,LA,6,80
+2014,48,171,Liberia,LR,1,80
+2014,47,155,Chad,TD,1,81
+2014,47,156,Gabon,GA,1,81
+2014,47,172,Vietnam,VN,6,81
+2014,46,166,Algeria,DZ,1,82
+2014,46,175,Cameroon,CM,1,82
+2014,46,161,Rwanda,RW,1,82
+2014,45,137,China,CN,6,83
+2014,0,159,Comoro Islands,KM,1,83
+2014,45,177,Jordan,JO,7,83
+2014,44,176,Congo (Rep.),CG,1,84
+2014,43,169,Equatorial Guinea,GQ,1,85
+2014,43,194,Yemen,YE,7,85
+2014,42,167,Angola,AO,1,86
+2014,42,186,Bangladesh,BD,6,86
+2014,42,174,Burundi,BI,1,86
+2014,42,178,Djibouti,DJ,1,86
+2014,42,180,Myanmar,MM,6,86
+2014,42,184,North Korea,KP,6,86
+2014,40,179,Congo (Dem. Rep.),CD,1,87
+2014,40,187,Iran,IR,7,87
+2014,40,188,Kosovo,XK,5,87
+2014,39,183,Ethiopia,ET,1,88
+2014,39,189,Lebanon,LB,7,88
+2014,39,185,South Sudan,SS,1,88
+2014,39,181,Sri Lanka,LK,6,88
+2014,38,190,Eritrea,ER,1,89
+2014,38,191,Libya,LY,1,89
+2014,38,182,Sudan,SD,1,89
+2014,38,197,Syria,SY,7,89
+2014,37,192,Nepal,NP,6,90
+2014,35,193,Palestinian Territory,PS,7,91
+2014,32,196,Pakistan,PK,6,92
+2014,32,195,Somalia,SO,1,92
+2014,31,198,Iraq,IQ,7,93
+2014,28,199,Afghanistan,AF,6,94
+2015,173,1,Germany,DE,5,1
+2015,173,10,United Kingdom,GB,5,1
+2015,172,3,Finland,FI,5,2
+2015,172,9,Sweden,SE,5,2
+2015,172,20,United States,US,3,2
+2015,171,2,Denmark,DK,5,3
+2015,171,4,France,FR,5,3
+2015,171,5,Italy,IT,5,3
+2015,171,6,Japan,JP,6,3
+2015,171,13,Luxembourg,LU,5,3
+2015,171,14,Netherlands,NL,5,3
+2015,171,7,Norway,NO,5,3
+2015,171,18,South Korea,KR,6,3
+2015,170,12,Belgium,BE,5,4
+2015,170,21,Canada,CA,3,4
+2015,170,24,New Zealand,NZ,8,4
+2015,170,19,Portugal,PT,5,4
+2015,170,15,Spain,ES,5,4
+2015,169,11,Austria,AT,5,5
+2015,169,17,Ireland,IE,5,5
+2015,169,8,Singapore,SG,6,5
+2015,169,16,Switzerland,CH,5,5
+2015,168,22,Australia,AU,8,6
+2015,167,23,Greece,GR,5,7
+2015,166,27,Malta,MT,5,8
+2015,164,26,Iceland,IS,5,9
+2015,163,25,Czech Republic,CZ,5,10
+2015,163,34,Malaysia,MY,6,10
+2015,162,28,Hungary,HU,5,11
+2015,161,29,Liechtenstein,LI,5,12
+2015,161,30,Slovakia,SK,5,12
+2015,160,31,Slovenia,SI,5,13
+2015,159,32,Latvia,LV,5,14
+2015,158,35,Estonia,EE,5,15
+2015,158,33,Lithuania,LT,5,15
+2015,157,39,Cyprus,CY,5,16
+2015,157,36,Poland,PL,5,16
+2015,153,43,San Marino,SM,5,17
+2015,152,45,Hong Kong (SAR China),HK,6,18
+2015,151,37,Monaco,MC,5,19
+2015,150,40,Argentina,AR,3,20
+2015,150,48,Brunei,BN,6,20
+2015,150,38,Chile,CL,3,20
+2015,149,42,Andorra,AD,5,21
+2015,149,46,Bulgaria,BG,5,21
+2015,148,41,Brazil,BR,3,22
+2015,148,47,Romania,RO,5,22
+2015,145,49,Israel,IL,7,23
+2015,141,44,Croatia,HR,5,24
+2015,139,52,Bahamas,BS,4,25
+2015,138,50,Barbados,BB,4,26
+2015,134,54,Uruguay,UY,3,27
+2015,133,58,Antigua and Barbuda,AG,4,28
+2015,133,51,Mexico,MX,3,28
+2015,131,55,St. Kitts and Nevis,KN,4,29
+2015,129,53,Seychelles,SC,1,30
+2015,129,59,Taiwan (Chinese Taipei),TW,6,30
+2015,129,64,Venezuela,VE,3,30
+2015,128,56,Vatican City,VA,5,31
+2015,127,57,Costa Rica,CR,3,32
+2015,126,61,Trinidad and Tobago,TT,4,33
+2015,125,65,Panama,PA,3,34
+2015,124,60,Mauritius,MU,1,35
+2015,123,63,Paraguay,PY,3,36
+2015,121,66,St. Lucia,LC,4,37
+2015,120,68,Macao (SAR China),MO,6,38
+2015,119,67,St. Vincent and the Grenadines,VC,4,39
+2015,117,69,Grenada,GD,4,40
+2015,116,70,Honduras,HN,3,41
+2015,113,71,Dominica,DM,4,42
+2015,113,72,Guatemala,GT,3,42
+2015,113,62,United Arab Emirates,AE,7,42
+2015,112,73,El Salvador,SV,3,43
+2015,110,75,Serbia,RS,5,44
+2015,109,77,Samoa,WS,8,45
+2015,108,79,Nicaragua,NI,3,46
+2015,0,82,North Macedonia,MK,5,46
+2015,106,78,Vanuatu,VU,8,48
+2015,104,88,Montenegro,ME,5,49
+2015,102,89,Russian Federation,RU,5,50
+2015,102,91,Türkiye,TR,5,50
+2015,98,93,Bosnia and Herzegovina,BA,5,52
+2015,95,87,Moldova,MD,5,53
+2015,95,96,South Africa,ZA,1,53
+2015,94,94,Albania,AL,5,54
+2015,91,97,Belize,BZ,3,56
+2015,85,76,Solomon Islands,SB,8,58
+2015,83,85,Tuvalu,TV,8,59
+2015,82,74,Peru,PE,3,60
+2015,81,103,Maldives,MV,6,61
+2015,80,100,Fiji,FJ,8,62
+2015,80,101,Guyana,GY,3,62
+2015,80,86,Kiribati,KI,8,62
+2015,80,84,Tonga,TO,8,62
+2015,79,104,Nauru,NR,8,63
+2015,79,80,Ukraine,UA,5,63
+2015,78,98,Ecuador,EC,3,64
+2015,78,102,Kuwait,KW,7,64
+2015,77,83,Marshall Islands,MH,8,65
+2015,76,105,Jamaica,JM,4,66
+2015,76,106,Papua New Guinea,PG,8,66
+2015,74,109,Qatar,QA,7,67
+2015,73,90,Micronesia,FM,8,68
+2015,0,92,Palau Islands,PW,8,68
+2015,72,108,Botswana,BW,1,69
+2015,71,107,Bolivia,BO,3,70
+2015,70,110,Bahrain,BH,7,71
+2015,70,118,Kenya,KE,1,71
+2015,70,112,Namibia,NA,1,71
+2015,70,111,Suriname,SR,3,71
+2015,69,119,Lesotho,LS,1,72
+2015,68,115,Oman,OM,7,73
+2015,68,113,Thailand,TH,6,73
+2015,67,117,eSwatini,SZ,1,74
+2015,66,81,Colombia,CO,3,75
+2015,66,122,Malawi,MW,1,75
+2015,66,120,Saudi Arabia,SA,7,75
+2015,66,121,The Gambia,GM,1,75
+2015,65,114,Kazakhstan,KZ,6,76
+2015,65,123,Tanzania,TZ,1,76
+2015,65,125,Zambia,ZM,1,76
+2015,63,124,Tunisia,TN,1,77
+2015,62,116,Belarus,BY,5,78
+2015,61,95,Georgia,GE,5,79
+2015,61,134,Ghana,GH,1,79
+2015,61,130,Uganda,UG,1,79
+2015,60,129,Philippines,PH,6,80
+2015,59,131,Cuba,CU,4,81
+2015,58,126,Azerbaijan,AZ,5,82
+2015,0,127,Cape Verde Islands,CV,1,82
+2015,58,135,Zimbabwe,ZW,1,82
+2015,56,136,Benin,BJ,1,83
+2015,56,140,Kyrgyzstan,KG,6,83
+2015,56,138,Morocco,MA,1,83
+2015,55,128,Indonesia,ID,6,84
+2015,54,146,"Ivoire""",CI,1,85
+2015,53,143,Mauritania,MR,1,86
+2015,53,145,Senegal,SN,1,86
+2015,52,139,Armenia,AM,7,87
+2015,52,142,Burkina Faso,BF,1,87
+2015,52,147,Mongolia,MN,6,87
+2015,52,153,Uzbekistan,UZ,6,87
+2015,51,132,Dominican Republic,DO,4,88
+2015,51,163,India,IN,6,88
+2015,51,151,Niger,NE,1,88
+2015,51,152,Tajikistan,TJ,6,88
+2015,51,148,Togo,TG,1,88
+2015,50,150,Mali,ML,1,89
+2015,50,141,Sao Tome and Principe,ST,1,89
+2015,0,99,Timor-Leste,TL,6,89
+2015,49,144,Mozambique,MZ,1,90
+2015,49,133,Sierra Leone,SL,1,90
+2015,48,158,Bhutan,BT,6,91
+2015,47,164,Cambodia,KH,6,92
+2015,47,155,Chad,TD,1,92
+2015,47,168,Egypt,EG,1,92
+2015,47,156,Gabon,GA,1,92
+2015,47,161,Rwanda,RW,1,92
+2015,47,162,Turkmenistan,TM,6,92
+2015,46,160,Guinea-Bissau,GW,1,93
+2015,46,157,Madagascar,MG,1,93
+2015,45,166,Algeria,DZ,1,94
+2015,45,137,China,CN,6,94
+2015,0,159,Comoro Islands,KM,1,94
+2015,45,154,Haiti,HT,4,94
+2015,45,170,Laos,LA,6,94
+2015,45,172,Vietnam,VN,6,94
+2015,44,175,Cameroon,CM,1,95
+2015,44,165,Central African Republic,CF,1,95
+2015,44,177,Jordan,JO,7,95
+2015,44,173,Nigeria,NG,1,95
+2015,43,149,Guinea,GN,1,96
+2015,42,169,Equatorial Guinea,GQ,1,97
+2015,41,174,Burundi,BI,1,98
+2015,41,176,Congo (Rep.),CG,1,98
+2015,41,178,Djibouti,DJ,1,98
+2015,40,167,Angola,AO,1,99
+2015,40,186,Bangladesh,BD,6,99
+2015,40,180,Myanmar,MM,6,99
+2015,39,184,North Korea,KP,6,100
+2015,39,194,Yemen,YE,7,100
+2015,38,181,Sri Lanka,LK,6,101
+2015,37,179,Congo (Dem. Rep.),CD,1,102
+2015,37,187,Iran,IR,7,102
+2015,37,189,Lebanon,LB,7,102
+2015,37,171,Liberia,LR,1,102
+2015,37,191,Libya,LY,1,102
+2015,36,188,Kosovo,XK,5,103
+2015,35,183,Ethiopia,ET,1,104
+2015,35,185,South Sudan,SS,1,104
+2015,35,182,Sudan,SD,1,104
+2015,34,190,Eritrea,ER,1,105
+2015,34,192,Nepal,NP,6,105
+2015,34,193,Palestinian Territory,PS,7,105
+2015,33,197,Syria,SY,7,106
+2015,31,196,Pakistan,PK,6,107
+2015,30,195,Somalia,SO,1,108
+2015,29,198,Iraq,IQ,7,109
+2015,25,199,Afghanistan,AF,6,110
+2016,177,1,Germany,DE,5,1
+2016,176,9,Sweden,SE,5,2
+2016,175,3,Finland,FI,5,3
+2016,175,4,France,FR,5,3
+2016,175,5,Italy,IT,5,3
+2016,175,15,Spain,ES,5,3
+2016,175,10,United Kingdom,GB,5,3
+2016,174,12,Belgium,BE,5,4
+2016,174,2,Denmark,DK,5,4
+2016,174,14,Netherlands,NL,5,4
+2016,174,20,United States,US,3,4
+2016,173,11,Austria,AT,5,5
+2016,173,6,Japan,JP,6,5
+2016,173,8,Singapore,SG,6,5
+2016,172,21,Canada,CA,3,6
+2016,172,17,Ireland,IE,5,6
+2016,172,13,Luxembourg,LU,5,6
+2016,172,7,Norway,NO,5,6
+2016,172,19,Portugal,PT,5,6
+2016,172,18,South Korea,KR,6,6
+2016,172,16,Switzerland,CH,5,6
+2016,171,23,Greece,GR,5,7
+2016,171,24,New Zealand,NZ,8,7
+2016,169,22,Australia,AU,8,8
+2016,168,27,Malta,MT,5,9
+2016,167,25,Czech Republic,CZ,5,10
+2016,167,28,Hungary,HU,5,10
+2016,167,26,Iceland,IS,5,10
+2016,165,30,Slovakia,SK,5,11
+2016,164,29,Liechtenstein,LI,5,12
+2016,164,34,Malaysia,MY,6,12
+2016,164,31,Slovenia,SI,5,12
+2016,163,32,Latvia,LV,5,13
+2016,162,35,Estonia,EE,5,14
+2016,162,33,Lithuania,LT,5,14
+2016,161,36,Poland,PL,5,15
+2016,160,37,Monaco,MC,5,16
+2016,159,39,Cyprus,CY,5,17
+2016,156,43,San Marino,SM,5,18
+2016,155,38,Chile,CL,3,19
+2016,154,45,Hong Kong (SAR China),HK,6,20
+2016,153,41,Brazil,BR,3,21
+2016,153,46,Bulgaria,BG,5,21
+2016,153,47,Romania,RO,5,21
+2016,152,42,Andorra,AD,5,22
+2016,152,40,Argentina,AR,3,22
+2016,151,48,Brunei,BN,6,23
+2016,149,44,Croatia,HR,5,24
+2016,147,49,Israel,IL,7,25
+2016,141,50,Barbados,BB,4,26
+2016,140,52,Bahamas,BS,4,27
+2016,139,51,Mexico,MX,3,28
+2016,137,59,Taiwan (Chinese Taipei),TW,6,29
+2016,137,54,Uruguay,UY,3,29
+2016,134,58,Antigua and Barbuda,AG,4,30
+2016,134,56,Vatican City,VA,5,30
+2016,133,53,Seychelles,SC,1,31
+2016,132,55,St. Kitts and Nevis,KN,4,32
+2016,132,64,Venezuela,VE,3,32
+2016,131,57,Costa Rica,CR,3,33
+2016,130,61,Trinidad and Tobago,TT,4,34
+2016,128,60,Mauritius,MU,1,35
+2016,127,65,Panama,PA,3,36
+2016,125,63,Paraguay,PY,3,37
+2016,125,66,St. Lucia,LC,4,37
+2016,125,67,St. Vincent and the Grenadines,VC,4,37
+2016,122,62,United Arab Emirates,AE,7,38
+2016,121,69,Grenada,GD,4,39
+2016,120,68,Macao (SAR China),MO,6,40
+2016,119,71,Dominica,DM,4,41
+2016,119,70,Honduras,HN,3,41
+2016,116,72,Guatemala,GT,3,42
+2016,115,73,El Salvador,SV,3,43
+2016,115,75,Serbia,RS,5,43
+2016,112,77,Samoa,WS,8,44
+2016,0,82,North Macedonia,MK,5,45
+2016,110,79,Nicaragua,NI,3,46
+2016,110,84,Tonga,TO,8,46
+2016,110,78,Vanuatu,VU,8,46
+2016,107,88,Montenegro,ME,5,47
+2016,105,89,Russian Federation,RU,5,48
+2016,0,92,Palau Islands,PW,8,49
+2016,103,81,Colombia,CO,3,50
+2016,102,91,Türkiye,TR,5,51
+2016,101,93,Bosnia and Herzegovina,BA,5,52
+2016,101,87,Moldova,MD,5,52
+2016,98,94,Albania,AL,5,53
+2016,97,96,South Africa,ZA,1,54
+2016,94,97,Belize,BZ,3,55
+2016,86,74,Peru,PE,3,56
+2016,86,76,Solomon Islands,SB,8,56
+2016,82,101,Guyana,GY,3,57
+2016,82,102,Kuwait,KW,7,57
+2016,0,99,Timor-Leste,TL,6,57
+2016,82,85,Tuvalu,TV,8,57
+2016,81,98,Ecuador,EC,3,58
+2016,81,100,Fiji,FJ,8,58
+2016,81,80,Ukraine,UA,5,58
+2016,80,103,Maldives,MV,6,59
+2016,80,104,Nauru,NR,8,59
+2016,79,86,Kiribati,KI,8,60
+2016,79,83,Marshall Islands,MH,8,60
+2016,79,109,Qatar,QA,7,60
+2016,78,105,Jamaica,JM,4,61
+2016,77,106,Papua New Guinea,PG,8,62
+2016,75,90,Micronesia,FM,8,63
+2016,74,111,Suriname,SR,3,64
+2016,73,110,Bahrain,BH,7,65
+2016,72,107,Bolivia,BO,3,66
+2016,72,108,Botswana,BW,1,66
+2016,71,115,Oman,OM,7,67
+2016,71,113,Thailand,TH,6,67
+2016,70,112,Namibia,NA,1,68
+2016,69,119,Lesotho,LS,1,69
+2016,69,120,Saudi Arabia,SA,7,69
+2016,68,118,Kenya,KE,1,70
+2016,67,116,Belarus,BY,5,71
+2016,67,95,Georgia,GE,5,71
+2016,67,114,Kazakhstan,KZ,6,71
+2016,67,122,Malawi,MW,1,71
+2016,67,121,The Gambia,GM,1,71
+2016,67,117,eSwatini,SZ,1,71
+2016,65,123,Tanzania,TZ,1,72
+2016,65,124,Tunisia,TN,1,72
+2016,64,134,Ghana,GH,1,73
+2016,63,125,Zambia,ZM,1,74
+2016,62,126,Azerbaijan,AZ,5,75
+2016,0,127,Cape Verde Islands,CV,1,76
+2016,61,129,Philippines,PH,6,76
+2016,60,130,Uganda,UG,1,77
+2016,59,136,Benin,BJ,1,78
+2016,59,131,Cuba,CU,4,78
+2016,59,138,Morocco,MA,1,78
+2016,59,135,Zimbabwe,ZW,1,78
+2016,58,128,Indonesia,ID,6,79
+2016,58,140,Kyrgyzstan,KG,6,79
+2016,57,139,Armenia,AM,7,80
+2016,56,142,Burkina Faso,BF,1,81
+2016,56,146,"Ivoire""",CI,1,81
+2016,56,147,Mongolia,MN,6,81
+2016,55,143,Mauritania,MR,1,82
+2016,55,151,Niger,NE,1,82
+2016,55,145,Senegal,SN,1,82
+2016,55,148,Togo,TG,1,82
+2016,54,132,Dominican Republic,DO,4,83
+2016,54,141,Sao Tome and Principe,ST,1,83
+2016,53,152,Tajikistan,TJ,6,84
+2016,52,163,India,IN,6,85
+2016,52,150,Mali,ML,1,85
+2016,52,153,Uzbekistan,UZ,6,85
+2016,51,158,Bhutan,BT,6,86
+2016,51,160,Guinea-Bissau,GW,1,86
+2016,51,144,Mozambique,MZ,1,86
+2016,51,133,Sierra Leone,SL,1,86
+2016,50,164,Cambodia,KH,6,87
+2016,50,137,China,CN,6,87
+2016,49,155,Chad,TD,1,88
+2016,49,168,Egypt,EG,1,88
+2016,49,156,Gabon,GA,1,88
+2016,49,162,Turkmenistan,TM,6,88
+2016,48,166,Algeria,DZ,1,89
+2016,48,165,Central African Republic,CF,1,89
+2016,48,154,Haiti,HT,4,89
+2016,48,157,Madagascar,MG,1,89
+2016,48,161,Rwanda,RW,1,89
+2016,0,159,Comoro Islands,KM,1,90
+2016,47,177,Jordan,JO,7,90
+2016,47,170,Laos,LA,6,90
+2016,47,172,Vietnam,VN,6,90
+2016,46,149,Guinea,GN,1,91
+2016,45,167,Angola,AO,1,92
+2016,45,175,Cameroon,CM,1,92
+2016,45,169,Equatorial Guinea,GQ,1,92
+2016,45,173,Nigeria,NG,1,92
+2016,44,176,Congo (Rep.),CG,1,93
+2016,44,178,Djibouti,DJ,1,93
+2016,43,171,Liberia,LR,1,94
+2016,42,174,Burundi,BI,1,95
+2016,42,180,Myanmar,MM,6,95
+2016,42,184,North Korea,KP,6,95
+2016,39,186,Bangladesh,BD,6,96
+2016,39,179,Congo (Dem. Rep.),CD,1,96
+2016,39,189,Lebanon,LB,7,96
+2016,39,181,Sri Lanka,LK,6,96
+2016,38,188,Kosovo,XK,5,97
+2016,38,185,South Sudan,SS,1,97
+2016,38,194,Yemen,YE,7,97
+2016,37,190,Eritrea,ER,1,98
+2016,37,183,Ethiopia,ET,1,98
+2016,37,187,Iran,IR,7,98
+2016,37,192,Nepal,NP,6,98
+2016,37,193,Palestinian Territory,PS,7,98
+2016,37,182,Sudan,SD,1,98
+2016,36,191,Libya,LY,1,99
+2016,32,197,Syria,SY,7,100
+2016,31,195,Somalia,SO,1,101
+2016,30,198,Iraq,IQ,7,102
+2016,29,196,Pakistan,PK,6,103
+2016,25,199,Afghanistan,AF,6,104
+2017,176,1,Germany,DE,5,1
+2017,175,9,Sweden,SE,5,2
+2017,174,2,Denmark,DK,5,3
+2017,174,3,Finland,FI,5,3
+2017,174,5,Italy,IT,5,3
+2017,174,15,Spain,ES,5,3
+2017,173,11,Austria,AT,5,4
+2017,173,12,Belgium,BE,5,4
+2017,173,4,France,FR,5,4
+2017,173,13,Luxembourg,LU,5,4
+2017,173,14,Netherlands,NL,5,4
+2017,173,7,Norway,NO,5,4
+2017,173,8,Singapore,SG,6,4
+2017,173,10,United Kingdom,GB,5,4
+2017,172,17,Ireland,IE,5,5
+2017,172,6,Japan,JP,6,5
+2017,172,24,New Zealand,NZ,8,5
+2017,171,16,Switzerland,CH,5,5
+2017,172,20,United States,US,3,5
+2017,171,21,Canada,CA,3,6
+2017,171,23,Greece,GR,5,6
+2017,171,19,Portugal,PT,5,6
+2017,170,22,Australia,AU,8,7
+2017,170,18,South Korea,KR,6,7
+2017,169,26,Iceland,IS,5,8
+2017,168,25,Czech Republic,CZ,5,9
+2017,167,28,Hungary,HU,5,10
+2017,167,27,Malta,MT,5,10
+2017,166,33,Lithuania,LT,5,11
+2017,165,32,Latvia,LV,5,12
+2017,165,29,Liechtenstein,LI,5,12
+2017,165,30,Slovakia,SK,5,12
+2017,165,31,Slovenia,SI,5,12
+2017,164,35,Estonia,EE,5,13
+2017,164,34,Malaysia,MY,6,13
+2017,162,36,Poland,PL,5,14
+2017,160,37,Monaco,MC,5,15
+2017,158,39,Cyprus,CY,5,16
+2017,157,38,Chile,CL,3,17
+2017,156,41,Brazil,BR,3,18
+2017,155,42,Andorra,AD,5,19
+2017,155,43,San Marino,SM,5,19
+2017,154,40,Argentina,AR,3,20
+2017,154,46,Bulgaria,BG,5,20
+2017,153,44,Croatia,HR,5,21
+2017,153,47,Romania,RO,5,21
+2017,152,48,Brunei,BN,6,22
+2017,152,45,Hong Kong (SAR China),HK,6,22
+2017,148,49,Israel,IL,7,24
+2017,143,50,Barbados,BB,4,25
+2017,141,52,Bahamas,BS,4,26
+2017,142,51,Mexico,MX,3,26
+2017,138,54,Uruguay,UY,3,28
+2017,137,53,Seychelles,SC,1,29
+2017,136,58,Antigua and Barbuda,AG,4,30
+2017,136,55,St. Kitts and Nevis,KN,4,30
+2017,134,57,Costa Rica,CR,3,31
+2017,134,59,Taiwan (Chinese Taipei),TW,6,31
+2017,134,56,Vatican City,VA,5,31
+2017,132,61,Trinidad and Tobago,TT,4,32
+2017,131,60,Mauritius,MU,1,33
+2017,129,64,Venezuela,VE,3,34
+2017,128,63,Paraguay,PY,3,35
+2017,127,68,Macao (SAR China),MO,6,36
+2017,127,65,Panama,PA,3,36
+2017,127,66,St. Lucia,LC,4,36
+2017,127,67,St. Vincent and the Grenadines,VC,4,36
+2017,124,69,Grenada,GD,4,37
+2017,121,70,Honduras,HN,3,38
+2017,121,62,United Arab Emirates,AE,7,38
+2017,120,73,El Salvador,SV,3,39
+2017,119,71,Dominica,DM,4,40
+2017,119,72,Guatemala,GT,3,40
+2017,118,74,Peru,PE,3,41
+2017,116,76,Solomon Islands,SB,8,42
+2017,115,75,Serbia,RS,5,43
+2017,114,77,Samoa,WS,8,44
+2017,113,78,Vanuatu,VU,8,45
+2017,112,83,Marshall Islands,MH,8,46
+2017,112,79,Nicaragua,NI,3,46
+2017,111,84,Tonga,TO,8,47
+2017,0,82,North Macedonia,MK,5,48
+2017,110,85,Tuvalu,TV,8,48
+2017,109,86,Kiribati,KI,8,49
+2017,107,81,Colombia,CO,3,50
+2017,107,88,Montenegro,ME,5,50
+2017,106,90,Micronesia,FM,8,51
+2017,106,89,Russian Federation,RU,5,51
+2017,0,92,Palau Islands,PW,8,52
+2017,105,91,Türkiye,TR,5,52
+2017,103,93,Bosnia and Herzegovina,BA,5,53
+2017,102,87,Moldova,MD,5,54
+2017,98,94,Albania,AL,5,55
+2017,98,96,South Africa,ZA,1,55
+2017,95,97,Belize,BZ,3,56
+2017,83,98,Ecuador,EC,3,57
+2017,0,99,Timor-Leste,TL,6,57
+2017,82,80,Ukraine,UA,5,58
+2017,81,101,Guyana,GY,3,59
+2017,80,102,Kuwait,KW,7,60
+2017,80,103,Maldives,MV,6,60
+2017,80,104,Nauru,NR,8,60
+2017,79,100,Fiji,FJ,8,61
+2017,78,105,Jamaica,JM,4,62
+2017,76,109,Qatar,QA,7,62
+2017,76,106,Papua New Guinea,PG,8,63
+2017,75,107,Bolivia,BO,3,64
+2017,74,108,Botswana,BW,1,65
+2017,74,111,Suriname,SR,3,65
+2017,73,110,Bahrain,BH,7,66
+2017,71,114,Kazakhstan,KZ,6,67
+2017,71,112,Namibia,NA,1,67
+2017,71,113,Thailand,TH,6,67
+2017,69,95,Georgia,GE,5,68
+2017,69,118,Kenya,KE,1,68
+2017,69,115,Oman,OM,7,68
+2017,68,120,Saudi Arabia,SA,7,69
+2017,67,116,Belarus,BY,5,70
+2017,67,119,Lesotho,LS,1,70
+2017,67,122,Malawi,MW,1,70
+2017,66,121,The Gambia,GM,1,71
+2017,66,117,eSwatini,SZ,1,71
+2017,65,123,Tanzania,TZ,1,72
+2017,0,127,Cape Verde Islands,CV,1,73
+2017,63,124,Tunisia,TN,1,73
+2017,63,125,Zambia,ZM,1,73
+2017,64,126,Azerbaijan,AZ,5,74
+2017,61,129,Philippines,PH,6,75
+2017,61,130,Uganda,UG,1,75
+2017,60,131,Cuba,CU,4,76
+2017,59,134,Ghana,GH,1,77
+2017,59,135,Zimbabwe,ZW,1,77
+2017,58,139,Armenia,AM,7,78
+2017,58,136,Benin,BJ,1,78
+2017,58,140,Kyrgyzstan,KG,6,78
+2017,58,138,Morocco,MA,1,78
+2017,57,128,Indonesia,ID,6,79
+2017,56,142,Burkina Faso,BF,1,80
+2017,56,132,Dominican Republic,DO,4,80
+2017,54,147,Mongolia,MN,6,80
+2017,55,144,Mozambique,MZ,1,81
+2017,55,141,Sao Tome and Principe,ST,1,81
+2017,55,133,Sierra Leone,SL,1,81
+2017,54,143,Mauritania,MR,1,82
+2017,53,146,"Ivoire""",CI,1,83
+2017,53,145,Senegal,SN,1,83
+2017,53,152,Tajikistan,TJ,6,83
+2017,53,148,Togo,TG,1,83
+2017,53,153,Uzbekistan,UZ,6,83
+2017,52,151,Niger,NE,1,84
+2017,51,158,Bhutan,BT,6,85
+2017,51,155,Chad,TD,1,85
+2017,51,137,China,CN,6,85
+2017,51,150,Mali,ML,1,85
+2017,51,161,Rwanda,RW,1,85
+2017,50,156,Gabon,GA,1,86
+2017,50,154,Haiti,HT,4,86
+2017,50,157,Madagascar,MG,1,86
+2017,49,160,Guinea-Bissau,GW,1,87
+2017,49,163,India,IN,6,87
+2017,49,162,Turkmenistan,TM,6,87
+2017,48,166,Algeria,DZ,1,88
+2017,48,164,Cambodia,KH,6,88
+2017,0,159,Comoro Islands,KM,1,88
+2017,48,168,Egypt,EG,1,88
+2017,48,149,Guinea,GN,1,88
+2017,48,170,Laos,LA,6,88
+2017,46,165,Central African Republic,CF,1,89
+2017,46,169,Equatorial Guinea,GQ,1,89
+2017,45,167,Angola,AO,1,90
+2017,45,175,Cameroon,CM,1,90
+2017,45,172,Vietnam,VN,6,90
+2017,44,174,Burundi,BI,1,91
+2017,44,173,Nigeria,NG,1,91
+2017,43,176,Congo (Rep.),CG,1,92
+2017,43,177,Jordan,JO,7,92
+2017,43,171,Liberia,LR,1,92
+2017,41,180,Myanmar,MM,6,93
+2017,40,179,Congo (Dem. Rep.),CD,1,94
+2017,40,178,Djibouti,DJ,1,94
+2017,40,184,North Korea,KP,6,94
+2017,38,186,Bangladesh,BD,6,95
+2017,38,187,Iran,IR,7,95
+2017,38,181,Sri Lanka,LK,6,95
+2017,37,183,Ethiopia,ET,1,96
+2017,37,188,Kosovo,XK,5,96
+2017,37,189,Lebanon,LB,7,96
+2017,37,185,South Sudan,SS,1,96
+2017,36,192,Nepal,NP,6,97
+2017,36,193,Palestinian Territory,PS,7,97
+2017,36,182,Sudan,SD,1,97
+2017,35,190,Eritrea,ER,1,98
+2017,35,194,Yemen,YE,7,98
+2017,33,191,Libya,LY,1,99
+2017,30,195,Somalia,SO,1,100
+2017,29,197,Syria,SY,7,101
+2017,28,196,Pakistan,PK,6,102
+2017,27,198,Iraq,IQ,7,103
+2017,24,199,Afghanistan,AF,6,104
+2018,190,6,Japan,JP,6,1
+2018,189,8,Singapore,SG,6,2
+2018,188,4,France,FR,5,3
+2018,188,1,Germany,DE,5,3
+2018,188,18,South Korea,KR,6,3
+2018,187,2,Denmark,DK,5,4
+2018,187,3,Finland,FI,5,4
+2018,187,5,Italy,IT,5,4
+2018,187,15,Spain,ES,5,4
+2018,187,9,Sweden,SE,5,4
+2018,186,11,Austria,AT,5,5
+2018,186,13,Luxembourg,LU,5,5
+2018,186,14,Netherlands,NL,5,5
+2018,186,7,Norway,NO,5,5
+2018,186,19,Portugal,PT,5,5
+2018,186,10,United Kingdom,GB,5,5
+2018,186,20,United States,US,3,5
+2018,185,12,Belgium,BE,5,6
+2018,185,21,Canada,CA,3,6
+2018,185,17,Ireland,IE,5,6
+2018,185,16,Switzerland,CH,5,6
+2018,183,22,Australia,AU,8,7
+2018,183,23,Greece,GR,5,7
+2018,183,27,Malta,MT,5,7
+2018,182,25,Czech Republic,CZ,5,8
+2018,182,24,New Zealand,NZ,8,8
+2018,181,26,Iceland,IS,5,9
+2018,180,28,Hungary,HU,5,10
+2018,180,34,Malaysia,MY,6,10
+2018,180,31,Slovenia,SI,5,10
+2018,179,32,Latvia,LV,5,11
+2018,179,33,Lithuania,LT,5,11
+2018,179,30,Slovakia,SK,5,11
+2018,178,35,Estonia,EE,5,12
+2018,178,29,Liechtenstein,LI,5,12
+2018,175,36,Poland,PL,5,13
+2018,174,38,Chile,CL,3,14
+2018,174,37,Monaco,MC,5,14
+2018,173,39,Cyprus,CY,5,15
+2018,171,41,Brazil,BR,3,16
+2018,170,40,Argentina,AR,3,17
+2018,170,45,Hong Kong (SAR China),HK,6,17
+2018,169,46,Bulgaria,BG,5,18
+2018,169,44,Croatia,HR,5,18
+2018,169,47,Romania,RO,5,18
+2018,168,42,Andorra,AD,5,19
+2018,168,43,San Marino,SM,5,19
+2018,165,48,Brunei,BN,6,20
+2018,161,50,Barbados,BB,4,21
+2018,161,49,Israel,IL,7,21
+2018,161,62,United Arab Emirates,AE,7,21
+2018,158,51,Mexico,MX,3,22
+2018,155,52,Bahamas,BS,4,23
+2018,154,54,Uruguay,UY,3,24
+2018,152,53,Seychelles,SC,1,25
+2018,151,55,St. Kitts and Nevis,KN,4,26
+2018,150,58,Antigua and Barbuda,AG,4,27
+2018,149,57,Costa Rica,CR,3,28
+2018,148,59,Taiwan (Chinese Taipei),TW,6,29
+2018,148,56,Vatican City,VA,5,29
+2018,147,61,Trinidad and Tobago,TT,4,30
+2018,146,60,Mauritius,MU,1,31
+2018,146,66,St. Lucia,LC,4,31
+2018,145,67,St. Vincent and the Grenadines,VC,4,32
+2018,144,69,Grenada,GD,4,33
+2018,144,68,Macao (SAR China),MO,6,33
+2018,143,63,Paraguay,PY,3,34
+2018,141,65,Panama,PA,3,35
+2018,138,70,Honduras,HN,3,36
+2018,138,64,Venezuela,VE,3,36
+2018,137,71,Dominica,DM,4,37
+2018,137,73,El Salvador,SV,3,37
+2018,137,72,Guatemala,GT,3,37
+2018,135,74,Peru,PE,3,38
+2018,130,75,Serbia,RS,5,39
+2018,130,76,Solomon Islands,SB,8,39
+2018,129,77,Samoa,WS,8,40
+2018,129,78,Vanuatu,VU,8,40
+2018,128,79,Nicaragua,NI,3,41
+2018,128,80,Ukraine,UA,5,41
+2018,127,81,Colombia,CO,3,42
+2018,127,85,Tuvalu,TV,8,42
+2018,125,82,North Macedonia,MK,5,43
+2018,124,83,Marshall Islands,MH,8,44
+2018,124,84,Tonga,TO,8,44
+2018,123,86,Kiribati,KI,8,45
+2018,123,88,Montenegro,ME,5,45
+2018,122,90,Micronesia,FM,8,46
+2018,122,87,Moldova,MD,5,46
+2018,119,92,Palau Islands,PW,8,47
+2018,119,89,Russian Federation,RU,5,47
+2018,118,93,Bosnia and Herzegovina,BA,5,48
+2018,114,94,Albania,AL,5,49
+2018,112,95,Georgia,GE,5,50
+2018,111,91,Türkiye,TR,5,51
+2018,102,96,South Africa,ZA,1,52
+2018,101,97,Belize,BZ,3,53
+2018,98,99,Timor-Leste,TL,6,54
+2018,93,98,Ecuador,EC,3,55
+2018,93,102,Kuwait,KW,7,55
+2018,90,100,Fiji,FJ,8,56
+2018,88,101,Guyana,GY,3,57
+2018,87,103,Maldives,MV,6,58
+2018,86,104,Nauru,NR,8,59
+2018,85,109,Qatar,QA,7,60
+2018,84,105,Jamaica,JM,4,61
+2018,83,106,Papua New Guinea,PG,8,62
+2018,82,108,Botswana,BW,1,63
+2018,81,110,Bahrain,BH,7,64
+2018,80,111,Suriname,SR,3,65
+2018,79,107,Bolivia,BO,3,66
+2018,78,115,Oman,OM,7,67
+2018,77,116,Belarus,BY,5,68
+2018,77,113,Thailand,TH,6,68
+2018,76,114,Kazakhstan,KZ,6,69
+2018,76,112,Namibia,NA,1,69
+2018,75,120,Saudi Arabia,SA,7,70
+2018,74,137,China,CN,6,71
+2018,74,119,Lesotho,LS,1,71
+2018,73,128,Indonesia,ID,6,72
+2018,71,118,Kenya,KE,1,73
+2018,71,122,Malawi,MW,1,73
+2018,71,117,eSwatini,SZ,1,73
+2018,68,123,Tanzania,TZ,1,74
+2018,68,121,The Gambia,GM,1,74
+2018,68,125,Zambia,ZM,1,74
+2018,66,126,Azerbaijan,AZ,5,75
+2018,66,132,Dominican Republic,DO,4,75
+2018,66,129,Philippines,PH,6,75
+2018,66,124,Tunisia,TN,1,75
+2018,65,127,Cape Verde Islands,CV,1,76
+2018,65,131,Cuba,CU,4,76
+2018,64,130,Uganda,UG,1,77
+2018,64,135,Zimbabwe,ZW,1,77
+2018,63,134,Ghana,GH,1,78
+2018,63,140,Kyrgyzstan,KG,6,78
+2018,62,133,Sierra Leone,SL,1,79
+2018,61,139,Armenia,AM,7,80
+2018,61,136,Benin,BJ,1,80
+2018,61,147,Mongolia,MN,6,80
+2018,61,138,Morocco,MA,1,80
+2018,60,163,India,IN,6,81
+2018,59,153,Uzbekistan,UZ,6,82
+2018,58,143,Mauritania,MR,1,83
+2018,58,144,Mozambique,MZ,1,83
+2018,58,141,Sao Tome and Principe,ST,1,83
+2018,58,152,Tajikistan,TJ,6,83
+2018,57,142,Burkina Faso,BF,1,84
+2018,56,146,"Ivoire""",CI,1,85
+2018,56,149,Guinea,GN,1,85
+2018,56,145,Senegal,SN,1,85
+2018,55,158,Bhutan,BT,6,86
+2018,55,156,Gabon,GA,1,86
+2018,55,150,Mali,ML,1,86
+2018,54,164,Cambodia,KH,6,87
+2018,54,151,Niger,NE,1,87
+2018,54,161,Rwanda,RW,1,87
+2018,54,148,Togo,TG,1,87
+2018,53,155,Chad,TD,1,88
+2018,53,160,Guinea-Bissau,GW,1,88
+2018,53,157,Madagascar,MG,1,88
+2018,53,162,Turkmenistan,TM,6,88
+2018,52,159,Comoro Islands,KM,1,89
+2018,52,169,Equatorial Guinea,GQ,1,89
+2018,52,154,Haiti,HT,4,89
+2018,52,170,Laos,LA,6,89
+2018,51,172,Vietnam,VN,6,90
+2018,50,166,Algeria,DZ,1,91
+2018,50,177,Jordan,JO,7,91
+2018,49,167,Angola,AO,1,92
+2018,49,165,Central African Republic,CF,1,92
+2018,49,168,Egypt,EG,1,92
+2018,48,175,Cameroon,CM,1,93
+2018,48,180,Myanmar,MM,6,93
+2018,47,176,Congo (Rep.),CG,1,94
+2018,47,171,Liberia,LR,1,94
+2018,47,173,Nigeria,NG,1,94
+2018,46,174,Burundi,BI,1,95
+2018,45,178,Djibouti,DJ,1,96
+2018,44,188,Kosovo,XK,5,97
+2018,43,179,Congo (Dem. Rep.),CD,1,98
+2018,43,187,Iran,IR,7,98
+2018,42,183,Ethiopia,ET,1,99
+2018,42,184,North Korea,KP,6,99
+2018,42,181,Sri Lanka,LK,6,99
+2018,41,186,Bangladesh,BD,6,100
+2018,41,189,Lebanon,LB,7,100
+2018,41,191,Libya,LY,1,100
+2018,41,185,South Sudan,SS,1,100
+2018,40,192,Nepal,NP,6,101
+2018,39,190,Eritrea,ER,1,102
+2018,39,193,Palestinian Territory,PS,7,102
+2018,39,182,Sudan,SD,1,102
+2018,37,194,Yemen,YE,7,103
+2018,33,196,Pakistan,PK,6,104
+2018,32,195,Somalia,SO,1,105
+2018,32,197,Syria,SY,7,105
+2018,30,199,Afghanistan,AF,6,106
+2018,30,198,Iraq,IQ,7,106
+2019,190,6,Japan,JP,6,1
+2019,190,8,Singapore,SG,6,1
+2019,188,3,Finland,FI,5,2
+2019,188,1,Germany,DE,5,2
+2019,188,18,South Korea,KR,6,2
+2019,187,2,Denmark,DK,5,3
+2019,187,5,Italy,IT,5,3
+2019,187,13,Luxembourg,LU,5,3
+2019,186,4,France,FR,5,4
+2019,186,15,Spain,ES,5,4
+2019,186,9,Sweden,SE,5,4
+2019,185,11,Austria,AT,5,5
+2019,185,14,Netherlands,NL,5,5
+2019,185,19,Portugal,PT,5,5
+2019,184,12,Belgium,BE,5,6
+2019,184,21,Canada,CA,3,6
+2019,184,23,Greece,GR,5,6
+2019,184,17,Ireland,IE,5,6
+2019,184,7,Norway,NO,5,6
+2019,184,16,Switzerland,CH,5,6
+2019,184,10,United Kingdom,GB,5,6
+2019,184,20,United States,US,3,6
+2019,183,25,Czech Republic,CZ,5,7
+2019,183,27,Malta,MT,5,7
+2019,182,24,New Zealand,NZ,8,8
+2019,181,22,Australia,AU,8,9
+2019,181,33,Lithuania,LT,5,9
+2019,181,30,Slovakia,SK,5,9
+2019,180,28,Hungary,HU,5,10
+2019,180,26,Iceland,IS,5,10
+2019,180,32,Latvia,LV,5,10
+2019,180,31,Slovenia,SI,5,10
+2019,179,35,Estonia,EE,5,11
+2019,177,29,Liechtenstein,LI,5,12
+2019,177,34,Malaysia,MY,6,12
+2019,174,38,Chile,CL,3,13
+2019,174,36,Poland,PL,5,13
+2019,173,39,Cyprus,CY,5,14
+2019,173,37,Monaco,MC,5,14
+2019,172,62,United Arab Emirates,AE,7,15
+2019,171,47,Romania,RO,5,16
+2019,170,40,Argentina,AR,3,17
+2019,170,41,Brazil,BR,3,17
+2019,170,46,Bulgaria,BG,5,17
+2019,168,44,Croatia,HR,5,18
+2019,168,45,Hong Kong (SAR China),HK,6,18
+2019,167,43,San Marino,SM,5,19
+2019,166,42,Andorra,AD,5,20
+2019,165,48,Brunei,BN,6,21
+2019,159,50,Barbados,BB,4,22
+2019,159,49,Israel,IL,7,22
+2019,158,51,Mexico,MX,3,23
+2019,154,52,Bahamas,BS,4,24
+2019,154,55,St. Kitts and Nevis,KN,4,24
+2019,153,54,Uruguay,UY,3,25
+2019,151,53,Seychelles,SC,1,26
+2019,150,57,Costa Rica,CR,3,27
+2019,149,58,Antigua and Barbuda,AG,4,28
+2019,148,61,Trinidad and Tobago,TT,4,29
+2019,148,56,Vatican City,VA,5,29
+2019,146,60,Mauritius,MU,1,30
+2019,145,66,St. Lucia,LC,4,31
+2019,145,67,St. Vincent and the Grenadines,VC,4,31
+2019,145,59,Taiwan (Chinese Taipei),TW,6,31
+2019,142,69,Grenada,GD,4,32
+2019,142,63,Paraguay,PY,3,32
+2019,141,68,Macao (SAR China),MO,6,33
+2019,140,65,Panama,PA,3,34
+2019,137,71,Dominica,DM,4,35
+2019,135,74,Peru,PE,3,36
+2019,134,73,El Salvador,SV,3,37
+2019,134,70,Honduras,HN,3,37
+2019,132,72,Guatemala,GT,3,38
+2019,132,64,Venezuela,VE,3,38
+2019,131,77,Samoa,WS,8,39
+2019,131,75,Serbia,RS,5,39
+2019,130,76,Solomon Islands,SB,8,40
+2019,130,78,Vanuatu,VU,8,40
+2019,128,79,Nicaragua,NI,3,41
+2019,127,85,Tuvalu,TV,8,42
+2019,126,81,Colombia,CO,3,43
+2019,126,80,Ukraine,UA,5,43
+2019,125,84,Tonga,TO,8,44
+2019,123,82,North Macedonia,MK,5,45
+2019,122,86,Kiribati,KI,8,46
+2019,122,83,Marshall Islands,MH,8,46
+2019,122,88,Montenegro,ME,5,46
+2019,119,90,Micronesia,FM,8,47
+2019,119,87,Moldova,MD,5,47
+2019,119,92,Palau Islands,PW,8,47
+2019,117,89,Russian Federation,RU,5,48
+2019,116,93,Bosnia and Herzegovina,BA,5,49
+2019,114,95,Georgia,GE,5,50
+2019,113,94,Albania,AL,5,51
+2019,112,91,Türkiye,TR,5,52
+2019,100,96,South Africa,ZA,1,53
+2019,99,97,Belize,BZ,3,54
+2019,95,99,Timor-Leste,TL,6,55
+2019,93,102,Kuwait,KW,7,56
+2019,92,109,Qatar,QA,7,57
+2019,91,98,Ecuador,EC,3,58
+2019,88,100,Fiji,FJ,8,59
+2019,87,101,Guyana,GY,3,60
+2019,87,104,Nauru,NR,8,60
+2019,84,105,Jamaica,JM,4,61
+2019,84,103,Maldives,MV,6,61
+2019,83,108,Botswana,BW,1,62
+2019,83,106,Papua New Guinea,PG,8,62
+2019,81,110,Bahrain,BH,7,63
+2019,79,115,Oman,OM,7,64
+2019,78,107,Bolivia,BO,3,65
+2019,78,111,Suriname,SR,3,65
+2019,77,113,Thailand,TH,6,66
+2019,76,112,Namibia,NA,1,67
+2019,75,116,Belarus,BY,5,68
+2019,75,114,Kazakhstan,KZ,6,68
+2019,74,119,Lesotho,LS,1,69
+2019,74,120,Saudi Arabia,SA,7,69
+2019,73,117,eSwatini,SZ,1,70
+2019,72,122,Malawi,MW,1,71
+2019,71,137,China,CN,6,72
+2019,71,118,Kenya,KE,1,72
+2019,70,128,Indonesia,ID,6,73
+2019,70,125,Zambia,ZM,1,73
+2019,69,121,The Gambia,GM,1,74
+2019,68,123,Tanzania,TZ,1,75
+2019,68,124,Tunisia,TN,1,75
+2019,66,126,Azerbaijan,AZ,5,76
+2019,66,127,Cape Verde Islands,CV,1,76
+2019,66,130,Uganda,UG,1,76
+2019,65,131,Cuba,CU,4,77
+2019,65,134,Ghana,GH,1,77
+2019,65,129,Philippines,PH,6,77
+2019,64,132,Dominican Republic,DO,4,78
+2019,64,135,Zimbabwe,ZW,1,78
+2019,63,133,Sierra Leone,SL,1,79
+2019,62,136,Benin,BJ,1,80
+2019,62,140,Kyrgyzstan,KG,6,80
+2019,62,147,Mongolia,MN,6,80
+2019,62,138,Morocco,MA,1,80
+2019,60,139,Armenia,AM,7,81
+2019,60,144,Mozambique,MZ,1,81
+2019,60,141,Sao Tome and Principe,ST,1,81
+2019,59,163,India,IN,6,82
+2019,58,142,Burkina Faso,BF,1,83
+2019,58,143,Mauritania,MR,1,83
+2019,57,146,"Ivoire""",CI,1,84
+2019,57,161,Rwanda,RW,1,84
+2019,57,152,Tajikistan,TJ,6,84
+2019,56,156,Gabon,GA,1,85
+2019,56,149,Guinea,GN,1,85
+2019,56,153,Uzbekistan,UZ,6,85
+2019,55,145,Senegal,SN,1,86
+2019,55,148,Togo,TG,1,86
+2019,54,160,Guinea-Bissau,GW,1,87
+2019,54,157,Madagascar,MG,1,87
+2019,54,150,Mali,ML,1,87
+2019,54,151,Niger,NE,1,87
+2019,53,164,Cambodia,KH,6,88
+2019,53,155,Chad,TD,1,88
+2019,53,159,Comoro Islands,KM,1,88
+2019,52,158,Bhutan,BT,6,89
+2019,52,169,Equatorial Guinea,GQ,1,89
+2019,51,165,Central African Republic,CF,1,90
+2019,51,162,Turkmenistan,TM,6,90
+2019,51,172,Vietnam,VN,6,90
+2019,50,166,Algeria,DZ,1,91
+2019,49,167,Angola,AO,1,92
+2019,49,175,Cameroon,CM,1,92
+2019,49,168,Egypt,EG,1,92
+2019,49,154,Haiti,HT,4,92
+2019,49,177,Jordan,JO,7,92
+2019,49,170,Laos,LA,6,92
+2019,48,174,Burundi,BI,1,93
+2019,48,171,Liberia,LR,1,93
+2019,47,176,Congo (Rep.),CG,1,94
+2019,46,178,Djibouti,DJ,1,95
+2019,46,180,Myanmar,MM,6,95
+2019,46,173,Nigeria,NG,1,95
+2019,43,181,Sri Lanka,LK,6,96
+2019,42,179,Congo (Dem. Rep.),CD,1,97
+2019,42,183,Ethiopia,ET,1,97
+2019,42,185,South Sudan,SS,1,97
+2019,41,188,Kosovo,XK,5,98
+2019,40,186,Bangladesh,BD,6,99
+2019,40,190,Eritrea,ER,1,99
+2019,40,187,Iran,IR,7,99
+2019,39,189,Lebanon,LB,7,100
+2019,39,184,North Korea,KP,6,100
+2019,38,192,Nepal,NP,6,101
+2019,37,191,Libya,LY,1,102
+2019,37,193,Palestinian Territory,PS,7,102
+2019,37,182,Sudan,SD,1,102
+2019,33,194,Yemen,YE,7,103
+2019,31,196,Pakistan,PK,6,104
+2019,31,195,Somalia,SO,1,104
+2019,29,197,Syria,SY,7,105
+2019,27,198,Iraq,IQ,7,106
+2019,25,199,Afghanistan,AF,6,107
+2020,191,6,Japan,JP,6,1
+2020,190,8,Singapore,SG,6,2
+2020,189,1,Germany,DE,5,3
+2020,189,18,South Korea,KR,6,3
+2020,188,3,Finland,FI,5,4
+2020,188,5,Italy,IT,5,4
+2020,188,13,Luxembourg,LU,5,4
+2020,188,15,Spain,ES,5,4
+2020,187,11,Austria,AT,5,5
+2020,187,2,Denmark,DK,5,5
+2020,186,4,France,FR,5,6
+2020,186,17,Ireland,IE,5,6
+2020,186,14,Netherlands,NL,5,6
+2020,186,19,Portugal,PT,5,6
+2020,186,9,Sweden,SE,5,6
+2020,185,12,Belgium,BE,5,7
+2020,185,24,New Zealand,NZ,8,7
+2020,185,7,Norway,NO,5,7
+2020,185,16,Switzerland,CH,5,7
+2020,185,10,United Kingdom,GB,5,7
+2020,185,20,United States,US,3,7
+2020,184,22,Australia,AU,8,8
+2020,184,25,Czech Republic,CZ,5,8
+2020,184,23,Greece,GR,5,8
+2020,184,27,Malta,MT,5,8
+2020,183,21,Canada,CA,3,9
+2020,182,28,Hungary,HU,5,10
+2020,181,33,Lithuania,LT,5,11
+2020,181,36,Poland,PL,5,11
+2020,181,30,Slovakia,SK,5,11
+2020,180,26,Iceland,IS,5,12
+2020,180,32,Latvia,LV,5,12
+2020,180,31,Slovenia,SI,5,12
+2020,179,35,Estonia,EE,5,13
+2020,178,29,Liechtenstein,LI,5,14
+2020,178,34,Malaysia,MY,6,14
+2020,174,38,Chile,CL,3,15
+2020,174,39,Cyprus,CY,5,15
+2020,174,37,Monaco,MC,5,15
+2020,172,47,Romania,RO,5,16
+2020,171,46,Bulgaria,BG,5,17
+2020,171,44,Croatia,HR,5,17
+2020,170,40,Argentina,AR,3,18
+2020,170,41,Brazil,BR,3,18
+2020,170,45,Hong Kong (SAR China),HK,6,18
+2020,170,62,United Arab Emirates,AE,7,18
+2020,168,43,San Marino,SM,5,19
+2020,167,42,Andorra,AD,5,20
+2020,166,48,Brunei,BN,6,21
+2020,161,50,Barbados,BB,4,22
+2020,160,49,Israel,IL,7,23
+2020,159,51,Mexico,MX,3,24
+2020,156,55,St. Kitts and Nevis,KN,4,25
+2020,155,52,Bahamas,BS,4,26
+2020,154,56,Vatican City,VA,5,27
+2020,153,54,Uruguay,UY,3,28
+2020,151,58,Antigua and Barbuda,AG,4,29
+2020,151,53,Seychelles,SC,1,29
+2020,150,57,Costa Rica,CR,3,30
+2020,150,61,Trinidad and Tobago,TT,4,30
+2020,148,60,Mauritius,MU,1,31
+2020,148,67,St. Vincent and the Grenadines,VC,4,31
+2020,146,66,St. Lucia,LC,4,32
+2020,146,59,Taiwan (Chinese Taipei),TW,6,32
+2020,144,69,Grenada,GD,4,33
+2020,144,68,Macao (SAR China),MO,6,33
+2020,142,65,Panama,PA,3,34
+2020,141,71,Dominica,DM,4,35
+2020,141,63,Paraguay,PY,3,35
+2020,135,74,Peru,PE,3,36
+2020,134,73,El Salvador,SV,3,37
+2020,134,70,Honduras,HN,3,37
+2020,134,75,Serbia,RS,5,37
+2020,133,72,Guatemala,GT,3,38
+2020,131,77,Samoa,WS,8,39
+2020,131,76,Solomon Islands,SB,8,39
+2020,130,78,Vanuatu,VU,8,40
+2020,129,79,Nicaragua,NI,3,41
+2020,129,80,Ukraine,UA,5,41
+2020,129,64,Venezuela,VE,3,41
+2020,127,81,Colombia,CO,3,42
+2020,127,85,Tuvalu,TV,8,42
+2020,125,84,Tonga,TO,8,43
+2020,124,88,Montenegro,ME,5,44
+2020,124,82,North Macedonia,MK,5,44
+2020,123,86,Kiribati,KI,8,45
+2020,123,83,Marshall Islands,MH,8,45
+2020,120,87,Moldova,MD,5,46
+2020,120,92,Palau Islands,PW,8,46
+2020,118,90,Micronesia,FM,8,47
+2020,117,93,Bosnia and Herzegovina,BA,5,48
+2020,117,89,Russian Federation,RU,5,48
+2020,115,95,Georgia,GE,5,49
+2020,114,94,Albania,AL,5,50
+2020,111,91,Türkiye,TR,5,51
+2020,101,97,Belize,BZ,3,52
+2020,101,96,South Africa,ZA,1,52
+2020,96,102,Kuwait,KW,7,53
+2020,95,109,Qatar,QA,7,54
+2020,95,99,Timor-Leste,TL,6,54
+2020,91,98,Ecuador,EC,3,55
+2020,89,104,Nauru,NR,8,56
+2020,88,100,Fiji,FJ,8,57
+2020,88,101,Guyana,GY,3,57
+2020,86,105,Jamaica,JM,4,58
+2020,85,108,Botswana,BW,1,59
+2020,85,103,Maldives,MV,6,59
+2020,84,106,Papua New Guinea,PG,8,60
+2020,83,110,Bahrain,BH,7,61
+2020,80,115,Oman,OM,7,62
+2020,79,113,Thailand,TH,6,63
+2020,78,107,Bolivia,BO,3,64
+2020,78,120,Saudi Arabia,SA,7,64
+2020,78,111,Suriname,SR,3,64
+2020,77,112,Namibia,NA,1,65
+2020,76,119,Lesotho,LS,1,66
+2020,75,116,Belarus,BY,5,67
+2020,75,137,China,CN,6,67
+2020,75,114,Kazakhstan,KZ,6,67
+2020,74,117,eSwatini,SZ,1,68
+2020,73,122,Malawi,MW,1,69
+2020,72,118,Kenya,KE,1,70
+2020,71,128,Indonesia,ID,6,71
+2020,71,123,Tanzania,TZ,1,71
+2020,71,124,Tunisia,TN,1,71
+2020,71,125,Zambia,ZM,1,71
+2020,68,121,The Gambia,GM,1,72
+2020,67,126,Azerbaijan,AZ,5,73
+2020,67,130,Uganda,UG,1,73
+2020,66,127,Cape Verde Islands,CV,1,74
+2020,66,132,Dominican Republic,DO,4,74
+2020,66,129,Philippines,PH,6,74
+2020,65,134,Ghana,GH,1,75
+2020,65,135,Zimbabwe,ZW,1,75
+2020,64,131,Cuba,CU,4,76
+2020,64,138,Morocco,MA,1,76
+2020,63,139,Armenia,AM,7,77
+2020,63,140,Kyrgyzstan,KG,6,77
+2020,63,133,Sierra Leone,SL,1,77
+2020,62,136,Benin,BJ,1,78
+2020,62,147,Mongolia,MN,6,78
+2020,62,144,Mozambique,MZ,1,78
+2020,61,141,Sao Tome and Principe,ST,1,79
+2020,60,161,Rwanda,RW,1,80
+2020,59,142,Burkina Faso,BF,1,81
+2020,59,143,Mauritania,MR,1,81
+2020,58,163,India,IN,6,82
+2020,58,152,Tajikistan,TJ,6,82
+2020,57,146,"Ivoire""",CI,1,83
+2020,57,156,Gabon,GA,1,83
+2020,57,153,Uzbekistan,UZ,6,83
+2020,56,145,Senegal,SN,1,84
+2020,55,169,Equatorial Guinea,GQ,1,85
+2020,55,149,Guinea,GN,1,85
+2020,55,157,Madagascar,MG,1,85
+2020,55,148,Togo,TG,1,85
+2020,54,164,Cambodia,KH,6,86
+2020,54,150,Mali,ML,1,86
+2020,54,151,Niger,NE,1,86
+2020,54,172,Vietnam,VN,6,86
+2020,53,158,Bhutan,BT,6,87
+2020,53,155,Chad,TD,1,87
+2020,53,159,Comoro Islands,KM,1,87
+2020,53,160,Guinea-Bissau,GW,1,87
+2020,53,162,Turkmenistan,TM,6,87
+2020,52,165,Central African Republic,CF,1,88
+2020,51,166,Algeria,DZ,1,89
+2020,51,177,Jordan,JO,7,89
+2020,50,167,Angola,AO,1,90
+2020,50,174,Burundi,BI,1,90
+2020,50,168,Egypt,EG,1,90
+2020,50,170,Laos,LA,6,90
+2020,49,175,Cameroon,CM,1,91
+2020,49,154,Haiti,HT,4,91
+2020,49,171,Liberia,LR,1,91
+2020,48,176,Congo (Rep.),CG,1,92
+2020,47,178,Djibouti,DJ,1,93
+2020,47,180,Myanmar,MM,6,93
+2020,46,173,Nigeria,NG,1,94
+2020,44,183,Ethiopia,ET,1,95
+2020,43,185,South Sudan,SS,1,96
+2020,42,179,Congo (Dem. Rep.),CD,1,97
+2020,42,190,Eritrea,ER,1,97
+2020,42,181,Sri Lanka,LK,6,97
+2020,41,186,Bangladesh,BD,6,98
+2020,41,187,Iran,IR,7,98
+2020,40,188,Kosovo,XK,5,99
+2020,40,189,Lebanon,LB,7,99
+2020,40,182,Sudan,SD,1,99
+2020,39,184,North Korea,KP,6,100
+2020,38,191,Libya,LY,1,101
+2020,38,192,Nepal,NP,6,101
+2020,38,193,Palestinian Territory,PS,7,101
+2020,33,195,Somalia,SO,1,102
+2020,33,194,Yemen,YE,7,102
+2020,32,196,Pakistan,PK,6,103
+2020,29,197,Syria,SY,7,104
+2020,28,198,Iraq,IQ,7,105
+2020,26,199,Afghanistan,AF,6,106
+2021,192,6,Japan,JP,6,1
+2021,192,8,Singapore,SG,6,1
+2021,190,1,Germany,DE,5,2
+2021,190,18,South Korea,KR,6,2
+2021,189,3,Finland,FI,5,3
+2021,189,5,Italy,IT,5,3
+2021,189,13,Luxembourg,LU,5,3
+2021,189,15,Spain,ES,5,3
+2021,188,11,Austria,AT,5,4
+2021,188,2,Denmark,DK,5,4
+2021,187,4,France,FR,5,5
+2021,187,17,Ireland,IE,5,5
+2021,187,14,Netherlands,NL,5,5
+2021,187,19,Portugal,PT,5,5
+2021,187,9,Sweden,SE,5,5
+2021,186,12,Belgium,BE,5,6
+2021,186,24,New Zealand,NZ,8,6
+2021,186,16,Switzerland,CH,5,6
+2021,185,25,Czech Republic,CZ,5,7
+2021,185,23,Greece,GR,5,7
+2021,185,27,Malta,MT,5,7
+2021,185,7,Norway,NO,5,7
+2021,185,10,United Kingdom,GB,5,7
+2021,185,20,United States,US,3,7
+2021,184,22,Australia,AU,8,8
+2021,184,21,Canada,CA,3,8
+2021,183,28,Hungary,HU,5,9
+2021,182,33,Lithuania,LT,5,10
+2021,182,36,Poland,PL,5,10
+2021,182,30,Slovakia,SK,5,10
+2021,181,35,Estonia,EE,5,11
+2021,181,32,Latvia,LV,5,11
+2021,181,31,Slovenia,SI,5,11
+2021,180,26,Iceland,IS,5,12
+2021,179,34,Malaysia,MY,6,13
+2021,178,29,Liechtenstein,LI,5,14
+2021,176,39,Cyprus,CY,5,15
+2021,174,38,Chile,CL,3,16
+2021,174,37,Monaco,MC,5,16
+2021,174,47,Romania,RO,5,16
+2021,174,62,United Arab Emirates,AE,7,16
+2021,173,46,Bulgaria,BG,5,17
+2021,172,44,Croatia,HR,5,18
+2021,171,45,Hong Kong (SAR China),HK,6,19
+2021,170,40,Argentina,AR,3,20
+2021,170,41,Brazil,BR,3,20
+2021,169,43,San Marino,SM,5,21
+2021,168,42,Andorra,AD,5,22
+2021,166,48,Brunei,BN,6,23
+2021,161,50,Barbados,BB,4,24
+2021,158,49,Israel,IL,7,25
+2021,158,51,Mexico,MX,3,25
+2021,157,55,St. Kitts and Nevis,KN,4,26
+2021,155,52,Bahamas,BS,4,27
+2021,153,54,Uruguay,UY,3,28
+2021,153,56,Vatican City,VA,5,28
+2021,152,53,Seychelles,SC,1,29
+2021,151,67,St. Vincent and the Grenadines,VC,4,30
+2021,150,58,Antigua and Barbuda,AG,4,31
+2021,150,61,Trinidad and Tobago,TT,4,31
+2021,149,57,Costa Rica,CR,3,32
+2021,146,60,Mauritius,MU,1,33
+2021,146,66,St. Lucia,LC,4,33
+2021,145,59,Taiwan (Chinese Taipei),TW,6,34
+2021,144,69,Grenada,GD,4,35
+2021,144,68,Macao (SAR China),MO,6,35
+2021,143,71,Dominica,DM,4,36
+2021,141,65,Panama,PA,3,37
+2021,141,63,Paraguay,PY,3,37
+2021,136,80,Ukraine,UA,5,38
+2021,135,75,Serbia,RS,5,39
+2021,135,78,Vanuatu,VU,8,39
+2021,134,74,Peru,PE,3,40
+2021,133,73,El Salvador,SV,3,41
+2021,132,72,Guatemala,GT,3,42
+2021,132,70,Honduras,HN,3,42
+2021,131,77,Samoa,WS,8,43
+2021,131,76,Solomon Islands,SB,8,43
+2021,129,81,Colombia,CO,3,44
+2021,129,84,Tonga,TO,8,44
+2021,129,64,Venezuela,VE,3,44
+2021,127,85,Tuvalu,TV,8,45
+2021,126,79,Nicaragua,NI,3,46
+2021,125,82,North Macedonia,MK,5,47
+2021,123,86,Kiribati,KI,8,48
+2021,123,88,Montenegro,ME,5,48
+2021,122,83,Marshall Islands,MH,8,49
+2021,120,87,Moldova,MD,5,50
+2021,119,92,Palau Islands,PW,8,51
+2021,118,89,Russian Federation,RU,5,52
+2021,117,90,Micronesia,FM,8,53
+2021,116,93,Bosnia and Herzegovina,BA,5,54
+2021,115,95,Georgia,GE,5,55
+2021,113,94,Albania,AL,5,56
+2021,110,91,Türkiye,TR,5,57
+2021,103,96,South Africa,ZA,1,58
+2021,101,97,Belize,BZ,3,59
+2021,97,109,Qatar,QA,7,60
+2021,95,102,Kuwait,KW,7,61
+2021,93,99,Timor-Leste,TL,6,62
+2021,91,98,Ecuador,EC,3,63
+2021,89,104,Nauru,NR,8,64
+2021,88,100,Fiji,FJ,8,65
+2021,87,101,Guyana,GY,3,66
+2021,87,103,Maldives,MV,6,66
+2021,86,108,Botswana,BW,1,67
+2021,85,105,Jamaica,JM,4,68
+2021,84,110,Bahrain,BH,7,69
+2021,82,106,Papua New Guinea,PG,8,70
+2021,80,115,Oman,OM,7,71
+2021,79,107,Bolivia,BO,3,72
+2021,79,137,China,CN,6,72
+2021,79,120,Saudi Arabia,SA,7,72
+2021,79,113,Thailand,TH,6,72
+2021,78,116,Belarus,BY,5,73
+2021,78,112,Namibia,NA,1,73
+2021,77,119,Lesotho,LS,1,74
+2021,77,111,Suriname,SR,3,74
+2021,74,114,Kazakhstan,KZ,6,75
+2021,74,117,eSwatini,SZ,1,75
+2021,73,122,Malawi,MW,1,76
+2021,72,118,Kenya,KE,1,77
+2021,72,123,Tanzania,TZ,1,77
+2021,71,128,Indonesia,ID,6,78
+2021,71,124,Tunisia,TN,1,78
+2021,71,125,Zambia,ZM,1,78
+2021,69,132,Dominican Republic,DO,4,79
+2021,68,126,Azerbaijan,AZ,5,80
+2021,68,121,The Gambia,GM,1,80
+2021,67,130,Uganda,UG,1,81
+2021,66,127,Cape Verde Islands,CV,1,82
+2021,65,129,Philippines,PH,6,83
+2021,65,135,Zimbabwe,ZW,1,83
+2021,64,139,Armenia,AM,7,84
+2021,64,134,Ghana,GH,1,84
+2021,63,131,Cuba,CU,4,85
+2021,63,138,Morocco,MA,1,85
+2021,63,133,Sierra Leone,SL,1,85
+2021,62,140,Kyrgyzstan,KG,6,86
+2021,62,144,Mozambique,MZ,1,86
+2021,61,136,Benin,BJ,1,87
+2021,61,147,Mongolia,MN,6,87
+2021,61,161,Rwanda,RW,1,87
+2021,60,141,Sao Tome and Principe,ST,1,88
+2021,59,143,Mauritania,MR,1,89
+2021,58,142,Burkina Faso,BF,1,90
+2021,58,163,India,IN,6,90
+2021,58,152,Tajikistan,TJ,6,90
+2021,57,156,Gabon,GA,1,91
+2021,56,146,"Ivoire""",CI,1,92
+2021,56,145,Senegal,SN,1,92
+2021,56,153,Uzbekistan,UZ,6,92
+2021,55,169,Equatorial Guinea,GQ,1,93
+2021,55,157,Madagascar,MG,1,93
+2021,54,149,Guinea,GN,1,94
+2021,54,150,Mali,ML,1,94
+2021,54,148,Togo,TG,1,94
+2021,53,164,Cambodia,KH,6,95
+2021,53,155,Chad,TD,1,95
+2021,53,159,Comoro Islands,KM,1,95
+2021,53,151,Niger,NE,1,95
+2021,53,172,Vietnam,VN,6,95
+2021,52,166,Algeria,DZ,1,96
+2021,52,158,Bhutan,BT,6,96
+2021,52,165,Central African Republic,CF,1,96
+2021,52,160,Guinea-Bissau,GW,1,96
+2021,52,162,Turkmenistan,TM,6,96
+2021,51,174,Burundi,BI,1,97
+2021,51,168,Egypt,EG,1,97
+2021,50,167,Angola,AO,1,98
+2021,50,175,Cameroon,CM,1,98
+2021,50,177,Jordan,JO,7,98
+2021,49,170,Laos,LA,6,99
+2021,49,171,Liberia,LR,1,99
+2021,48,176,Congo (Rep.),CG,1,100
+2021,48,154,Haiti,HT,4,100
+2021,47,178,Djibouti,DJ,1,101
+2021,46,180,Myanmar,MM,6,102
+2021,45,183,Ethiopia,ET,1,103
+2021,45,173,Nigeria,NG,1,103
+2021,44,185,South Sudan,SS,1,104
+2021,43,190,Eritrea,ER,1,105
+2021,42,179,Congo (Dem. Rep.),CD,1,106
+2021,41,187,Iran,IR,7,107
+2021,41,189,Lebanon,LB,7,107
+2021,41,181,Sri Lanka,LK,6,107
+2021,41,182,Sudan,SD,1,107
+2021,40,186,Bangladesh,BD,6,108
+2021,40,188,Kosovo,XK,5,108
+2021,40,191,Libya,LY,1,108
+2021,39,184,North Korea,KP,6,109
+2021,37,192,Nepal,NP,6,110
+2021,37,193,Palestinian Territory,PS,7,110
+2021,34,195,Somalia,SO,1,111
+2021,33,194,Yemen,YE,7,112
+2021,31,196,Pakistan,PK,6,113
+2021,29,197,Syria,SY,7,114
+2021,28,198,Iraq,IQ,7,115
+2021,26,199,Afghanistan,AF,6,116
+2022,193,6,Japan,JP,6,1
+2022,192,8,Singapore,SG,6,2
+2022,192,18,South Korea,KR,6,2
+2022,190,1,Germany,DE,5,3
+2022,190,15,Spain,ES,5,3
+2022,189,3,Finland,FI,5,4
+2022,189,5,Italy,IT,5,4
+2022,189,13,Luxembourg,LU,5,4
+2022,188,11,Austria,AT,5,5
+2022,188,2,Denmark,DK,5,5
+2022,188,14,Netherlands,NL,5,5
+2022,188,9,Sweden,SE,5,5
+2022,187,4,France,FR,5,6
+2022,187,17,Ireland,IE,5,6
+2022,187,19,Portugal,PT,5,6
+2022,187,10,United Kingdom,GB,5,6
+2022,186,12,Belgium,BE,5,7
+2022,186,24,New Zealand,NZ,8,7
+2022,186,7,Norway,NO,5,7
+2022,186,16,Switzerland,CH,5,7
+2022,186,20,United States,US,3,7
+2022,185,22,Australia,AU,8,8
+2022,185,21,Canada,CA,3,8
+2022,185,25,Czech Republic,CZ,5,8
+2022,185,23,Greece,GR,5,8
+2022,185,27,Malta,MT,5,8
+2022,183,28,Hungary,HU,5,9
+2022,182,33,Lithuania,LT,5,10
+2022,182,36,Poland,PL,5,10
+2022,182,30,Slovakia,SK,5,10
+2022,181,35,Estonia,EE,5,11
+2022,181,32,Latvia,LV,5,11
+2022,181,31,Slovenia,SI,5,11
+2022,180,26,Iceland,IS,5,12
+2022,179,34,Malaysia,MY,6,13
+2022,178,29,Liechtenstein,LI,5,14
+2022,176,39,Cyprus,CY,5,15
+2022,176,62,United Arab Emirates,AE,7,15
+2022,174,38,Chile,CL,3,16
+2022,174,37,Monaco,MC,5,16
+2022,174,47,Romania,RO,5,16
+2022,173,46,Bulgaria,BG,5,17
+2022,173,44,Croatia,HR,5,17
+2022,171,45,Hong Kong (SAR China),HK,6,18
+2022,170,40,Argentina,AR,3,19
+2022,170,41,Brazil,BR,3,19
+2022,169,43,San Marino,SM,5,20
+2022,168,42,Andorra,AD,5,21
+2022,166,48,Brunei,BN,6,22
+2022,163,50,Barbados,BB,4,23
+2022,159,49,Israel,IL,7,24
+2022,159,51,Mexico,MX,3,24
+2022,157,55,St. Kitts and Nevis,KN,4,25
+2022,155,52,Bahamas,BS,4,26
+2022,154,56,Vatican City,VA,5,27
+2022,153,53,Seychelles,SC,1,28
+2022,153,54,Uruguay,UY,3,28
+2022,152,67,St. Vincent and the Grenadines,VC,4,29
+2022,151,58,Antigua and Barbuda,AG,4,30
+2022,151,61,Trinidad and Tobago,TT,4,30
+2022,150,57,Costa Rica,CR,3,31
+2022,147,66,St. Lucia,LC,4,32
+2022,146,69,Grenada,GD,4,33
+2022,146,60,Mauritius,MU,1,33
+2022,145,71,Dominica,DM,4,34
+2022,145,59,Taiwan (Chinese Taipei),TW,6,34
+2022,144,68,Macao (SAR China),MO,6,35
+2022,144,80,Ukraine,UA,5,35
+2022,143,65,Panama,PA,3,36
+2022,142,63,Paraguay,PY,3,37
+2022,136,74,Peru,PE,3,38
+2022,136,75,Serbia,RS,5,38
+2022,134,73,El Salvador,SV,3,39
+2022,133,72,Guatemala,GT,3,40
+2022,133,70,Honduras,HN,3,40
+2022,132,81,Colombia,CO,3,41
+2022,132,77,Samoa,WS,8,41
+2022,132,76,Solomon Islands,SB,8,41
+2022,130,84,Tonga,TO,8,42
+2022,129,64,Venezuela,VE,3,43
+2022,128,79,Nicaragua,NI,3,44
+2022,128,85,Tuvalu,TV,8,44
+2022,125,82,North Macedonia,MK,5,45
+2022,124,86,Kiribati,KI,8,46
+2022,124,88,Montenegro,ME,5,46
+2022,123,83,Marshall Islands,MH,8,47
+2022,121,87,Moldova,MD,5,48
+2022,120,92,Palau Islands,PW,8,49
+2022,119,89,Russian Federation,RU,5,50
+2022,118,93,Bosnia and Herzegovina,BA,5,51
+2022,118,90,Micronesia,FM,8,51
+2022,116,95,Georgia,GE,5,52
+2022,115,94,Albania,AL,5,53
+2022,110,91,Türkiye,TR,5,54
+2022,105,96,South Africa,ZA,1,55
+2022,103,97,Belize,BZ,3,56
+2022,99,109,Qatar,QA,7,57
+2022,98,78,Vanuatu,VU,8,58
+2022,96,102,Kuwait,KW,7,59
+2022,94,99,Timor-Leste,TL,6,60
+2022,92,98,Ecuador,EC,3,61
+2022,90,104,Nauru,NR,8,62
+2022,89,100,Fiji,FJ,8,63
+2022,89,103,Maldives,MV,6,63
+2022,88,101,Guyana,GY,3,64
+2022,87,108,Botswana,BW,1,65
+2022,87,105,Jamaica,JM,4,65
+2022,86,110,Bahrain,BH,7,66
+2022,83,106,Papua New Guinea,PG,8,67
+2022,81,115,Oman,OM,7,68
+2022,81,120,Saudi Arabia,SA,7,68
+2022,80,107,Bolivia,BO,3,69
+2022,80,137,China,CN,6,69
+2022,79,112,Namibia,NA,1,70
+2022,79,113,Thailand,TH,6,70
+2022,78,116,Belarus,BY,5,71
+2022,77,119,Lesotho,LS,1,72
+2022,77,111,Suriname,SR,3,72
+2022,76,114,Kazakhstan,KZ,6,73
+2022,75,117,eSwatini,SZ,1,74
+2022,74,122,Malawi,MW,1,75
+2022,72,128,Indonesia,ID,6,76
+2022,72,118,Kenya,KE,1,76
+2022,72,123,Tanzania,TZ,1,76
+2022,72,125,Zambia,ZM,1,76
+2022,71,124,Tunisia,TN,1,77
+2022,70,126,Azerbaijan,AZ,5,78
+2022,70,132,Dominican Republic,DO,4,78
+2022,69,121,The Gambia,GM,1,79
+2022,67,127,Cape Verde Islands,CV,1,80
+2022,67,129,Philippines,PH,6,80
+2022,67,130,Uganda,UG,1,80
+2022,66,139,Armenia,AM,7,81
+2022,66,135,Zimbabwe,ZW,1,81
+2022,65,131,Cuba,CU,4,82
+2022,65,134,Ghana,GH,1,82
+2022,65,138,Morocco,MA,1,82
+2022,64,140,Kyrgyzstan,KG,6,83
+2022,64,133,Sierra Leone,SL,1,83
+2022,63,144,Mozambique,MZ,1,84
+2022,62,136,Benin,BJ,1,85
+2022,62,147,Mongolia,MN,6,85
+2022,61,161,Rwanda,RW,1,86
+2022,61,141,Sao Tome and Principe,ST,1,86
+2022,60,163,India,IN,6,87
+2022,60,143,Mauritania,MR,1,87
+2022,60,152,Tajikistan,TJ,6,87
+2022,59,142,Burkina Faso,BF,1,88
+2022,59,153,Uzbekistan,UZ,6,88
+2022,58,156,Gabon,GA,1,89
+2022,57,146,"Ivoire""",CI,1,90
+2022,57,145,Senegal,SN,1,90
+2022,56,169,Equatorial Guinea,GQ,1,91
+2022,56,157,Madagascar,MG,1,91
+2022,55,149,Guinea,GN,1,92
+2022,55,150,Mali,ML,1,92
+2022,55,148,Togo,TG,1,92
+2022,55,172,Vietnam,VN,6,92
+2022,54,158,Bhutan,BT,6,93
+2022,54,164,Cambodia,KH,6,93
+2022,54,155,Chad,TD,1,93
+2022,54,159,Comoro Islands,KM,1,93
+2022,54,151,Niger,NE,1,93
+2022,53,166,Algeria,DZ,1,94
+2022,53,165,Central African Republic,CF,1,94
+2022,53,168,Egypt,EG,1,94
+2022,53,160,Guinea-Bissau,GW,1,94
+2022,53,177,Jordan,JO,7,94
+2022,53,162,Turkmenistan,TM,6,94
+2022,51,167,Angola,AO,1,95
+2022,51,174,Burundi,BI,1,95
+2022,51,175,Cameroon,CM,1,95
+2022,51,170,Laos,LA,6,95
+2022,50,171,Liberia,LR,1,96
+2022,49,176,Congo (Rep.),CG,1,97
+2022,49,154,Haiti,HT,4,97
+2022,48,178,Djibouti,DJ,1,98
+2022,47,180,Myanmar,MM,6,99
+2022,46,183,Ethiopia,ET,1,100
+2022,46,173,Nigeria,NG,1,100
+2022,44,190,Eritrea,ER,1,101
+2022,44,185,South Sudan,SS,1,101
+2022,43,187,Iran,IR,7,102
+2022,42,179,Congo (Dem. Rep.),CD,1,103
+2022,42,189,Lebanon,LB,7,103
+2022,42,181,Sri Lanka,LK,6,103
+2022,42,182,Sudan,SD,1,103
+2022,41,186,Bangladesh,BD,6,104
+2022,41,188,Kosovo,XK,5,104
+2022,41,191,Libya,LY,1,104
+2022,40,184,North Korea,KP,6,105
+2022,38,192,Nepal,NP,6,106
+2022,38,193,Palestinian Territory,PS,7,106
+2022,35,195,Somalia,SO,1,107
+2022,34,194,Yemen,YE,7,108
+2022,32,196,Pakistan,PK,6,109
+2022,30,197,Syria,SY,7,110
+2022,29,198,Iraq,IQ,7,111
+2022,27,199,Afghanistan,AF,6,112

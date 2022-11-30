@@ -1,0 +1,3368 @@
+[
+    {
+        "id": 21669,
+        "passport_id": 2,
+        "rank": 1,
+        "year": 2008,
+        "score": 157,
+        "passport": {
+            "id": 2,
+            "name": "Denmark",
+            "code": "DK",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 1,
+            "score": 157
+        }
+    },
+    {
+        "id": 21789,
+        "passport_id": 3,
+        "rank": 2,
+        "year": 2008,
+        "score": 156,
+        "passport": {
+            "id": 3,
+            "name": "Finland",
+            "code": "FI",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 2,
+            "score": 156
+        }
+    },
+    {
+        "id": 211009,
+        "passport_id": 17,
+        "rank": 2,
+        "year": 2008,
+        "score": 156,
+        "passport": {
+            "id": 17,
+            "name": "Ireland",
+            "code": "IE",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 2,
+            "score": 156
+        }
+    },
+    {
+        "id": 211617,
+        "passport_id": 19,
+        "rank": 2,
+        "year": 2008,
+        "score": 156,
+        "passport": {
+            "id": 19,
+            "name": "Portugal",
+            "code": "PT",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 2,
+            "score": 156
+        }
+    },
+    {
+        "id": 21369,
+        "passport_id": 12,
+        "rank": 3,
+        "year": 2008,
+        "score": 155,
+        "passport": {
+            "id": 12,
+            "name": "Belgium",
+            "code": "BE",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 3,
+            "score": 155
+        }
+    },
+    {
+        "id": 21839,
+        "passport_id": 1,
+        "rank": 3,
+        "year": 2008,
+        "score": 155,
+        "passport": {
+            "id": 1,
+            "name": "Germany",
+            "code": "DE",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 3,
+            "score": 155
+        }
+    },
+    {
+        "id": 211907,
+        "passport_id": 9,
+        "rank": 3,
+        "year": 2008,
+        "score": 155,
+        "passport": {
+            "id": 9,
+            "name": "Sweden",
+            "code": "SE",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 3,
+            "score": 155
+        }
+    },
+    {
+        "id": 212107,
+        "passport_id": 20,
+        "rank": 3,
+        "year": 2008,
+        "score": 155,
+        "passport": {
+            "id": 20,
+            "name": "United States",
+            "code": "US",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 3,
+            "score": 155
+        }
+    },
+    {
+        "id": 21509,
+        "passport_id": 21,
+        "rank": 4,
+        "year": 2008,
+        "score": 154,
+        "passport": {
+            "id": 21,
+            "name": "Canada",
+            "code": "CA",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 4,
+            "score": 154
+        }
+    },
+    {
+        "id": 211029,
+        "passport_id": 5,
+        "rank": 4,
+        "year": 2008,
+        "score": 154,
+        "passport": {
+            "id": 5,
+            "name": "Italy",
+            "code": "IT",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 4,
+            "score": 154
+        }
+    },
+    {
+        "id": 211049,
+        "passport_id": 6,
+        "rank": 4,
+        "year": 2008,
+        "score": 154,
+        "passport": {
+            "id": 6,
+            "name": "Japan",
+            "code": "JP",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 4,
+            "score": 154
+        }
+    },
+    {
+        "id": 211207,
+        "passport_id": 13,
+        "rank": 4,
+        "year": 2008,
+        "score": 154,
+        "passport": {
+            "id": 13,
+            "name": "Luxembourg",
+            "code": "LU",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 4,
+            "score": 154
+        }
+    },
+    {
+        "id": 211447,
+        "passport_id": 14,
+        "rank": 4,
+        "year": 2008,
+        "score": 154,
+        "passport": {
+            "id": 14,
+            "name": "Netherlands",
+            "code": "NL",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 4,
+            "score": 154
+        }
+    },
+    {
+        "id": 211827,
+        "passport_id": 15,
+        "rank": 4,
+        "year": 2008,
+        "score": 154,
+        "passport": {
+            "id": 15,
+            "name": "Spain",
+            "code": "ES",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 4,
+            "score": 154
+        }
+    },
+    {
+        "id": 21299,
+        "passport_id": 11,
+        "rank": 5,
+        "year": 2008,
+        "score": 153,
+        "passport": {
+            "id": 11,
+            "name": "Austria",
+            "code": "AT",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 5,
+            "score": 153
+        }
+    },
+    {
+        "id": 211507,
+        "passport_id": 7,
+        "rank": 5,
+        "year": 2008,
+        "score": 153,
+        "passport": {
+            "id": 7,
+            "name": "Norway",
+            "code": "NO",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 5,
+            "score": 153
+        }
+    },
+    {
+        "id": 21799,
+        "passport_id": 4,
+        "rank": 6,
+        "year": 2008,
+        "score": 152,
+        "passport": {
+            "id": 4,
+            "name": "France",
+            "code": "FR",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 6,
+            "score": 152
+        }
+    },
+    {
+        "id": 212067,
+        "passport_id": 10,
+        "rank": 6,
+        "year": 2008,
+        "score": 152,
+        "passport": {
+            "id": 10,
+            "name": "United Kingdom",
+            "code": "GB",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 6,
+            "score": 152
+        }
+    },
+    {
+        "id": 21289,
+        "passport_id": 22,
+        "rank": 7,
+        "year": 2008,
+        "score": 151,
+        "passport": {
+            "id": 22,
+            "name": "Australia",
+            "code": "AU",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 7,
+            "score": 151
+        }
+    },
+    {
+        "id": 211457,
+        "passport_id": 24,
+        "rank": 8,
+        "year": 2008,
+        "score": 150,
+        "passport": {
+            "id": 24,
+            "name": "New Zealand",
+            "code": "NZ",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 8,
+            "score": 150
+        }
+    },
+    {
+        "id": 211747,
+        "passport_id": 8,
+        "rank": 8,
+        "year": 2008,
+        "score": 150,
+        "passport": {
+            "id": 8,
+            "name": "Singapore",
+            "code": "SG",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 8,
+            "score": 150
+        }
+    },
+    {
+        "id": 21859,
+        "passport_id": 23,
+        "rank": 9,
+        "year": 2008,
+        "score": 149,
+        "passport": {
+            "id": 23,
+            "name": "Greece",
+            "code": "GR",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 9,
+            "score": 149
+        }
+    },
+    {
+        "id": 211917,
+        "passport_id": 16,
+        "rank": 9,
+        "year": 2008,
+        "score": 149,
+        "passport": {
+            "id": 16,
+            "name": "Switzerland",
+            "code": "CH",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 9,
+            "score": 149
+        }
+    },
+    {
+        "id": 21959,
+        "passport_id": 26,
+        "rank": 10,
+        "year": 2008,
+        "score": 146,
+        "passport": {
+            "id": 26,
+            "name": "Iceland",
+            "code": "IS",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 10,
+            "score": 146
+        }
+    },
+    {
+        "id": 211257,
+        "passport_id": 34,
+        "rank": 11,
+        "year": 2008,
+        "score": 145,
+        "passport": {
+            "id": 34,
+            "name": "Malaysia",
+            "code": "MY",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 11,
+            "score": 145
+        }
+    },
+    {
+        "id": 211807,
+        "passport_id": 18,
+        "rank": 12,
+        "year": 2008,
+        "score": 144,
+        "passport": {
+            "id": 18,
+            "name": "South Korea",
+            "code": "KR",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 12,
+            "score": 144
+        }
+    },
+    {
+        "id": 211187,
+        "passport_id": 29,
+        "rank": 13,
+        "year": 2008,
+        "score": 140,
+        "passport": {
+            "id": 29,
+            "name": "Liechtenstein",
+            "code": "LI",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 13,
+            "score": 140
+        }
+    },
+    {
+        "id": 21649,
+        "passport_id": 39,
+        "rank": 14,
+        "year": 2008,
+        "score": 139,
+        "passport": {
+            "id": 39,
+            "name": "Cyprus",
+            "code": "CY",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 14,
+            "score": 139
+        }
+    },
+    {
+        "id": 211287,
+        "passport_id": 27,
+        "rank": 14,
+        "year": 2008,
+        "score": 139,
+        "passport": {
+            "id": 27,
+            "name": "Malta",
+            "code": "MT",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 14,
+            "score": 139
+        }
+    },
+    {
+        "id": 211767,
+        "passport_id": 31,
+        "rank": 14,
+        "year": 2008,
+        "score": 139,
+        "passport": {
+            "id": 31,
+            "name": "Slovenia",
+            "code": "SI",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 14,
+            "score": 139
+        }
+    },
+    {
+        "id": 211677,
+        "passport_id": 43,
+        "rank": 15,
+        "year": 2008,
+        "score": 134,
+        "passport": {
+            "id": 43,
+            "name": "San Marino",
+            "code": "SM",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 15,
+            "score": 134
+        }
+    },
+    {
+        "id": 211607,
+        "passport_id": 36,
+        "rank": 16,
+        "year": 2008,
+        "score": 132,
+        "passport": {
+            "id": 36,
+            "name": "Poland",
+            "code": "PL",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 16,
+            "score": 132
+        }
+    },
+    {
+        "id": 21659,
+        "passport_id": 25,
+        "rank": 17,
+        "year": 2008,
+        "score": 131,
+        "passport": {
+            "id": 25,
+            "name": "Czech Republic",
+            "code": "CZ",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 17,
+            "score": 131
+        }
+    },
+    {
+        "id": 21949,
+        "passport_id": 28,
+        "rank": 17,
+        "year": 2008,
+        "score": 131,
+        "passport": {
+            "id": 28,
+            "name": "Hungary",
+            "code": "HU",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 17,
+            "score": 131
+        }
+    },
+    {
+        "id": 211357,
+        "passport_id": 37,
+        "rank": 17,
+        "year": 2008,
+        "score": 131,
+        "passport": {
+            "id": 37,
+            "name": "Monaco",
+            "code": "MC",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 17,
+            "score": 131
+        }
+    },
+    {
+        "id": 211757,
+        "passport_id": 30,
+        "rank": 18,
+        "year": 2008,
+        "score": 130,
+        "passport": {
+            "id": 30,
+            "name": "Slovakia",
+            "code": "SK",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 18,
+            "score": 130
+        }
+    },
+    {
+        "id": 21449,
+        "passport_id": 48,
+        "rank": 19,
+        "year": 2008,
+        "score": 129,
+        "passport": {
+            "id": 48,
+            "name": "Brunei",
+            "code": "BN",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 19,
+            "score": 129
+        }
+    },
+    {
+        "id": 21239,
+        "passport_id": 42,
+        "rank": 20,
+        "year": 2008,
+        "score": 127,
+        "passport": {
+            "id": 42,
+            "name": "Andorra",
+            "code": "AD",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 20,
+            "score": 127
+        }
+    },
+    {
+        "id": 21269,
+        "passport_id": 40,
+        "rank": 20,
+        "year": 2008,
+        "score": 127,
+        "passport": {
+            "id": 40,
+            "name": "Argentina",
+            "code": "AR",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 20,
+            "score": 127
+        }
+    },
+    {
+        "id": 21549,
+        "passport_id": 38,
+        "rank": 20,
+        "year": 2008,
+        "score": 127,
+        "passport": {
+            "id": 38,
+            "name": "Chile",
+            "code": "CL",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 20,
+            "score": 127
+        }
+    },
+    {
+        "id": 21759,
+        "passport_id": 35,
+        "rank": 20,
+        "year": 2008,
+        "score": 127,
+        "passport": {
+            "id": 35,
+            "name": "Estonia",
+            "code": "EE",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 20,
+            "score": 127
+        }
+    },
+    {
+        "id": 211137,
+        "passport_id": 32,
+        "rank": 20,
+        "year": 2008,
+        "score": 127,
+        "passport": {
+            "id": 32,
+            "name": "Latvia",
+            "code": "LV",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 20,
+            "score": 127
+        }
+    },
+    {
+        "id": 211197,
+        "passport_id": 33,
+        "rank": 21,
+        "year": 2008,
+        "score": 125,
+        "passport": {
+            "id": 33,
+            "name": "Lithuania",
+            "code": "LT",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 21,
+            "score": 125
+        }
+    },
+    {
+        "id": 21939,
+        "passport_id": 45,
+        "rank": 22,
+        "year": 2008,
+        "score": 123,
+        "passport": {
+            "id": 45,
+            "name": "Hong Kong (SAR China)",
+            "code": "HK",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 22,
+            "score": 123
+        }
+    },
+    {
+        "id": 21439,
+        "passport_id": 41,
+        "rank": 23,
+        "year": 2008,
+        "score": 122,
+        "passport": {
+            "id": 41,
+            "name": "Brazil",
+            "code": "BR",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 23,
+            "score": 122
+        }
+    },
+    {
+        "id": 211019,
+        "passport_id": 49,
+        "rank": 24,
+        "year": 2008,
+        "score": 118,
+        "passport": {
+            "id": 49,
+            "name": "Israel",
+            "code": "IL",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 24,
+            "score": 118
+        }
+    },
+    {
+        "id": 212097,
+        "passport_id": 54,
+        "rank": 24,
+        "year": 2008,
+        "score": 118,
+        "passport": {
+            "id": 54,
+            "name": "Uruguay",
+            "code": "UY",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 24,
+            "score": 118
+        }
+    },
+    {
+        "id": 21459,
+        "passport_id": 46,
+        "rank": 25,
+        "year": 2008,
+        "score": 116,
+        "passport": {
+            "id": 46,
+            "name": "Bulgaria",
+            "code": "BG",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 25,
+            "score": 116
+        }
+    },
+    {
+        "id": 211637,
+        "passport_id": 47,
+        "rank": 26,
+        "year": 2008,
+        "score": 115,
+        "passport": {
+            "id": 47,
+            "name": "Romania",
+            "code": "RO",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 26,
+            "score": 115
+        }
+    },
+    {
+        "id": 211327,
+        "passport_id": 51,
+        "rank": 27,
+        "year": 2008,
+        "score": 114,
+        "passport": {
+            "id": 51,
+            "name": "Mexico",
+            "code": "MX",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 27,
+            "score": 114
+        }
+    },
+    {
+        "id": 212147,
+        "passport_id": 64,
+        "rank": 28,
+        "year": 2008,
+        "score": 111,
+        "passport": {
+            "id": 64,
+            "name": "Venezuela",
+            "code": "VE",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 28,
+            "score": 111
+        }
+    },
+    {
+        "id": 21609,
+        "passport_id": 57,
+        "rank": 29,
+        "year": 2008,
+        "score": 108,
+        "passport": {
+            "id": 57,
+            "name": "Costa Rica",
+            "code": "CR",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 29,
+            "score": 108
+        }
+    },
+    {
+        "id": 21629,
+        "passport_id": 44,
+        "rank": 29,
+        "year": 2008,
+        "score": 108,
+        "passport": {
+            "id": 44,
+            "name": "Croatia",
+            "code": "HR",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 29,
+            "score": 108
+        }
+    },
+    {
+        "id": 211577,
+        "passport_id": 63,
+        "rank": 30,
+        "year": 2008,
+        "score": 104,
+        "passport": {
+            "id": 63,
+            "name": "Paraguay",
+            "code": "PY",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 30,
+            "score": 104
+        }
+    },
+    {
+        "id": 21879,
+        "passport_id": 72,
+        "rank": 31,
+        "year": 2008,
+        "score": 100,
+        "passport": {
+            "id": 72,
+            "name": "Guatemala",
+            "code": "GT",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 31,
+            "score": 100
+        }
+    },
+    {
+        "id": 21929,
+        "passport_id": 70,
+        "rank": 31,
+        "year": 2008,
+        "score": 100,
+        "passport": {
+            "id": 70,
+            "name": "Honduras",
+            "code": "HN",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 31,
+            "score": 100
+        }
+    },
+    {
+        "id": 211557,
+        "passport_id": 65,
+        "rank": 31,
+        "year": 2008,
+        "score": 100,
+        "passport": {
+            "id": 65,
+            "name": "Panama",
+            "code": "PA",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 31,
+            "score": 100
+        }
+    },
+    {
+        "id": 21729,
+        "passport_id": 73,
+        "rank": 32,
+        "year": 2008,
+        "score": 98,
+        "passport": {
+            "id": 73,
+            "name": "El Salvador",
+            "code": "SV",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 32,
+            "score": 98
+        }
+    },
+    {
+        "id": 211467,
+        "passport_id": 79,
+        "rank": 33,
+        "year": 2008,
+        "score": 93,
+        "passport": {
+            "id": 79,
+            "name": "Nicaragua",
+            "code": "NI",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 33,
+            "score": 93
+        }
+    },
+    {
+        "id": 212137,
+        "passport_id": 56,
+        "rank": 33,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 56,
+            "name": "Vatican City",
+            "code": "VA",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 33,
+            "score": 0
+        }
+    },
+    {
+        "id": 21349,
+        "passport_id": 50,
+        "rank": 34,
+        "year": 2008,
+        "score": 89,
+        "passport": {
+            "id": 50,
+            "name": "Barbados",
+            "code": "BB",
+            "region_id": 4,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 34,
+            "score": 89
+        }
+    },
+    {
+        "id": 211797,
+        "passport_id": 96,
+        "rank": 35,
+        "year": 2008,
+        "score": 88,
+        "passport": {
+            "id": 96,
+            "name": "South Africa",
+            "code": "ZA",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 35,
+            "score": 88
+        }
+    },
+    {
+        "id": 211217,
+        "passport_id": 68,
+        "rank": 36,
+        "year": 2008,
+        "score": 87,
+        "passport": {
+            "id": 68,
+            "name": "Macao (SAR China)",
+            "code": "MO",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 36,
+            "score": 87
+        }
+    },
+    {
+        "id": 21319,
+        "passport_id": 52,
+        "rank": 37,
+        "year": 2008,
+        "score": 96,
+        "passport": {
+            "id": 52,
+            "name": "Bahamas",
+            "code": "BS",
+            "region_id": 4,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 37,
+            "score": 96
+        }
+    },
+    {
+        "id": 211867,
+        "passport_id": 67,
+        "rank": 37,
+        "year": 2008,
+        "score": 86,
+        "passport": {
+            "id": 67,
+            "name": "St. Vincent and the Grenadines",
+            "code": "VC",
+            "region_id": 4,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 37,
+            "score": 86
+        }
+    },
+    {
+        "id": 211847,
+        "passport_id": 55,
+        "rank": 38,
+        "year": 2008,
+        "score": 84,
+        "passport": {
+            "id": 55,
+            "name": "St. Kitts and Nevis",
+            "code": "KN",
+            "region_id": 4,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 38,
+            "score": 84
+        }
+    },
+    {
+        "id": 211857,
+        "passport_id": 66,
+        "rank": 38,
+        "year": 2008,
+        "score": 84,
+        "passport": {
+            "id": 66,
+            "name": "St. Lucia",
+            "code": "LC",
+            "region_id": 4,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 38,
+            "score": 84
+        }
+    },
+    {
+        "id": 212007,
+        "passport_id": 61,
+        "rank": 39,
+        "year": 2008,
+        "score": 83,
+        "passport": {
+            "id": 61,
+            "name": "Trinidad and Tobago",
+            "code": "TT",
+            "region_id": 4,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 39,
+            "score": 83
+        }
+    },
+    {
+        "id": 21259,
+        "passport_id": 58,
+        "rank": 40,
+        "year": 2008,
+        "score": 82,
+        "passport": {
+            "id": 58,
+            "name": "Antigua and Barbuda",
+            "code": "AG",
+            "region_id": 4,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 40,
+            "score": 82
+        }
+    },
+    {
+        "id": 21869,
+        "passport_id": 69,
+        "rank": 41,
+        "year": 2008,
+        "score": 79,
+        "passport": {
+            "id": 69,
+            "name": "Grenada",
+            "code": "GD",
+            "region_id": 4,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 41,
+            "score": 79
+        }
+    },
+    {
+        "id": 21379,
+        "passport_id": 97,
+        "rank": 42,
+        "year": 2008,
+        "score": 75,
+        "passport": {
+            "id": 97,
+            "name": "Belize",
+            "code": "BZ",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 42,
+            "score": 75
+        }
+    },
+    {
+        "id": 212027,
+        "passport_id": 91,
+        "rank": 42,
+        "year": 2008,
+        "score": 75,
+        "passport": {
+            "id": 91,
+            "name": "Türkiye",
+            "code": "TR",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 42,
+            "score": 75
+        }
+    },
+    {
+        "id": 211777,
+        "passport_id": 76,
+        "rank": 43,
+        "year": 2008,
+        "score": 73,
+        "passport": {
+            "id": 76,
+            "name": "Solomon Islands",
+            "code": "SB",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 43,
+            "score": 73
+        }
+    },
+    {
+        "id": 21689,
+        "passport_id": 71,
+        "rank": 44,
+        "year": 2008,
+        "score": 71,
+        "passport": {
+            "id": 71,
+            "name": "Dominica",
+            "code": "DM",
+            "region_id": 4,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 44,
+            "score": 71
+        }
+    },
+    {
+        "id": 211727,
+        "passport_id": 53,
+        "rank": 44,
+        "year": 2008,
+        "score": 71,
+        "passport": {
+            "id": 53,
+            "name": "Seychelles",
+            "code": "SC",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 44,
+            "score": 71
+        }
+    },
+    {
+        "id": 212047,
+        "passport_id": 85,
+        "rank": 45,
+        "year": 2008,
+        "score": 70,
+        "passport": {
+            "id": 85,
+            "name": "Tuvalu",
+            "code": "TV",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 45,
+            "score": 70
+        }
+    },
+    {
+        "id": 21909,
+        "passport_id": 101,
+        "rank": 46,
+        "year": 2008,
+        "score": 69,
+        "passport": {
+            "id": 101,
+            "name": "Guyana",
+            "code": "GY",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 46,
+            "score": 69
+        }
+    },
+    {
+        "id": 211667,
+        "passport_id": 77,
+        "rank": 46,
+        "year": 2008,
+        "score": 69,
+        "passport": {
+            "id": 77,
+            "name": "Samoa",
+            "code": "WS",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 46,
+            "score": 69
+        }
+    },
+    {
+        "id": 212127,
+        "passport_id": 78,
+        "rank": 47,
+        "year": 2008,
+        "score": 68,
+        "passport": {
+            "id": 78,
+            "name": "Vanuatu",
+            "code": "VU",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 47,
+            "score": 68
+        }
+    },
+    {
+        "id": 211039,
+        "passport_id": 105,
+        "rank": 48,
+        "year": 2008,
+        "score": 67,
+        "passport": {
+            "id": 105,
+            "name": "Jamaica",
+            "code": "JM",
+            "region_id": 4,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 48,
+            "score": 67
+        }
+    },
+    {
+        "id": 211089,
+        "passport_id": 86,
+        "rank": 48,
+        "year": 2008,
+        "score": 67,
+        "passport": {
+            "id": 86,
+            "name": "Kiribati",
+            "code": "KI",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 48,
+            "score": 67
+        }
+    },
+    {
+        "id": 211317,
+        "passport_id": 60,
+        "rank": 48,
+        "year": 2008,
+        "score": 67,
+        "passport": {
+            "id": 60,
+            "name": "Mauritius",
+            "code": "MU",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 48,
+            "score": 67
+        }
+    },
+    {
+        "id": 21779,
+        "passport_id": 100,
+        "rank": 49,
+        "year": 2008,
+        "score": 66,
+        "passport": {
+            "id": 100,
+            "name": "Fiji",
+            "code": "FJ",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 49,
+            "score": 66
+        }
+    },
+    {
+        "id": 21409,
+        "passport_id": 107,
+        "rank": 50,
+        "year": 2008,
+        "score": 65,
+        "passport": {
+            "id": 107,
+            "name": "Bolivia",
+            "code": "BO",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 50,
+            "score": 65
+        }
+    },
+    {
+        "id": 211267,
+        "passport_id": 103,
+        "rank": 51,
+        "year": 2008,
+        "score": 64,
+        "passport": {
+            "id": 103,
+            "name": "Maldives",
+            "code": "MV",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 51,
+            "score": 64
+        }
+    },
+    {
+        "id": 211427,
+        "passport_id": 104,
+        "rank": 51,
+        "year": 2008,
+        "score": 64,
+        "passport": {
+            "id": 104,
+            "name": "Nauru",
+            "code": "NR",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 51,
+            "score": 64
+        }
+    },
+    {
+        "id": 211997,
+        "passport_id": 84,
+        "rank": 51,
+        "year": 2008,
+        "score": 64,
+        "passport": {
+            "id": 84,
+            "name": "Tonga",
+            "code": "TO",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 51,
+            "score": 64
+        }
+    },
+    {
+        "id": 211157,
+        "passport_id": 119,
+        "rank": 52,
+        "year": 2008,
+        "score": 62,
+        "passport": {
+            "id": 119,
+            "name": "Lesotho",
+            "code": "LS",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 52,
+            "score": 62
+        }
+    },
+    {
+        "id": 211587,
+        "passport_id": 74,
+        "rank": 52,
+        "year": 2008,
+        "score": 62,
+        "passport": {
+            "id": 74,
+            "name": "Peru",
+            "code": "PE",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 52,
+            "score": 62
+        }
+    },
+    {
+        "id": 21819,
+        "passport_id": 121,
+        "rank": 52,
+        "year": 2008,
+        "score": 62,
+        "passport": {
+            "id": 121,
+            "name": "The Gambia",
+            "code": "GM",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 52,
+            "score": 62
+        }
+    },
+    {
+        "id": 211247,
+        "passport_id": 122,
+        "rank": 53,
+        "year": 2008,
+        "score": 60,
+        "passport": {
+            "id": 122,
+            "name": "Malawi",
+            "code": "MW",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 53,
+            "score": 60
+        }
+    },
+    {
+        "id": 211647,
+        "passport_id": 89,
+        "rank": 53,
+        "year": 2008,
+        "score": 60,
+        "passport": {
+            "id": 89,
+            "name": "Russian Federation",
+            "code": "RU",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 53,
+            "score": 60
+        }
+    },
+    {
+        "id": 211737,
+        "passport_id": 133,
+        "rank": 53,
+        "year": 2008,
+        "score": 60,
+        "passport": {
+            "id": 133,
+            "name": "Sierra Leone",
+            "code": "SL",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 53,
+            "score": 60
+        }
+    },
+    {
+        "id": 21429,
+        "passport_id": 108,
+        "rank": 54,
+        "year": 2008,
+        "score": 59,
+        "passport": {
+            "id": 108,
+            "name": "Botswana",
+            "code": "BW",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 54,
+            "score": 59
+        }
+    },
+    {
+        "id": 211567,
+        "passport_id": 106,
+        "rank": 54,
+        "year": 2008,
+        "score": 59,
+        "passport": {
+            "id": 106,
+            "name": "Papua New Guinea",
+            "code": "PG",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 54,
+            "score": 59
+        }
+    },
+    {
+        "id": 211937,
+        "passport_id": 59,
+        "rank": 54,
+        "year": 2008,
+        "score": 59,
+        "passport": {
+            "id": 59,
+            "name": "Taiwan (Chinese Taipei)",
+            "code": "TW",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 54,
+            "score": 59
+        }
+    },
+    {
+        "id": 211897,
+        "passport_id": 117,
+        "rank": 54,
+        "year": 2008,
+        "score": 59,
+        "passport": {
+            "id": 117,
+            "name": "eSwatini",
+            "code": "SZ",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 54,
+            "score": 59
+        }
+    },
+    {
+        "id": 21709,
+        "passport_id": 98,
+        "rank": 55,
+        "year": 2008,
+        "score": 58,
+        "passport": {
+            "id": 98,
+            "name": "Ecuador",
+            "code": "EC",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 55,
+            "score": 58
+        }
+    },
+    {
+        "id": 211079,
+        "passport_id": 118,
+        "rank": 55,
+        "year": 2008,
+        "score": 58,
+        "passport": {
+            "id": 118,
+            "name": "Kenya",
+            "code": "KE",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 55,
+            "score": 58
+        }
+    },
+    {
+        "id": 211417,
+        "passport_id": 112,
+        "rank": 55,
+        "year": 2008,
+        "score": 58,
+        "passport": {
+            "id": 112,
+            "name": "Namibia",
+            "code": "NA",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 55,
+            "score": 58
+        }
+    },
+    {
+        "id": 211227,
+        "passport_id": 82,
+        "rank": 55,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 82,
+            "name": "North Macedonia",
+            "code": "MK",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 55,
+            "score": 0
+        }
+    },
+    {
+        "id": 211297,
+        "passport_id": 83,
+        "rank": 56,
+        "year": 2008,
+        "score": 57,
+        "passport": {
+            "id": 83,
+            "name": "Marshall Islands",
+            "code": "MH",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 56,
+            "score": 57
+        }
+    },
+    {
+        "id": 211887,
+        "passport_id": 111,
+        "rank": 56,
+        "year": 2008,
+        "score": 57,
+        "passport": {
+            "id": 111,
+            "name": "Suriname",
+            "code": "SR",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 56,
+            "score": 57
+        }
+    },
+    {
+        "id": 212177,
+        "passport_id": 125,
+        "rank": 56,
+        "year": 2008,
+        "score": 57,
+        "passport": {
+            "id": 125,
+            "name": "Zambia",
+            "code": "ZM",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 56,
+            "score": 57
+        }
+    },
+    {
+        "id": 211107,
+        "passport_id": 102,
+        "rank": 57,
+        "year": 2008,
+        "score": 56,
+        "passport": {
+            "id": 102,
+            "name": "Kuwait",
+            "code": "KW",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 57,
+            "score": 56
+        }
+    },
+    {
+        "id": 21849,
+        "passport_id": 134,
+        "rank": 58,
+        "year": 2008,
+        "score": 55,
+        "passport": {
+            "id": 134,
+            "name": "Ghana",
+            "code": "GH",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 58,
+            "score": 55
+        }
+    },
+    {
+        "id": 212017,
+        "passport_id": 124,
+        "rank": 58,
+        "year": 2008,
+        "score": 55,
+        "passport": {
+            "id": 124,
+            "name": "Tunisia",
+            "code": "TN",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 58,
+            "score": 55
+        }
+    },
+    {
+        "id": 211957,
+        "passport_id": 123,
+        "rank": 59,
+        "year": 2008,
+        "score": 54,
+        "passport": {
+            "id": 123,
+            "name": "Tanzania",
+            "code": "TZ",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 59,
+            "score": 54
+        }
+    },
+    {
+        "id": 21329,
+        "passport_id": 110,
+        "rank": 60,
+        "year": 2008,
+        "score": 53,
+        "passport": {
+            "id": 110,
+            "name": "Bahrain",
+            "code": "BH",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 60,
+            "score": 53
+        }
+    },
+    {
+        "id": 211627,
+        "passport_id": 109,
+        "rank": 60,
+        "year": 2008,
+        "score": 53,
+        "passport": {
+            "id": 109,
+            "name": "Qatar",
+            "code": "QA",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 60,
+            "score": 53
+        }
+    },
+    {
+        "id": 212057,
+        "passport_id": 130,
+        "rank": 60,
+        "year": 2008,
+        "score": 53,
+        "passport": {
+            "id": 130,
+            "name": "Uganda",
+            "code": "UG",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 60,
+            "score": 53
+        }
+    },
+    {
+        "id": 211537,
+        "passport_id": 92,
+        "rank": 61,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 92,
+            "name": "Palau Islands",
+            "code": "PW",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 61,
+            "score": 0
+        }
+    },
+    {
+        "id": 211967,
+        "passport_id": 113,
+        "rank": 61,
+        "year": 2008,
+        "score": 52,
+        "passport": {
+            "id": 113,
+            "name": "Thailand",
+            "code": "TH",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 61,
+            "score": 52
+        }
+    },
+    {
+        "id": 212087,
+        "passport_id": 62,
+        "rank": 61,
+        "year": 2008,
+        "score": 52,
+        "passport": {
+            "id": 62,
+            "name": "United Arab Emirates",
+            "code": "AE",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 61,
+            "score": 52
+        }
+    },
+    {
+        "id": 212187,
+        "passport_id": 135,
+        "rank": 61,
+        "year": 2008,
+        "score": 52,
+        "passport": {
+            "id": 135,
+            "name": "Zimbabwe",
+            "code": "ZW",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 61,
+            "score": 52
+        }
+    },
+    {
+        "id": 211377,
+        "passport_id": 88,
+        "rank": 62,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 88,
+            "name": "Montenegro",
+            "code": "ME",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 62,
+            "score": 0
+        }
+    },
+    {
+        "id": 211597,
+        "passport_id": 129,
+        "rank": 62,
+        "year": 2008,
+        "score": 50,
+        "passport": {
+            "id": 129,
+            "name": "Philippines",
+            "code": "PH",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 62,
+            "score": 50
+        }
+    },
+    {
+        "id": 211717,
+        "passport_id": 75,
+        "rank": 62,
+        "year": 2008,
+        "score": 50,
+        "passport": {
+            "id": 75,
+            "name": "Serbia",
+            "code": "RS",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 62,
+            "score": 50
+        }
+    },
+    {
+        "id": 212077,
+        "passport_id": 80,
+        "rank": 62,
+        "year": 2008,
+        "score": 50,
+        "passport": {
+            "id": 80,
+            "name": "Ukraine",
+            "code": "UA",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 62,
+            "score": 50
+        }
+    },
+    {
+        "id": 21359,
+        "passport_id": 116,
+        "rank": 63,
+        "year": 2008,
+        "score": 49,
+        "passport": {
+            "id": 116,
+            "name": "Belarus",
+            "code": "BY",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 63,
+            "score": 49
+        }
+    },
+    {
+        "id": 211307,
+        "passport_id": 143,
+        "rank": 63,
+        "year": 2008,
+        "score": 49,
+        "passport": {
+            "id": 143,
+            "name": "Mauritania",
+            "code": "MR",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 63,
+            "score": 49
+        }
+    },
+    {
+        "id": 211517,
+        "passport_id": 115,
+        "rank": 63,
+        "year": 2008,
+        "score": 49,
+        "passport": {
+            "id": 115,
+            "name": "Oman",
+            "code": "OM",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 63,
+            "score": 49
+        }
+    },
+    {
+        "id": 21569,
+        "passport_id": 81,
+        "rank": 64,
+        "year": 2008,
+        "score": 48,
+        "passport": {
+            "id": 81,
+            "name": "Colombia",
+            "code": "CO",
+            "region_id": 3,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 64,
+            "score": 48
+        }
+    },
+    {
+        "id": 211707,
+        "passport_id": 145,
+        "rank": 64,
+        "year": 2008,
+        "score": 48,
+        "passport": {
+            "id": 145,
+            "name": "Senegal",
+            "code": "SN",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 64,
+            "score": 48
+        }
+    },
+    {
+        "id": 21389,
+        "passport_id": 136,
+        "rank": 65,
+        "year": 2008,
+        "score": 47,
+        "passport": {
+            "id": 136,
+            "name": "Benin",
+            "code": "BJ",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 65,
+            "score": 47
+        }
+    },
+    {
+        "id": 21519,
+        "passport_id": 127,
+        "rank": 65,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 127,
+            "name": "Cape Verde Islands",
+            "code": "CV",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 65,
+            "score": 0
+        }
+    },
+    {
+        "id": 21619,
+        "passport_id": 146,
+        "rank": 65,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 146,
+            "name": "Cote d'Ivoire",
+            "code": "CI",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 65,
+            "score": 0
+        }
+    },
+    {
+        "id": 211069,
+        "passport_id": 114,
+        "rank": 65,
+        "year": 2008,
+        "score": 47,
+        "passport": {
+            "id": 114,
+            "name": "Kazakhstan",
+            "code": "KZ",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 65,
+            "score": 47
+        }
+    },
+    {
+        "id": 211277,
+        "passport_id": 150,
+        "rank": 65,
+        "year": 2008,
+        "score": 47,
+        "passport": {
+            "id": 150,
+            "name": "Mali",
+            "code": "ML",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 65,
+            "score": 47
+        }
+    },
+    {
+        "id": 211477,
+        "passport_id": 151,
+        "rank": 65,
+        "year": 2008,
+        "score": 47,
+        "passport": {
+            "id": 151,
+            "name": "Niger",
+            "code": "NE",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 65,
+            "score": 47
+        }
+    },
+    {
+        "id": 21279,
+        "passport_id": 139,
+        "rank": 66,
+        "year": 2008,
+        "score": 46,
+        "passport": {
+            "id": 139,
+            "name": "Armenia",
+            "code": "AM",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 66,
+            "score": 46
+        }
+    },
+    {
+        "id": 21829,
+        "passport_id": 95,
+        "rank": 66,
+        "year": 2008,
+        "score": 46,
+        "passport": {
+            "id": 95,
+            "name": "Georgia",
+            "code": "GE",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 66,
+            "score": 46
+        }
+    },
+    {
+        "id": 21889,
+        "passport_id": 149,
+        "rank": 66,
+        "year": 2008,
+        "score": 46,
+        "passport": {
+            "id": 149,
+            "name": "Guinea",
+            "code": "GN",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 66,
+            "score": 46
+        }
+    },
+    {
+        "id": 211347,
+        "passport_id": 87,
+        "rank": 66,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 87,
+            "name": "Moldova",
+            "code": "MD",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 66,
+            "score": 0
+        }
+    },
+    {
+        "id": 211487,
+        "passport_id": 173,
+        "rank": 67,
+        "year": 2008,
+        "score": 45,
+        "passport": {
+            "id": 173,
+            "name": "Nigeria",
+            "code": "NG",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 67,
+            "score": 45
+        }
+    },
+    {
+        "id": 21309,
+        "passport_id": 126,
+        "rank": 68,
+        "year": 2008,
+        "score": 44,
+        "passport": {
+            "id": 126,
+            "name": "Azerbaijan",
+            "code": "AZ",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 68,
+            "score": 44
+        }
+    },
+    {
+        "id": 21469,
+        "passport_id": 142,
+        "rank": 68,
+        "year": 2008,
+        "score": 44,
+        "passport": {
+            "id": 142,
+            "name": "Burkina Faso",
+            "code": "BF",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 68,
+            "score": 44
+        }
+    },
+    {
+        "id": 211117,
+        "passport_id": 140,
+        "rank": 68,
+        "year": 2008,
+        "score": 44,
+        "passport": {
+            "id": 140,
+            "name": "Kyrgyzstan",
+            "code": "KG",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 68,
+            "score": 44
+        }
+    },
+    {
+        "id": 211947,
+        "passport_id": 152,
+        "rank": 68,
+        "year": 2008,
+        "score": 44,
+        "passport": {
+            "id": 152,
+            "name": "Tajikistan",
+            "code": "TJ",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 68,
+            "score": 44
+        }
+    },
+    {
+        "id": 21699,
+        "passport_id": 132,
+        "rank": 69,
+        "year": 2008,
+        "score": 43,
+        "passport": {
+            "id": 132,
+            "name": "Dominican Republic",
+            "code": "DO",
+            "region_id": 4,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 69,
+            "score": 43
+        }
+    },
+    {
+        "id": 21979,
+        "passport_id": 128,
+        "rank": 69,
+        "year": 2008,
+        "score": 43,
+        "passport": {
+            "id": 128,
+            "name": "Indonesia",
+            "code": "ID",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 69,
+            "score": 43
+        }
+    },
+    {
+        "id": 211337,
+        "passport_id": 90,
+        "rank": 69,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 90,
+            "name": "Micronesia",
+            "code": "FM",
+            "region_id": 8,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 69,
+            "score": 0
+        }
+    },
+    {
+        "id": 211987,
+        "passport_id": 148,
+        "rank": 69,
+        "year": 2008,
+        "score": 43,
+        "passport": {
+            "id": 148,
+            "name": "Togo",
+            "code": "TG",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 69,
+            "score": 43
+        }
+    },
+    {
+        "id": 21639,
+        "passport_id": 131,
+        "rank": 70,
+        "year": 2008,
+        "score": 42,
+        "passport": {
+            "id": 131,
+            "name": "Cuba",
+            "code": "CU",
+            "region_id": 4,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 70,
+            "score": 42
+        }
+    },
+    {
+        "id": 21899,
+        "passport_id": 160,
+        "rank": 70,
+        "year": 2008,
+        "score": 42,
+        "passport": {
+            "id": 160,
+            "name": "Guinea-Bissau",
+            "code": "GW",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 70,
+            "score": 42
+        }
+    },
+    {
+        "id": 211387,
+        "passport_id": 138,
+        "rank": 70,
+        "year": 2008,
+        "score": 42,
+        "passport": {
+            "id": 138,
+            "name": "Morocco",
+            "code": "MA",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 70,
+            "score": 42
+        }
+    },
+    {
+        "id": 211697,
+        "passport_id": 120,
+        "rank": 70,
+        "year": 2008,
+        "score": 42,
+        "passport": {
+            "id": 120,
+            "name": "Saudi Arabia",
+            "code": "SA",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 70,
+            "score": 42
+        }
+    },
+    {
+        "id": 212117,
+        "passport_id": 153,
+        "rank": 71,
+        "year": 2008,
+        "score": 41,
+        "passport": {
+            "id": 153,
+            "name": "Uzbekistan",
+            "code": "UZ",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 71,
+            "score": 41
+        }
+    },
+    {
+        "id": 21419,
+        "passport_id": 93,
+        "rank": 72,
+        "year": 2008,
+        "score": 40,
+        "passport": {
+            "id": 93,
+            "name": "Bosnia and Herzegovina",
+            "code": "BA",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 72,
+            "score": 40
+        }
+    },
+    {
+        "id": 211167,
+        "passport_id": 171,
+        "rank": 72,
+        "year": 2008,
+        "score": 40,
+        "passport": {
+            "id": 171,
+            "name": "Liberia",
+            "code": "LR",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 72,
+            "score": 40
+        }
+    },
+    {
+        "id": 21339,
+        "passport_id": 186,
+        "rank": 73,
+        "year": 2008,
+        "score": 39,
+        "passport": {
+            "id": 186,
+            "name": "Bangladesh",
+            "code": "BD",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 73,
+            "score": 39
+        }
+    },
+    {
+        "id": 211237,
+        "passport_id": 157,
+        "rank": 73,
+        "year": 2008,
+        "score": 39,
+        "passport": {
+            "id": 157,
+            "name": "Madagascar",
+            "code": "MG",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 73,
+            "score": 39
+        }
+    },
+    {
+        "id": 211367,
+        "passport_id": 147,
+        "rank": 73,
+        "year": 2008,
+        "score": 39,
+        "passport": {
+            "id": 147,
+            "name": "Mongolia",
+            "code": "MN",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 73,
+            "score": 39
+        }
+    },
+    {
+        "id": 212037,
+        "passport_id": 162,
+        "rank": 74,
+        "year": 2008,
+        "score": 38,
+        "passport": {
+            "id": 162,
+            "name": "Turkmenistan",
+            "code": "TM",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 74,
+            "score": 38
+        }
+    },
+    {
+        "id": 21499,
+        "passport_id": 175,
+        "rank": 75,
+        "year": 2008,
+        "score": 37,
+        "passport": {
+            "id": 175,
+            "name": "Cameroon",
+            "code": "CM",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 75,
+            "score": 37
+        }
+    },
+    {
+        "id": 21529,
+        "passport_id": 165,
+        "rank": 75,
+        "year": 2008,
+        "score": 37,
+        "passport": {
+            "id": 165,
+            "name": "Central African Republic",
+            "code": "CF",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 75,
+            "score": 37
+        }
+    },
+    {
+        "id": 21539,
+        "passport_id": 155,
+        "rank": 75,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 155,
+            "name": "Chad",
+            "code": "TD",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 75,
+            "score": 0
+        }
+    },
+    {
+        "id": 21969,
+        "passport_id": 163,
+        "rank": 75,
+        "year": 2008,
+        "score": 37,
+        "passport": {
+            "id": 163,
+            "name": "India",
+            "code": "IN",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 75,
+            "score": 37
+        }
+    },
+    {
+        "id": 211397,
+        "passport_id": 144,
+        "rank": 75,
+        "year": 2008,
+        "score": 37,
+        "passport": {
+            "id": 144,
+            "name": "Mozambique",
+            "code": "MZ",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 75,
+            "score": 37
+        }
+    },
+    {
+        "id": 211687,
+        "passport_id": 141,
+        "rank": 75,
+        "year": 2008,
+        "score": 37,
+        "passport": {
+            "id": 141,
+            "name": "Sao Tome and Principe",
+            "code": "ST",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 75,
+            "score": 37
+        }
+    },
+    {
+        "id": 211977,
+        "passport_id": 99,
+        "rank": 75,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 99,
+            "name": "Timor-Leste",
+            "code": "TL",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 75,
+            "score": 0
+        }
+    },
+    {
+        "id": 21219,
+        "passport_id": 94,
+        "rank": 76,
+        "year": 2008,
+        "score": 36,
+        "passport": {
+            "id": 94,
+            "name": "Albania",
+            "code": "AL",
+            "region_id": 5,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 76,
+            "score": 36
+        }
+    },
+    {
+        "id": 21229,
+        "passport_id": 166,
+        "rank": 76,
+        "year": 2008,
+        "score": 36,
+        "passport": {
+            "id": 166,
+            "name": "Algeria",
+            "code": "DZ",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 76,
+            "score": 36
+        }
+    },
+    {
+        "id": 21399,
+        "passport_id": 158,
+        "rank": 76,
+        "year": 2008,
+        "score": 36,
+        "passport": {
+            "id": 158,
+            "name": "Bhutan",
+            "code": "BT",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 76,
+            "score": 36
+        }
+    },
+    {
+        "id": 21599,
+        "passport_id": 176,
+        "rank": 76,
+        "year": 2008,
+        "score": 36,
+        "passport": {
+            "id": 176,
+            "name": "Congo (Rep.)",
+            "code": "CG",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 76,
+            "score": 36
+        }
+    },
+    {
+        "id": 21919,
+        "passport_id": 154,
+        "rank": 76,
+        "year": 2008,
+        "score": 36,
+        "passport": {
+            "id": 154,
+            "name": "Haiti",
+            "code": "HT",
+            "region_id": 4,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 76,
+            "score": 36
+        }
+    },
+    {
+        "id": 21809,
+        "passport_id": 156,
+        "rank": 77,
+        "year": 2008,
+        "score": 35,
+        "passport": {
+            "id": 156,
+            "name": "Gabon",
+            "code": "GA",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 77,
+            "score": 35
+        }
+    },
+    {
+        "id": 21719,
+        "passport_id": 168,
+        "rank": 78,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 168,
+            "name": "Egypt",
+            "code": "EG",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 78,
+            "score": 0
+        }
+    },
+    {
+        "id": 211657,
+        "passport_id": 161,
+        "rank": 78,
+        "year": 2008,
+        "score": 34,
+        "passport": {
+            "id": 161,
+            "name": "Rwanda",
+            "code": "RW",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 78,
+            "score": 34
+        }
+    },
+    {
+        "id": 21559,
+        "passport_id": 137,
+        "rank": 79,
+        "year": 2008,
+        "score": 33,
+        "passport": {
+            "id": 137,
+            "name": "China",
+            "code": "CN",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 79,
+            "score": 33
+        }
+    },
+    {
+        "id": 211127,
+        "passport_id": 170,
+        "rank": 79,
+        "year": 2008,
+        "score": 33,
+        "passport": {
+            "id": 170,
+            "name": "Laos",
+            "code": "LA",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 79,
+            "score": 33
+        }
+    },
+    {
+        "id": 211837,
+        "passport_id": 181,
+        "rank": 79,
+        "year": 2008,
+        "score": 33,
+        "passport": {
+            "id": 181,
+            "name": "Sri Lanka",
+            "code": "LK",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 79,
+            "score": 33
+        }
+    },
+    {
+        "id": 212157,
+        "passport_id": 172,
+        "rank": 79,
+        "year": 2008,
+        "score": 33,
+        "passport": {
+            "id": 172,
+            "name": "Vietnam",
+            "code": "VN",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 79,
+            "score": 33
+        }
+    },
+    {
+        "id": 211177,
+        "passport_id": 191,
+        "rank": 80,
+        "year": 2008,
+        "score": 32,
+        "passport": {
+            "id": 191,
+            "name": "Libya",
+            "code": "LY",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 80,
+            "score": 32
+        }
+    },
+    {
+        "id": 211437,
+        "passport_id": 192,
+        "rank": 80,
+        "year": 2008,
+        "score": 32,
+        "passport": {
+            "id": 192,
+            "name": "Nepal",
+            "code": "NP",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 80,
+            "score": 32
+        }
+    },
+    {
+        "id": 21249,
+        "passport_id": 167,
+        "rank": 81,
+        "year": 2008,
+        "score": 31,
+        "passport": {
+            "id": 167,
+            "name": "Angola",
+            "code": "AO",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 81,
+            "score": 31
+        }
+    },
+    {
+        "id": 21579,
+        "passport_id": 159,
+        "rank": 81,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 159,
+            "name": "Comoro Islands",
+            "code": "KM",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 81,
+            "score": 0
+        }
+    },
+    {
+        "id": 21479,
+        "passport_id": 174,
+        "rank": 82,
+        "year": 2008,
+        "score": 30,
+        "passport": {
+            "id": 174,
+            "name": "Burundi",
+            "code": "BI",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 82,
+            "score": 30
+        }
+    },
+    {
+        "id": 21739,
+        "passport_id": 169,
+        "rank": 82,
+        "year": 2008,
+        "score": 30,
+        "passport": {
+            "id": 169,
+            "name": "Equatorial Guinea",
+            "code": "GQ",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 82,
+            "score": 30
+        }
+    },
+    {
+        "id": 211059,
+        "passport_id": 177,
+        "rank": 82,
+        "year": 2008,
+        "score": 30,
+        "passport": {
+            "id": 177,
+            "name": "Jordan",
+            "code": "JO",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 82,
+            "score": 30
+        }
+    },
+    {
+        "id": 211927,
+        "passport_id": 197,
+        "rank": 82,
+        "year": 2008,
+        "score": 30,
+        "passport": {
+            "id": 197,
+            "name": "Syria",
+            "code": "SY",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 82,
+            "score": 30
+        }
+    },
+    {
+        "id": 212167,
+        "passport_id": 194,
+        "rank": 82,
+        "year": 2008,
+        "score": 30,
+        "passport": {
+            "id": 194,
+            "name": "Yemen",
+            "code": "YE",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 82,
+            "score": 30
+        }
+    },
+    {
+        "id": 21489,
+        "passport_id": 164,
+        "rank": 83,
+        "year": 2008,
+        "score": 29,
+        "passport": {
+            "id": 164,
+            "name": "Cambodia",
+            "code": "KH",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 83,
+            "score": 29
+        }
+    },
+    {
+        "id": 21749,
+        "passport_id": 190,
+        "rank": 83,
+        "year": 2008,
+        "score": 29,
+        "passport": {
+            "id": 190,
+            "name": "Eritrea",
+            "code": "ER",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 83,
+            "score": 29
+        }
+    },
+    {
+        "id": 21769,
+        "passport_id": 183,
+        "rank": 83,
+        "year": 2008,
+        "score": 29,
+        "passport": {
+            "id": 183,
+            "name": "Ethiopia",
+            "code": "ET",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 83,
+            "score": 29
+        }
+    },
+    {
+        "id": 211497,
+        "passport_id": 184,
+        "rank": 83,
+        "year": 2008,
+        "score": 29,
+        "passport": {
+            "id": 184,
+            "name": "North Korea",
+            "code": "KP",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 83,
+            "score": 29
+        }
+    },
+    {
+        "id": 21679,
+        "passport_id": 178,
+        "rank": 84,
+        "year": 2008,
+        "score": 28,
+        "passport": {
+            "id": 178,
+            "name": "Djibouti",
+            "code": "DJ",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 84,
+            "score": 28
+        }
+    },
+    {
+        "id": 211147,
+        "passport_id": 189,
+        "rank": 85,
+        "year": 2008,
+        "score": 27,
+        "passport": {
+            "id": 189,
+            "name": "Lebanon",
+            "code": "LB",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 85,
+            "score": 27
+        }
+    },
+    {
+        "id": 211407,
+        "passport_id": 180,
+        "rank": 85,
+        "year": 2008,
+        "score": 27,
+        "passport": {
+            "id": 180,
+            "name": "Myanmar",
+            "code": "MM",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 85,
+            "score": 27
+        }
+    },
+    {
+        "id": 211817,
+        "passport_id": 185,
+        "rank": 86,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 185,
+            "name": "South Sudan",
+            "code": "SS",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 86,
+            "score": 0
+        }
+    },
+    {
+        "id": 211877,
+        "passport_id": 182,
+        "rank": 86,
+        "year": 2008,
+        "score": 26,
+        "passport": {
+            "id": 182,
+            "name": "Sudan",
+            "code": "SD",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 86,
+            "score": 26
+        }
+    },
+    {
+        "id": 21989,
+        "passport_id": 187,
+        "rank": 87,
+        "year": 2008,
+        "score": 25,
+        "passport": {
+            "id": 187,
+            "name": "Iran",
+            "code": "IR",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 87,
+            "score": 25
+        }
+    },
+    {
+        "id": 211527,
+        "passport_id": 196,
+        "rank": 87,
+        "year": 2008,
+        "score": 25,
+        "passport": {
+            "id": 196,
+            "name": "Pakistan",
+            "code": "PK",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 87,
+            "score": 25
+        }
+    },
+    {
+        "id": 211787,
+        "passport_id": 195,
+        "rank": 87,
+        "year": 2008,
+        "score": 25,
+        "passport": {
+            "id": 195,
+            "name": "Somalia",
+            "code": "SO",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 87,
+            "score": 25
+        }
+    },
+    {
+        "id": 21999,
+        "passport_id": 198,
+        "rank": 88,
+        "year": 2008,
+        "score": 23,
+        "passport": {
+            "id": 198,
+            "name": "Iraq",
+            "code": "IQ",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 88,
+            "score": 23
+        }
+    },
+    {
+        "id": 21209,
+        "passport_id": 199,
+        "rank": 89,
+        "year": 2008,
+        "score": 22,
+        "passport": {
+            "id": 199,
+            "name": "Afghanistan",
+            "code": "AF",
+            "region_id": 6,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 89,
+            "score": 22
+        }
+    },
+    {
+        "id": 21589,
+        "passport_id": 179,
+        "rank": 90,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 179,
+            "name": "Congo (Dem. Rep.)",
+            "code": "CD",
+            "region_id": 1,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 90,
+            "score": 0
+        }
+    },
+    {
+        "id": 211547,
+        "passport_id": 193,
+        "rank": 97,
+        "year": 2008,
+        "score": 0,
+        "passport": {
+            "id": 193,
+            "name": "Palestinian Territory",
+            "code": "PS",
+            "region_id": 7,
+            "latitude": "0.00000000",
+            "longitude": "0.00000000",
+            "rank": 97,
+            "score": 0
+        }
+    }
+]
