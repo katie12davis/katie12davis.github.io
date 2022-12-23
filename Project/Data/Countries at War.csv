@@ -1,0 +1,33 @@
+"place","pop2022","growthRate","area","country","cca3","cca2","ccn3","region","subregion","landAreaKm","density","densityMi","Rank","casRange2022","type","casRange20to21","rank"
+104,54179306,0.00709,676578,"Myanmar","MMR","MM",104,"Asia","South-Eastern Asia",652670,83.0118,215.0005,26,"10,000+","Civil War","1,000 to 10,000",7
+643,144713314,-0.00268,17098242,"Russia","RUS","RU",643,"Europe","Eastern Europe",16376870,8.8364,22.8864,9,"10,000+","Russo-Ukrainian War","0 to 999",2
+804,39701739,-0.08798,603500,"Ukraine","UKR","UA",804,"Europe","Eastern Europe",579400,68.5222,177.4724,38,"10,000+","Russo-Ukrainian War","0 to 999",14
+4,41128771,0.02567,652230,"Afghanistan","AFG","AF",4,"Asia",South Central Asia,Southern Asia,652230,63.0587,163.322,36,"1,000 to 10,000","Civil War/Terrorist Insurgency","10,000+",13
+854,22673762,0.02593,272967,"Burkina Faso","BFA","BF",854,"Africa",Western Africa,Sub-Saharan Africa,273600,82.8719,214.6383,58,"1,000 to 10,000","Terrorist Insurgency","1,000 to 10,000",21
+170,51874024,0.00694,1141748,"Colombia","COL","CO",170,"South America",South America,Latin America,1109500,46.7544,121.0939,28,"1,000 to 10,000","Civil War/Drug War","1,000 to 10,000",8
+180,99010212,0.0325,2344858,"DR Congo","COD","CD",180,"Africa",Middle Africa,Sub-Saharan Africa,2267050,43.6736,113.1146,15,"1,000 to 10,000","Terrorist Insurgency","1,000 to 10,000",5
+231,123379924,0.02575,1104300,"Ethiopia","ETH","ET",231,"Africa",Eastern Africa,Sub-Saharan Africa,1128571.3,109.324,283.1491,12,"1,000 to 10,000","Civil War","10,000+",4
+368,44496122,0.02211,438317,"Iraq","IRQ","IQ",368,"Asia",Western Asia,The Middle East,434128,102.4954,265.4631,35,"1,000 to 10,000","Terrorist Insurgency/Political Unrest","1,000 to 10,000",12
+466,22593590,0.03144,1240192,"Mali","MLI","ML",466,"Africa",Western Africa,Sub-Saharan Africa,1220190,18.5165,47.9576,59,"1,000 to 10,000","Civil War/Terrorist Insurgency","1,000 to 10,000",22
+484,127504125,0.00631,1964375,"Mexico","MEX","MX",484,"North America",Central America,Latin America,1943950,65.5902,169.8787,10,"1,000 to 10,000","Drug War","10,000+",3
+566,218541212,0.02409,923768,"Nigeria","NGA","NG",566,"Africa",Western Africa,Sub-Saharan Africa,910770,239.9521,621.476,6,"1,000 to 10,000","Terrorist Insurgency","1,000 to 10,000",1
+706,17597511,0.03117,637657,"Somalia","SOM","SO",706,"Africa",Eastern Africa,Sub-Saharan Africa,627340,28.051,72.6521,70,"1,000 to 10,000","Civil War","1,000 to 10,000",25
+728,10913164,0.01534,619745,"South Sudan","SSD","SS",728,"Africa",Middle Africa,Sub-Saharan Africa,631930,17.2696,44.7282,86,"1,000 to 10,000","Ethnic Violence","1,000 to 10,000",28
+729,46874204,0.02666,1886068,"Sudan","SDN","SD",729,"Africa","Northern Africa",1868000,25.0933,64.9915,32,"1,000 to 10,000","Terrorist Insurgency","1,000 to 10,000",10
+760,22125249,0.03756,185180,"Syria","SYR","SY",760,"Asia",Western Asia,The Middle East,183630,120.4882,312.0644,60,"1,000 to 10,000","Civil War","1,000 to 10,000",23
+887,33696614,0.02168,527968,"Yemen","YEM","YE",887,"Asia",Western Asia,The Middle East,527970,63.823,165.3015,46,"1,000 to 10,000","Civil War","10,000+",15
+12,44903225,0.01642,2381741,"Algeria","DZA","DZ",12,"Africa","Northern Africa",2381741,18.8531,48.8296,34,"0 to 999","Terrorist Insurgency","1,000 to 10,000",11
+204,13352864,0.02739,112622,"Benin","BEN","BJ",204,"Africa",Western Africa,Sub-Saharan Africa,112760,118.4184,306.7038,77,"0 to 999","Terrorist Insurgency","1,000 to 10,000",26
+120,27914536,0.02632,475442,"Cameroon","CMR","CM",120,"Africa",Middle Africa,Sub-Saharan Africa,472710,59.0521,152.945,53,"0 to 999","Terrorist Insurgency","1,000 to 10,000",19
+140,5579144,0.02235,622984,"Central African Republic","CAF","CF",140,"Africa",Middle Africa,Sub-Saharan Africa,622980,8.9556,23.1949,117,"0 to 999","Civil War","0 to 999",31
+148,17723315,0.03164,1284000,"Chad","TCD","TD",148,"Africa",Middle Africa,Sub-Saharan Africa,1259200,14.0751,36.4544,69,"0 to 999","Terrorist Insurgency","1,000 to 10,000",24
+288,33475870.000000004,0.01958,238533,"Ghana","GHA","GH",288,"Africa",Western Africa,Sub-Saharan Africa,227533,147.1253,381.0546,47,"0 to 999","Terrorist Insurgency","1,000 to 10,000",16
+384,28160542,0.02483,322463,"Ivory Coast","CIV","CI",384,"Africa",Western Africa,Sub-Saharan Africa,318000,88.5552,229.3579,52,"0 to 999","Terrorist Insurgency","1,000 to 10,000",18
+434,6812341,0.01144,1759540,"Libya","LBY","LY",434,"Africa","Northern Africa",1759540,3.8717,10.0276,107,"0 to 999","Civil War","1,000 to 10,000",30
+478,4736139,0.02626,1030700,"Mauritania","MRT","MR",478,"Africa",Western Africa,Sub-Saharan Africa,1030700,4.5951,11.9012,126,"0 to 999","Terrorist Insurgency","1,000 to 10,000",32
+508,32969517.999999996,0.02782,801590,"Mozambique","MOZ","MZ",508,"Africa",Eastern Africa,Sub-Saharan Africa,786380,41.9257,108.5875,48,"0 to 999","Terrorist Insurgency","1,000 to 10,000",17
+562,26207977,0.03783,1267000,"Niger","NER","NE",562,"Africa",Western Africa,Sub-Saharan Africa,1266700,20.69,53.587,54,"0 to 999","Terrorist Insurgency","1,000 to 10,000",20
+834,65497748,0.03003,945087,"Tanzania","TZA","TZ",834,"Africa",Eastern Africa,Sub-Saharan Africa,885800,73.9419,191.5096,22,"0 to 999","Terrorist Insurgency","1,000 to 10,000",6
+768,8848699,0.02358,56785,"Togo","TGO","TG",768,"Africa",Western Africa,Sub-Saharan Africa,54390,162.6898,421.3666,100,"0 to 999","Terrorist Insurgency","1,000 to 10,000",29
+788,12356117,0.0076,163610,"Tunisia","TUN","TN",788,"Africa","Northern Africa",155360,79.5322,205.9883,79,"0 to 999","Terrorist Insurgency","1,000 to 10,000",27
+800,47249585,0.03044,241550,"Uganda","UGA","UG",800,"Africa",Eastern Africa,Sub-Saharan Africa,200520,235.6353,610.2954,31,"0 to 999","Terrorist Insurgency","1,000 to 10,000",9
