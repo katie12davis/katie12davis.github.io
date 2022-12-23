@@ -1,0 +1,33 @@
+place,pop2022,growthRate,area,country,cca3,?,cca2,ccn3,region,subregion,casRange2022,type
+4,41128771,0.02567,652230,Afghanistan,AFG,At War,AF,4,Asia,South Central Asia,"1,000 to 10,000",Civil War/Terrorist Insurgency
+204,13352864,0.02739,112622,Benin,BEN,At War,BJ,204,Africa,Western Africa,0 to 999,Terrorist Insurgency
+854,22673762,0.02593,272967,Burkina Faso,BFA,At War,BF,854,Africa,Western Africa,"1,000 to 10,000",Terrorist Insurgency
+140,5579144,0.02235,622984,Central African Republic,CAF,At War,CF,140,Africa,Middle Africa,0 to 999,Civil War
+384,28160542,0.02483,322463,Ivory Coast,CIV,At War,CI,384,Africa,Western Africa,0 to 999,Terrorist Insurgency
+120,27914536,0.02632,475442,Cameroon,CMR,At War,CM,120,Africa,Middle Africa,0 to 999,Terrorist Insurgency
+180,99010212,0.0325,2344858,DR Congo,COD,At War,CD,180,Africa,Middle Africa,"1,000 to 10,000",Terrorist Insurgency
+170,51874024,0.00694,1141748,Colombia,COL,At War,CO,170,South America,South America,"1,000 to 10,000",Civil War/Drug War
+12,44903225,0.01642,2381741,Algeria,DZA,At War,DZ,12,Africa,Northern Africa,0 to 999,Terrorist Insurgency
+231,123379924,0.02575,1104300,Ethiopia,ETH,At War,ET,231,Africa,Eastern Africa,"1,000 to 10,000",Civil War
+288,33475870,0.01958,238533,Ghana,GHA,At War,GH,288,Africa,Western Africa,0 to 999,Terrorist Insurgency
+368,44496122,0.02211,438317,Iraq,IRQ,At War,IQ,368,Asia,Western Asia,"1,000 to 10,000",Terrorist Insurgency/Political Unrest
+434,6812341,0.01144,1759540,Libya,LBY,At War,LY,434,Africa,Northern Africa,0 to 999,Civil War
+484,127504125,0.00631,1964375,Mexico,MEX,At War,MX,484,North America,Central America,"1,000 to 10,000",Drug War
+466,22593590,0.03144,1240192,Mali,MLI,At War,ML,466,Africa,Western Africa,"1,000 to 10,000",Civil War/Terrorist Insurgency
+104,54179306,0.00709,676578,Myanmar,MMR,At War,MM,104,Asia,South-Eastern Asia,"10,000+",Civil War
+508,32969518,0.02782,801590,Mozambique,MOZ,At War,MZ,508,Africa,Eastern Africa,0 to 999,Terrorist Insurgency
+478,4736139,0.02626,1030700,Mauritania,MRT,At War,MR,478,Africa,Western Africa,0 to 999,Terrorist Insurgency
+562,26207977,0.03783,1267000,Niger,NER,At War,NE,562,Africa,Western Africa,0 to 999,Terrorist Insurgency
+566,218541212,0.02409,923768,Nigeria,NGA,At War,NG,566,Africa,Western Africa,"1,000 to 10,000",Terrorist Insurgency
+643,144713314,-0.00268,17098242,Russia,RUS,At War,RU,643,Europe,Eastern Europe,"10,000+",Russo-Ukrainian War
+729,46874204,0.02666,1886068,Sudan,SDN,At War,SD,729,Africa,Northern Africa,"1,000 to 10,000",Terrorist Insurgency
+706,17597511,0.03117,637657,Somalia,SOM,At War,SO,706,Africa,Eastern Africa,"1,000 to 10,000",Civil War
+728,10913164,0.01534,619745,South Sudan,SSD,At War,SS,728,Africa,Middle Africa,"1,000 to 10,000",Ethnic Violence
+760,22125249,0.03756,185180,Syria,SYR,At War,SY,760,Asia,Western Asia,"1,000 to 10,000",Civil War
+148,17723315,0.03164,1284000,Chad,TCD,At War,TD,148,Africa,Middle Africa,0 to 999,Terrorist Insurgency
+768,8848699,0.02358,56785,Togo,TGO,At War,TG,768,Africa,Western Africa,0 to 999,Terrorist Insurgency
+788,12356117,0.0076,163610,Tunisia,TUN,At War,TN,788,Africa,Northern Africa,0 to 999,Terrorist Insurgency
+834,65497748,0.03003,945087,Tanzania,TZA,At War,TZ,834,Africa,Eastern Africa,0 to 999,Terrorist Insurgency
+800,47249585,0.03044,241550,Uganda,UGA,At War,UG,800,Africa,Eastern Africa,0 to 999,Terrorist Insurgency
+804,39701739,-0.08798,603500,Ukraine,UKR,At War,UA,804,Europe,Eastern Europe,"10,000+",Russo-Ukrainian War
+887,33696614,0.02168,527968,Yemen,YEM,At War,YE,887,Asia,Western Asia,"1,000 to 10,000",Civil War
