@@ -1,0 +1,200 @@
+,passport_id,year_h,score,name,code,region_id,rank,code_lc
+0,1,2016,177,Germany,DE,5,1,de
+1,9,2016,176,Sweden,SE,5,2,se
+2,3,2016,175,Finland,FI,5,3,fi
+3,4,2016,175,France,FR,5,3,fr
+4,5,2016,175,Italy,IT,5,3,it
+5,15,2016,175,Spain,ES,5,3,es
+6,10,2016,175,United Kingdom,GB,5,3,gb
+7,12,2016,174,Belgium,BE,5,4,be
+8,2,2016,174,Denmark,DK,5,4,dk
+9,14,2016,174,Netherlands,NL,5,4,nl
+10,20,2016,174,United States,US,3,4,us
+11,11,2016,173,Austria,AT,5,5,at
+12,6,2016,173,Japan,JP,6,5,jp
+13,8,2016,173,Singapore,SG,6,5,sg
+14,21,2016,172,Canada,CA,3,6,ca
+15,17,2016,172,Ireland,IE,5,6,ie
+16,13,2016,172,Luxembourg,LU,5,6,lu
+17,7,2016,172,Norway,NO,5,6,no
+18,19,2016,172,Portugal,PT,5,6,pt
+19,18,2016,172,South Korea,KR,6,6,kr
+20,16,2016,172,Switzerland,CH,5,6,ch
+21,23,2016,171,Greece,GR,5,7,gr
+22,24,2016,171,New Zealand,NZ,8,7,nz
+23,22,2016,169,Australia,AU,8,8,au
+24,27,2016,168,Malta,MT,5,9,mt
+25,25,2016,167,Czech Republic,CZ,5,10,cz
+26,28,2016,167,Hungary,HU,5,10,hu
+27,26,2016,167,Iceland,IS,5,10,is
+28,30,2016,165,Slovakia,SK,5,11,sk
+29,29,2016,164,Liechtenstein,LI,5,12,li
+30,34,2016,164,Malaysia,MY,6,12,my
+31,31,2016,164,Slovenia,SI,5,12,si
+32,32,2016,163,Latvia,LV,5,13,lv
+33,35,2016,162,Estonia,EE,5,14,ee
+34,33,2016,162,Lithuania,LT,5,14,lt
+35,36,2016,161,Poland,PL,5,15,pl
+36,37,2016,160,Monaco,MC,5,16,mc
+37,39,2016,159,Cyprus,CY,5,17,cy
+38,43,2016,156,San Marino,SM,5,18,sm
+39,38,2016,155,Chile,CL,3,19,cl
+40,45,2016,154,Hong Kong (SAR China),HK,6,20,hk
+41,41,2016,153,Brazil,BR,3,21,br
+42,46,2016,153,Bulgaria,BG,5,21,bg
+43,47,2016,153,Romania,RO,5,21,ro
+44,42,2016,152,Andorra,AD,5,22,ad
+45,40,2016,152,Argentina,AR,3,22,ar
+46,48,2016,151,Brunei,BN,6,23,bn
+47,44,2016,149,Croatia,HR,5,24,hr
+48,49,2016,147,Israel,IL,7,25,il
+49,50,2016,141,Barbados,BB,4,26,bb
+50,52,2016,140,Bahamas,BS,4,27,bs
+51,51,2016,139,Mexico,MX,3,28,mx
+52,59,2016,137,Taiwan (Chinese Taipei),TW,6,29,tw
+53,54,2016,137,Uruguay,UY,3,29,uy
+54,58,2016,134,Antigua and Barbuda,AG,4,30,ag
+55,56,2016,134,Vatican City,VA,5,30,va
+56,53,2016,133,Seychelles,SC,1,31,sc
+57,55,2016,132,St. Kitts and Nevis,KN,4,32,kn
+58,64,2016,132,Venezuela,VE,3,32,ve
+59,57,2016,131,Costa Rica,CR,3,33,cr
+60,61,2016,130,Trinidad and Tobago,TT,4,34,tt
+61,60,2016,128,Mauritius,MU,1,35,mu
+62,65,2016,127,Panama,PA,3,36,pa
+63,63,2016,125,Paraguay,PY,3,37,py
+64,66,2016,125,St. Lucia,LC,4,37,lc
+65,67,2016,125,St. Vincent and the Grenadines,VC,4,37,vc
+66,62,2016,122,United Arab Emirates,AE,7,38,ae
+67,69,2016,121,Grenada,GD,4,39,gd
+68,68,2016,120,Macao (SAR China),MO,6,40,mo
+69,71,2016,119,Dominica,DM,4,41,dm
+70,70,2016,119,Honduras,HN,3,41,hn
+71,72,2016,116,Guatemala,GT,3,42,gt
+72,73,2016,115,El Salvador,SV,3,43,sv
+73,75,2016,115,Serbia,RS,5,43,rs
+74,77,2016,112,Samoa,WS,8,44,ws
+75,82,2016,0,North Macedonia,MK,5,45,mk
+76,79,2016,110,Nicaragua,NI,3,46,ni
+77,84,2016,110,Tonga,TO,8,46,to
+78,78,2016,110,Vanuatu,VU,8,46,vu
+79,88,2016,107,Montenegro,ME,5,47,me
+80,89,2016,105,Russian Federation,RU,5,48,ru
+81,92,2016,0,Palau Islands,PW,8,49,pw
+82,81,2016,103,Colombia,CO,3,50,co
+83,91,2016,102,Türkiye,TR,5,51,tr
+84,93,2016,101,Bosnia and Herzegovina,BA,5,52,ba
+85,87,2016,101,Moldova,MD,5,52,md
+86,94,2016,98,Albania,AL,5,53,al
+87,96,2016,97,South Africa,ZA,1,54,za
+88,97,2016,94,Belize,BZ,3,55,bz
+89,74,2016,86,Peru,PE,3,56,pe
+90,76,2016,86,Solomon Islands,SB,8,56,sb
+91,101,2016,82,Guyana,GY,3,57,gy
+92,102,2016,82,Kuwait,KW,7,57,kw
+93,99,2016,0,Timor-Leste,TL,6,57,tl
+94,85,2016,82,Tuvalu,TV,8,57,tv
+95,98,2016,81,Ecuador,EC,3,58,ec
+96,100,2016,81,Fiji,FJ,8,58,fj
+97,80,2016,81,Ukraine,UA,5,58,ua
+98,103,2016,80,Maldives,MV,6,59,mv
+99,104,2016,80,Nauru,NR,8,59,nr
+100,86,2016,79,Kiribati,KI,8,60,ki
+101,83,2016,79,Marshall Islands,MH,8,60,mh
+102,109,2016,79,Qatar,QA,7,60,qa
+103,105,2016,78,Jamaica,JM,4,61,jm
+104,106,2016,77,Papua New Guinea,PG,8,62,pg
+105,90,2016,75,Micronesia,FM,8,63,fm
+106,111,2016,74,Suriname,SR,3,64,sr
+107,110,2016,73,Bahrain,BH,7,65,bh
+108,107,2016,72,Bolivia,BO,3,66,bo
+109,108,2016,72,Botswana,BW,1,66,bw
+110,115,2016,71,Oman,OM,7,67,om
+111,113,2016,71,Thailand,TH,6,67,th
+112,112,2016,70,Namibia,NA,1,68,na
+113,119,2016,69,Lesotho,LS,1,69,ls
+114,120,2016,69,Saudi Arabia,SA,7,69,sa
+115,118,2016,68,Kenya,KE,1,70,ke
+116,116,2016,67,Belarus,BY,5,71,by
+117,95,2016,67,Georgia,GE,5,71,ge
+118,114,2016,67,Kazakhstan,KZ,6,71,kz
+119,122,2016,67,Malawi,MW,1,71,mw
+120,121,2016,67,The Gambia,GM,1,71,gm
+121,117,2016,67,eSwatini,SZ,1,71,sz
+122,123,2016,65,Tanzania,TZ,1,72,tz
+123,124,2016,65,Tunisia,TN,1,72,tn
+124,134,2016,64,Ghana,GH,1,73,gh
+125,125,2016,63,Zambia,ZM,1,74,zm
+126,126,2016,62,Azerbaijan,AZ,5,75,az
+127,127,2016,0,Cape Verde Islands,CV,1,76,cv
+128,129,2016,61,Philippines,PH,6,76,ph
+129,130,2016,60,Uganda,UG,1,77,ug
+130,136,2016,59,Benin,BJ,1,78,bj
+131,131,2016,59,Cuba,CU,4,78,cu
+132,138,2016,59,Morocco,MA,1,78,ma
+133,135,2016,59,Zimbabwe,ZW,1,78,zw
+134,128,2016,58,Indonesia,ID,6,79,id
+135,140,2016,58,Kyrgyzstan,KG,6,79,kg
+136,139,2016,57,Armenia,AM,7,80,am
+137,142,2016,56,Burkina Faso,BF,1,81,bf
+138,146,2016,56,"Ivoire""",CI,1,81,ci
+139,147,2016,56,Mongolia,MN,6,81,mn
+140,143,2016,55,Mauritania,MR,1,82,mr
+141,151,2016,55,Niger,NE,1,82,ne
+142,145,2016,55,Senegal,SN,1,82,sn
+143,148,2016,55,Togo,TG,1,82,tg
+144,132,2016,54,Dominican Republic,DO,4,83,do
+145,141,2016,54,Sao Tome and Principe,ST,1,83,st
+146,152,2016,53,Tajikistan,TJ,6,84,tj
+147,163,2016,52,India,IN,6,85,in
+148,150,2016,52,Mali,ML,1,85,ml
+149,153,2016,52,Uzbekistan,UZ,6,85,uz
+150,158,2016,51,Bhutan,BT,6,86,bt
+151,160,2016,51,Guinea-Bissau,GW,1,86,gw
+152,144,2016,51,Mozambique,MZ,1,86,mz
+153,133,2016,51,Sierra Leone,SL,1,86,sl
+154,164,2016,50,Cambodia,KH,6,87,kh
+155,137,2016,50,China,CN,6,87,cn
+156,155,2016,49,Chad,TD,1,88,td
+157,168,2016,49,Egypt,EG,1,88,eg
+158,156,2016,49,Gabon,GA,1,88,ga
+159,162,2016,49,Turkmenistan,TM,6,88,tm
+160,166,2016,48,Algeria,DZ,1,89,dz
+161,165,2016,48,Central African Republic,CF,1,89,cf
+162,154,2016,48,Haiti,HT,4,89,ht
+163,157,2016,48,Madagascar,MG,1,89,mg
+164,161,2016,48,Rwanda,RW,1,89,rw
+165,159,2016,0,Comoro Islands,KM,1,90,km
+166,177,2016,47,Jordan,JO,7,90,jo
+167,170,2016,47,Laos,LA,6,90,la
+168,172,2016,47,Vietnam,VN,6,90,vn
+169,149,2016,46,Guinea,GN,1,91,gn
+170,167,2016,45,Angola,AO,1,92,ao
+171,175,2016,45,Cameroon,CM,1,92,cm
+172,169,2016,45,Equatorial Guinea,GQ,1,92,gq
+173,173,2016,45,Nigeria,NG,1,92,ng
+174,176,2016,44,Congo (Rep.),CG,1,93,cg
+175,178,2016,44,Djibouti,DJ,1,93,dj
+176,171,2016,43,Liberia,LR,1,94,lr
+177,174,2016,42,Burundi,BI,1,95,bi
+178,180,2016,42,Myanmar,MM,6,95,mm
+179,184,2016,42,North Korea,KP,6,95,kp
+180,186,2016,39,Bangladesh,BD,6,96,bd
+181,179,2016,39,Congo (Dem. Rep.),CD,1,96,cd
+182,189,2016,39,Lebanon,LB,7,96,lb
+183,181,2016,39,Sri Lanka,LK,6,96,lk
+184,188,2016,38,Kosovo,XK,5,97,xk
+185,185,2016,38,South Sudan,SS,1,97,ss
+186,194,2016,38,Yemen,YE,7,97,ye
+187,190,2016,37,Eritrea,ER,1,98,er
+188,183,2016,37,Ethiopia,ET,1,98,et
+189,187,2016,37,Iran,IR,7,98,ir
+190,192,2016,37,Nepal,NP,6,98,np
+191,193,2016,37,Palestinian Territory,PS,7,98,ps
+192,182,2016,37,Sudan,SD,1,98,sd
+193,191,2016,36,Libya,LY,1,99,ly
+194,197,2016,32,Syria,SY,7,100,sy
+195,195,2016,31,Somalia,SO,1,101,so
+196,198,2016,30,Iraq,IQ,7,102,iq
+197,196,2016,29,Pakistan,PK,6,103,pk
+198,199,2016,25,Afghanistan,AF,6,104,af
