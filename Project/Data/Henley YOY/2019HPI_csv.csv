@@ -1,0 +1,200 @@
+,passport_id,year_h,score,name,code,region_id,rank,code_lc
+0,6,2019,190,Japan,JP,6,1,jp
+1,8,2019,190,Singapore,SG,6,1,sg
+2,3,2019,188,Finland,FI,5,2,fi
+3,1,2019,188,Germany,DE,5,2,de
+4,18,2019,188,South Korea,KR,6,2,kr
+5,2,2019,187,Denmark,DK,5,3,dk
+6,5,2019,187,Italy,IT,5,3,it
+7,13,2019,187,Luxembourg,LU,5,3,lu
+8,4,2019,186,France,FR,5,4,fr
+9,15,2019,186,Spain,ES,5,4,es
+10,9,2019,186,Sweden,SE,5,4,se
+11,11,2019,185,Austria,AT,5,5,at
+12,14,2019,185,Netherlands,NL,5,5,nl
+13,19,2019,185,Portugal,PT,5,5,pt
+14,12,2019,184,Belgium,BE,5,6,be
+15,21,2019,184,Canada,CA,3,6,ca
+16,23,2019,184,Greece,GR,5,6,gr
+17,17,2019,184,Ireland,IE,5,6,ie
+18,7,2019,184,Norway,NO,5,6,no
+19,16,2019,184,Switzerland,CH,5,6,ch
+20,10,2019,184,United Kingdom,GB,5,6,gb
+21,20,2019,184,United States,US,3,6,us
+22,25,2019,183,Czech Republic,CZ,5,7,cz
+23,27,2019,183,Malta,MT,5,7,mt
+24,24,2019,182,New Zealand,NZ,8,8,nz
+25,22,2019,181,Australia,AU,8,9,au
+26,33,2019,181,Lithuania,LT,5,9,lt
+27,30,2019,181,Slovakia,SK,5,9,sk
+28,28,2019,180,Hungary,HU,5,10,hu
+29,26,2019,180,Iceland,IS,5,10,is
+30,32,2019,180,Latvia,LV,5,10,lv
+31,31,2019,180,Slovenia,SI,5,10,si
+32,35,2019,179,Estonia,EE,5,11,ee
+33,29,2019,177,Liechtenstein,LI,5,12,li
+34,34,2019,177,Malaysia,MY,6,12,my
+35,38,2019,174,Chile,CL,3,13,cl
+36,36,2019,174,Poland,PL,5,13,pl
+37,39,2019,173,Cyprus,CY,5,14,cy
+38,37,2019,173,Monaco,MC,5,14,mc
+39,62,2019,172,United Arab Emirates,AE,7,15,ae
+40,47,2019,171,Romania,RO,5,16,ro
+41,40,2019,170,Argentina,AR,3,17,ar
+42,41,2019,170,Brazil,BR,3,17,br
+43,46,2019,170,Bulgaria,BG,5,17,bg
+44,44,2019,168,Croatia,HR,5,18,hr
+45,45,2019,168,Hong Kong (SAR China),HK,6,18,hk
+46,43,2019,167,San Marino,SM,5,19,sm
+47,42,2019,166,Andorra,AD,5,20,ad
+48,48,2019,165,Brunei,BN,6,21,bn
+49,50,2019,159,Barbados,BB,4,22,bb
+50,49,2019,159,Israel,IL,7,22,il
+51,51,2019,158,Mexico,MX,3,23,mx
+52,52,2019,154,Bahamas,BS,4,24,bs
+53,55,2019,154,St. Kitts and Nevis,KN,4,24,kn
+54,54,2019,153,Uruguay,UY,3,25,uy
+55,53,2019,151,Seychelles,SC,1,26,sc
+56,57,2019,150,Costa Rica,CR,3,27,cr
+57,58,2019,149,Antigua and Barbuda,AG,4,28,ag
+58,61,2019,148,Trinidad and Tobago,TT,4,29,tt
+59,56,2019,148,Vatican City,VA,5,29,va
+60,60,2019,146,Mauritius,MU,1,30,mu
+61,66,2019,145,St. Lucia,LC,4,31,lc
+62,67,2019,145,St. Vincent and the Grenadines,VC,4,31,vc
+63,59,2019,145,Taiwan (Chinese Taipei),TW,6,31,tw
+64,69,2019,142,Grenada,GD,4,32,gd
+65,63,2019,142,Paraguay,PY,3,32,py
+66,68,2019,141,Macao (SAR China),MO,6,33,mo
+67,65,2019,140,Panama,PA,3,34,pa
+68,71,2019,137,Dominica,DM,4,35,dm
+69,74,2019,135,Peru,PE,3,36,pe
+70,73,2019,134,El Salvador,SV,3,37,sv
+71,70,2019,134,Honduras,HN,3,37,hn
+72,72,2019,132,Guatemala,GT,3,38,gt
+73,64,2019,132,Venezuela,VE,3,38,ve
+74,77,2019,131,Samoa,WS,8,39,ws
+75,75,2019,131,Serbia,RS,5,39,rs
+76,76,2019,130,Solomon Islands,SB,8,40,sb
+77,78,2019,130,Vanuatu,VU,8,40,vu
+78,79,2019,128,Nicaragua,NI,3,41,ni
+79,85,2019,127,Tuvalu,TV,8,42,tv
+80,81,2019,126,Colombia,CO,3,43,co
+81,80,2019,126,Ukraine,UA,5,43,ua
+82,84,2019,125,Tonga,TO,8,44,to
+83,82,2019,123,North Macedonia,MK,5,45,mk
+84,86,2019,122,Kiribati,KI,8,46,ki
+85,83,2019,122,Marshall Islands,MH,8,46,mh
+86,88,2019,122,Montenegro,ME,5,46,me
+87,90,2019,119,Micronesia,FM,8,47,fm
+88,87,2019,119,Moldova,MD,5,47,md
+89,92,2019,119,Palau Islands,PW,8,47,pw
+90,89,2019,117,Russian Federation,RU,5,48,ru
+91,93,2019,116,Bosnia and Herzegovina,BA,5,49,ba
+92,95,2019,114,Georgia,GE,5,50,ge
+93,94,2019,113,Albania,AL,5,51,al
+94,91,2019,112,Türkiye,TR,5,52,tr
+95,96,2019,100,South Africa,ZA,1,53,za
+96,97,2019,99,Belize,BZ,3,54,bz
+97,99,2019,95,Timor-Leste,TL,6,55,tl
+98,102,2019,93,Kuwait,KW,7,56,kw
+99,109,2019,92,Qatar,QA,7,57,qa
+100,98,2019,91,Ecuador,EC,3,58,ec
+101,100,2019,88,Fiji,FJ,8,59,fj
+102,101,2019,87,Guyana,GY,3,60,gy
+103,104,2019,87,Nauru,NR,8,60,nr
+104,105,2019,84,Jamaica,JM,4,61,jm
+105,103,2019,84,Maldives,MV,6,61,mv
+106,108,2019,83,Botswana,BW,1,62,bw
+107,106,2019,83,Papua New Guinea,PG,8,62,pg
+108,110,2019,81,Bahrain,BH,7,63,bh
+109,115,2019,79,Oman,OM,7,64,om
+110,107,2019,78,Bolivia,BO,3,65,bo
+111,111,2019,78,Suriname,SR,3,65,sr
+112,113,2019,77,Thailand,TH,6,66,th
+113,112,2019,76,Namibia,NA,1,67,na
+114,116,2019,75,Belarus,BY,5,68,by
+115,114,2019,75,Kazakhstan,KZ,6,68,kz
+116,119,2019,74,Lesotho,LS,1,69,ls
+117,120,2019,74,Saudi Arabia,SA,7,69,sa
+118,117,2019,73,eSwatini,SZ,1,70,sz
+119,122,2019,72,Malawi,MW,1,71,mw
+120,137,2019,71,China,CN,6,72,cn
+121,118,2019,71,Kenya,KE,1,72,ke
+122,128,2019,70,Indonesia,ID,6,73,id
+123,125,2019,70,Zambia,ZM,1,73,zm
+124,121,2019,69,The Gambia,GM,1,74,gm
+125,123,2019,68,Tanzania,TZ,1,75,tz
+126,124,2019,68,Tunisia,TN,1,75,tn
+127,126,2019,66,Azerbaijan,AZ,5,76,az
+128,127,2019,66,Cape Verde Islands,CV,1,76,cv
+129,130,2019,66,Uganda,UG,1,76,ug
+130,131,2019,65,Cuba,CU,4,77,cu
+131,134,2019,65,Ghana,GH,1,77,gh
+132,129,2019,65,Philippines,PH,6,77,ph
+133,132,2019,64,Dominican Republic,DO,4,78,do
+134,135,2019,64,Zimbabwe,ZW,1,78,zw
+135,133,2019,63,Sierra Leone,SL,1,79,sl
+136,136,2019,62,Benin,BJ,1,80,bj
+137,140,2019,62,Kyrgyzstan,KG,6,80,kg
+138,147,2019,62,Mongolia,MN,6,80,mn
+139,138,2019,62,Morocco,MA,1,80,ma
+140,139,2019,60,Armenia,AM,7,81,am
+141,144,2019,60,Mozambique,MZ,1,81,mz
+142,141,2019,60,Sao Tome and Principe,ST,1,81,st
+143,163,2019,59,India,IN,6,82,in
+144,142,2019,58,Burkina Faso,BF,1,83,bf
+145,143,2019,58,Mauritania,MR,1,83,mr
+146,146,2019,57,"Ivoire""",CI,1,84,ci
+147,161,2019,57,Rwanda,RW,1,84,rw
+148,152,2019,57,Tajikistan,TJ,6,84,tj
+149,156,2019,56,Gabon,GA,1,85,ga
+150,149,2019,56,Guinea,GN,1,85,gn
+151,153,2019,56,Uzbekistan,UZ,6,85,uz
+152,145,2019,55,Senegal,SN,1,86,sn
+153,148,2019,55,Togo,TG,1,86,tg
+154,160,2019,54,Guinea-Bissau,GW,1,87,gw
+155,157,2019,54,Madagascar,MG,1,87,mg
+156,150,2019,54,Mali,ML,1,87,ml
+157,151,2019,54,Niger,NE,1,87,ne
+158,164,2019,53,Cambodia,KH,6,88,kh
+159,155,2019,53,Chad,TD,1,88,td
+160,159,2019,53,Comoro Islands,KM,1,88,km
+161,158,2019,52,Bhutan,BT,6,89,bt
+162,169,2019,52,Equatorial Guinea,GQ,1,89,gq
+163,165,2019,51,Central African Republic,CF,1,90,cf
+164,162,2019,51,Turkmenistan,TM,6,90,tm
+165,172,2019,51,Vietnam,VN,6,90,vn
+166,166,2019,50,Algeria,DZ,1,91,dz
+167,167,2019,49,Angola,AO,1,92,ao
+168,175,2019,49,Cameroon,CM,1,92,cm
+169,168,2019,49,Egypt,EG,1,92,eg
+170,154,2019,49,Haiti,HT,4,92,ht
+171,177,2019,49,Jordan,JO,7,92,jo
+172,170,2019,49,Laos,LA,6,92,la
+173,174,2019,48,Burundi,BI,1,93,bi
+174,171,2019,48,Liberia,LR,1,93,lr
+175,176,2019,47,Congo (Rep.),CG,1,94,cg
+176,178,2019,46,Djibouti,DJ,1,95,dj
+177,180,2019,46,Myanmar,MM,6,95,mm
+178,173,2019,46,Nigeria,NG,1,95,ng
+179,181,2019,43,Sri Lanka,LK,6,96,lk
+180,179,2019,42,Congo (Dem. Rep.),CD,1,97,cd
+181,183,2019,42,Ethiopia,ET,1,97,et
+182,185,2019,42,South Sudan,SS,1,97,ss
+183,188,2019,41,Kosovo,XK,5,98,xk
+184,186,2019,40,Bangladesh,BD,6,99,bd
+185,190,2019,40,Eritrea,ER,1,99,er
+186,187,2019,40,Iran,IR,7,99,ir
+187,189,2019,39,Lebanon,LB,7,100,lb
+188,184,2019,39,North Korea,KP,6,100,kp
+189,192,2019,38,Nepal,NP,6,101,np
+190,191,2019,37,Libya,LY,1,102,ly
+191,193,2019,37,Palestinian Territory,PS,7,102,ps
+192,182,2019,37,Sudan,SD,1,102,sd
+193,194,2019,33,Yemen,YE,7,103,ye
+194,196,2019,31,Pakistan,PK,6,104,pk
+195,195,2019,31,Somalia,SO,1,104,so
+196,197,2019,29,Syria,SY,7,105,sy
+197,198,2019,27,Iraq,IQ,7,106,iq
+198,199,2019,25,Afghanistan,AF,6,107,af
