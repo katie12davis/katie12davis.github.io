@@ -1,0 +1,200 @@
+,passport_id,year_h,score,name,code,region_id,rank,code_lc,Region
+0,6,2018,190,Japan,JP,6,1,jp,Asia
+1,8,2018,189,Singapore,SG,6,2,sg,Asia
+2,4,2018,188,France,FR,5,3,fr,Europe
+3,1,2018,188,Germany,DE,5,3,de,Europe
+4,18,2018,188,South Korea,KR,6,3,kr,Asia
+5,2,2018,187,Denmark,DK,5,4,dk,Europe
+6,3,2018,187,Finland,FI,5,4,fi,Europe
+7,5,2018,187,Italy,IT,5,4,it,Europe
+8,15,2018,187,Spain,ES,5,4,es,Europe
+9,9,2018,187,Sweden,SE,5,4,se,Europe
+10,11,2018,186,Austria,AT,5,5,at,Europe
+11,13,2018,186,Luxembourg,LU,5,5,lu,Europe
+12,14,2018,186,Netherlands,NL,5,5,nl,Europe
+13,7,2018,186,Norway,NO,5,5,no,Europe
+14,19,2018,186,Portugal,PT,5,5,pt,Europe
+15,10,2018,186,United Kingdom,GB,5,5,gb,Europe
+16,20,2018,186,United States,US,3,5,us,Americas
+17,12,2018,185,Belgium,BE,5,6,be,Europe
+18,21,2018,185,Canada,CA,3,6,ca,Americas
+19,17,2018,185,Ireland,IE,5,6,ie,Europe
+20,16,2018,185,Switzerland,CH,5,6,ch,Europe
+21,22,2018,183,Australia,AU,8,7,au,Oceania
+22,23,2018,183,Greece,GR,5,7,gr,Europe
+23,27,2018,183,Malta,MT,5,7,mt,Europe
+24,25,2018,182,Czech Republic,CZ,5,8,cz,Europe
+25,24,2018,182,New Zealand,NZ,8,8,nz,Oceania
+26,26,2018,181,Iceland,IS,5,9,is,Europe
+27,28,2018,180,Hungary,HU,5,10,hu,Europe
+28,34,2018,180,Malaysia,MY,6,10,my,Asia
+29,31,2018,180,Slovenia,SI,5,10,si,Europe
+30,32,2018,179,Latvia,LV,5,11,lv,Europe
+31,33,2018,179,Lithuania,LT,5,11,lt,Europe
+32,30,2018,179,Slovakia,SK,5,11,sk,Europe
+33,35,2018,178,Estonia,EE,5,12,ee,Europe
+34,29,2018,178,Liechtenstein,LI,5,12,li,Europe
+35,36,2018,175,Poland,PL,5,13,pl,Europe
+36,38,2018,174,Chile,CL,3,14,cl,Americas
+37,37,2018,174,Monaco,MC,5,14,mc,Europe
+38,39,2018,173,Cyprus,CY,5,15,cy,Europe
+39,41,2018,171,Brazil,BR,3,16,br,Americas
+40,40,2018,170,Argentina,AR,3,17,ar,Americas
+41,45,2018,170,Hong Kong (SAR China),HK,6,17,hk,Asia
+42,46,2018,169,Bulgaria,BG,5,18,bg,Europe
+43,44,2018,169,Croatia,HR,5,18,hr,Europe
+44,47,2018,169,Romania,RO,5,18,ro,Europe
+45,42,2018,168,Andorra,AD,5,19,ad,Europe
+46,43,2018,168,San Marino,SM,5,19,sm,Europe
+47,48,2018,165,Brunei,BN,6,20,bn,Asia
+48,50,2018,161,Barbados,BB,4,21,bb,Caribbean
+49,49,2018,161,Israel,IL,7,21,il,Middle East
+50,62,2018,161,United Arab Emirates,AE,7,21,ae,Middle East
+51,51,2018,158,Mexico,MX,3,22,mx,Americas
+52,52,2018,155,Bahamas,BS,4,23,bs,Caribbean
+53,54,2018,154,Uruguay,UY,3,24,uy,Americas
+54,53,2018,152,Seychelles,SC,1,25,sc,Africa
+55,55,2018,151,St. Kitts and Nevis,KN,4,26,kn,Caribbean
+56,58,2018,150,Antigua and Barbuda,AG,4,27,ag,Caribbean
+57,57,2018,149,Costa Rica,CR,3,28,cr,Americas
+58,59,2018,148,Taiwan (Chinese Taipei),TW,6,29,tw,Asia
+59,56,2018,148,Vatican City,VA,5,29,va,Europe
+60,61,2018,147,Trinidad and Tobago,TT,4,30,tt,Caribbean
+61,60,2018,146,Mauritius,MU,1,31,mu,Africa
+62,66,2018,146,St. Lucia,LC,4,31,lc,Caribbean
+63,67,2018,145,St. Vincent and the Grenadines,VC,4,32,vc,Caribbean
+64,69,2018,144,Grenada,GD,4,33,gd,Caribbean
+65,68,2018,144,Macao (SAR China),MO,6,33,mo,Asia
+66,63,2018,143,Paraguay,PY,3,34,py,Americas
+67,65,2018,141,Panama,PA,3,35,pa,Americas
+68,70,2018,138,Honduras,HN,3,36,hn,Americas
+69,64,2018,138,Venezuela,VE,3,36,ve,Americas
+70,71,2018,137,Dominica,DM,4,37,dm,Caribbean
+71,73,2018,137,El Salvador,SV,3,37,sv,Americas
+72,72,2018,137,Guatemala,GT,3,37,gt,Americas
+73,74,2018,135,Peru,PE,3,38,pe,Americas
+74,75,2018,130,Serbia,RS,5,39,rs,Europe
+75,76,2018,130,Solomon Islands,SB,8,39,sb,Oceania
+76,77,2018,129,Samoa,WS,8,40,ws,Oceania
+77,78,2018,129,Vanuatu,VU,8,40,vu,Oceania
+78,79,2018,128,Nicaragua,NI,3,41,ni,Americas
+79,80,2018,128,Ukraine,UA,5,41,ua,Europe
+80,81,2018,127,Colombia,CO,3,42,co,Americas
+81,85,2018,127,Tuvalu,TV,8,42,tv,Oceania
+82,82,2018,125,North Macedonia,MK,5,43,mk,Europe
+83,83,2018,124,Marshall Islands,MH,8,44,mh,Oceania
+84,84,2018,124,Tonga,TO,8,44,to,Oceania
+85,86,2018,123,Kiribati,KI,8,45,ki,Oceania
+86,88,2018,123,Montenegro,ME,5,45,me,Europe
+87,90,2018,122,Micronesia,FM,8,46,fm,Oceania
+88,87,2018,122,Moldova,MD,5,46,md,Europe
+89,92,2018,119,Palau Islands,PW,8,47,pw,Oceania
+90,89,2018,119,Russian Federation,RU,5,47,ru,Europe
+91,93,2018,118,Bosnia and Herzegovina,BA,5,48,ba,Europe
+92,94,2018,114,Albania,AL,5,49,al,Europe
+93,95,2018,112,Georgia,GE,5,50,ge,Europe
+94,91,2018,111,Türkiye,TR,5,51,tr,Europe
+95,96,2018,102,South Africa,ZA,1,52,za,Africa
+96,97,2018,101,Belize,BZ,3,53,bz,Americas
+97,99,2018,98,Timor-Leste,TL,6,54,tl,Asia
+98,98,2018,93,Ecuador,EC,3,55,ec,Americas
+99,102,2018,93,Kuwait,KW,7,55,kw,Middle East
+100,100,2018,90,Fiji,FJ,8,56,fj,Oceania
+101,101,2018,88,Guyana,GY,3,57,gy,Americas
+102,103,2018,87,Maldives,MV,6,58,mv,Asia
+103,104,2018,86,Nauru,NR,8,59,nr,Oceania
+104,109,2018,85,Qatar,QA,7,60,qa,Middle East
+105,105,2018,84,Jamaica,JM,4,61,jm,Caribbean
+106,106,2018,83,Papua New Guinea,PG,8,62,pg,Oceania
+107,108,2018,82,Botswana,BW,1,63,bw,Africa
+108,110,2018,81,Bahrain,BH,7,64,bh,Middle East
+109,111,2018,80,Suriname,SR,3,65,sr,Americas
+110,107,2018,79,Bolivia,BO,3,66,bo,Americas
+111,115,2018,78,Oman,OM,7,67,om,Middle East
+112,116,2018,77,Belarus,BY,5,68,by,Europe
+113,113,2018,77,Thailand,TH,6,68,th,Asia
+114,114,2018,76,Kazakhstan,KZ,6,69,kz,Asia
+115,112,2018,76,Namibia,NA,1,69,na,Africa
+116,120,2018,75,Saudi Arabia,SA,7,70,sa,Middle East
+117,137,2018,74,China,CN,6,71,cn,Asia
+118,119,2018,74,Lesotho,LS,1,71,ls,Africa
+119,128,2018,73,Indonesia,ID,6,72,id,Asia
+120,118,2018,71,Kenya,KE,1,73,ke,Africa
+121,122,2018,71,Malawi,MW,1,73,mw,Africa
+122,117,2018,71,eSwatini,SZ,1,73,sz,Africa
+123,123,2018,68,Tanzania,TZ,1,74,tz,Africa
+124,121,2018,68,The Gambia,GM,1,74,gm,Africa
+125,125,2018,68,Zambia,ZM,1,74,zm,Africa
+126,126,2018,66,Azerbaijan,AZ,5,75,az,Europe
+127,132,2018,66,Dominican Republic,DO,4,75,do,Caribbean
+128,129,2018,66,Philippines,PH,6,75,ph,Asia
+129,124,2018,66,Tunisia,TN,1,75,tn,Africa
+130,127,2018,65,Cape Verde Islands,CV,1,76,cv,Africa
+131,131,2018,65,Cuba,CU,4,76,cu,Caribbean
+132,130,2018,64,Uganda,UG,1,77,ug,Africa
+133,135,2018,64,Zimbabwe,ZW,1,77,zw,Africa
+134,134,2018,63,Ghana,GH,1,78,gh,Africa
+135,140,2018,63,Kyrgyzstan,KG,6,78,kg,Asia
+136,133,2018,62,Sierra Leone,SL,1,79,sl,Africa
+137,139,2018,61,Armenia,AM,7,80,am,Middle East
+138,136,2018,61,Benin,BJ,1,80,bj,Africa
+139,147,2018,61,Mongolia,MN,6,80,mn,Asia
+140,138,2018,61,Morocco,MA,1,80,ma,Africa
+141,163,2018,60,India,IN,6,81,in,Asia
+142,153,2018,59,Uzbekistan,UZ,6,82,uz,Asia
+143,143,2018,58,Mauritania,MR,1,83,mr,Africa
+144,144,2018,58,Mozambique,MZ,1,83,mz,Africa
+145,141,2018,58,Sao Tome and Principe,ST,1,83,st,Africa
+146,152,2018,58,Tajikistan,TJ,6,83,tj,Asia
+147,142,2018,57,Burkina Faso,BF,1,84,bf,Africa
+148,146,2018,56,"Ivoire""",CI,1,85,ci,Africa
+149,149,2018,56,Guinea,GN,1,85,gn,Africa
+150,145,2018,56,Senegal,SN,1,85,sn,Africa
+151,158,2018,55,Bhutan,BT,6,86,bt,Asia
+152,156,2018,55,Gabon,GA,1,86,ga,Africa
+153,150,2018,55,Mali,ML,1,86,ml,Africa
+154,164,2018,54,Cambodia,KH,6,87,kh,Asia
+155,151,2018,54,Niger,NE,1,87,ne,Africa
+156,161,2018,54,Rwanda,RW,1,87,rw,Africa
+157,148,2018,54,Togo,TG,1,87,tg,Africa
+158,155,2018,53,Chad,TD,1,88,td,Africa
+159,160,2018,53,Guinea-Bissau,GW,1,88,gw,Africa
+160,157,2018,53,Madagascar,MG,1,88,mg,Africa
+161,162,2018,53,Turkmenistan,TM,6,88,tm,Asia
+162,159,2018,52,Comoro Islands,KM,1,89,km,Africa
+163,169,2018,52,Equatorial Guinea,GQ,1,89,gq,Africa
+164,154,2018,52,Haiti,HT,4,89,ht,Caribbean
+165,170,2018,52,Laos,LA,6,89,la,Asia
+166,172,2018,51,Vietnam,VN,6,90,vn,Asia
+167,166,2018,50,Algeria,DZ,1,91,dz,Africa
+168,177,2018,50,Jordan,JO,7,91,jo,Middle East
+169,167,2018,49,Angola,AO,1,92,ao,Africa
+170,165,2018,49,Central African Republic,CF,1,92,cf,Africa
+171,168,2018,49,Egypt,EG,1,92,eg,Africa
+172,175,2018,48,Cameroon,CM,1,93,cm,Africa
+173,180,2018,48,Myanmar,MM,6,93,mm,Asia
+174,176,2018,47,Congo (Rep.),CG,1,94,cg,Africa
+175,171,2018,47,Liberia,LR,1,94,lr,Africa
+176,173,2018,47,Nigeria,NG,1,94,ng,Africa
+177,174,2018,46,Burundi,BI,1,95,bi,Africa
+178,178,2018,45,Djibouti,DJ,1,96,dj,Africa
+179,188,2018,44,Kosovo,XK,5,97,xk,Europe
+180,179,2018,43,Congo (Dem. Rep.),CD,1,98,cd,Africa
+181,187,2018,43,Iran,IR,7,98,ir,Middle East
+182,183,2018,42,Ethiopia,ET,1,99,et,Africa
+183,184,2018,42,North Korea,KP,6,99,kp,Asia
+184,181,2018,42,Sri Lanka,LK,6,99,lk,Asia
+185,186,2018,41,Bangladesh,BD,6,100,bd,Asia
+186,189,2018,41,Lebanon,LB,7,100,lb,Middle East
+187,191,2018,41,Libya,LY,1,100,ly,Africa
+188,185,2018,41,South Sudan,SS,1,100,ss,Africa
+189,192,2018,40,Nepal,NP,6,101,np,Asia
+190,190,2018,39,Eritrea,ER,1,102,er,Africa
+191,193,2018,39,Palestinian Territory,PS,7,102,ps,Middle East
+192,182,2018,39,Sudan,SD,1,102,sd,Africa
+193,194,2018,37,Yemen,YE,7,103,ye,Middle East
+194,196,2018,33,Pakistan,PK,6,104,pk,Asia
+195,195,2018,32,Somalia,SO,1,105,so,Africa
+196,197,2018,32,Syria,SY,7,105,sy,Middle East
+197,199,2018,30,Afghanistan,AF,6,106,af,Asia
+198,198,2018,30,Iraq,IQ,7,106,iq,Middle East
