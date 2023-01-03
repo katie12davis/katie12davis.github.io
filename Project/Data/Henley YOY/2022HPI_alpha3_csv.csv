@@ -1,0 +1,200 @@
+,passport_id,year_h,score,name,code,region_id,rank,code_lc,Region,alpha3
+0,6,2022,193,Japan,JP,6,1,jp,Asia,JPN
+1,8,2022,192,Singapore,SG,6,2,sg,Asia,SGP
+2,18,2022,192,South Korea,KR,6,2,kr,Asia,KOR
+3,1,2022,190,Germany,DE,5,3,de,Europe,DEU
+4,15,2022,190,Spain,ES,5,3,es,Europe,ESP
+5,3,2022,189,Finland,FI,5,4,fi,Europe,FIN
+6,5,2022,189,Italy,IT,5,4,it,Europe,ITA
+7,13,2022,189,Luxembourg,LU,5,4,lu,Europe,LUX
+8,11,2022,188,Austria,AT,5,5,at,Europe,AUT
+9,2,2022,188,Denmark,DK,5,5,dk,Europe,DNK
+10,14,2022,188,Netherlands,NL,5,5,nl,Europe,NLD
+11,9,2022,188,Sweden,SE,5,5,se,Europe,SWE
+12,4,2022,187,France,FR,5,6,fr,Europe,FRA
+13,17,2022,187,Ireland,IE,5,6,ie,Europe,IRL
+14,19,2022,187,Portugal,PT,5,6,pt,Europe,PRT
+15,10,2022,187,United Kingdom,GB,5,6,gb,Europe,GBR
+16,12,2022,186,Belgium,BE,5,7,be,Europe,BEL
+17,24,2022,186,New Zealand,NZ,8,7,nz,Oceania,NZL
+18,7,2022,186,Norway,NO,5,7,no,Europe,NOR
+19,16,2022,186,Switzerland,CH,5,7,ch,Europe,CHE
+20,20,2022,186,United States,US,3,7,us,Americas,USA
+21,22,2022,185,Australia,AU,8,8,au,Oceania,AUS
+22,21,2022,185,Canada,CA,3,8,ca,Americas,CAN
+23,25,2022,185,Czech Republic,CZ,5,8,cz,Europe,CZE
+24,23,2022,185,Greece,GR,5,8,gr,Europe,GRC
+25,27,2022,185,Malta,MT,5,8,mt,Europe,MLT
+26,28,2022,183,Hungary,HU,5,9,hu,Europe,HUN
+27,33,2022,182,Lithuania,LT,5,10,lt,Europe,LTU
+28,36,2022,182,Poland,PL,5,10,pl,Europe,POL
+29,30,2022,182,Slovakia,SK,5,10,sk,Europe,SVK
+30,35,2022,181,Estonia,EE,5,11,ee,Europe,EST
+31,32,2022,181,Latvia,LV,5,11,lv,Europe,LVA
+32,31,2022,181,Slovenia,SI,5,11,si,Europe,SVN
+33,26,2022,180,Iceland,IS,5,12,is,Europe,ISL
+34,34,2022,179,Malaysia,MY,6,13,my,Asia,MYS
+35,29,2022,178,Liechtenstein,LI,5,14,li,Europe,LIE
+36,39,2022,176,Cyprus,CY,5,15,cy,Europe,CYP
+37,62,2022,176,United Arab Emirates,AE,7,15,ae,Middle East,ARE
+38,38,2022,174,Chile,CL,3,16,cl,Americas,CHL
+39,37,2022,174,Monaco,MC,5,16,mc,Europe,MCO
+40,47,2022,174,Romania,RO,5,16,ro,Europe,ROU
+41,46,2022,173,Bulgaria,BG,5,17,bg,Europe,BGR
+42,44,2022,173,Croatia,HR,5,17,hr,Europe,HRV
+43,45,2022,171,Hong Kong (SAR China),HK,6,18,hk,Asia,HKG
+44,40,2022,170,Argentina,AR,3,19,ar,Americas,ARG
+45,41,2022,170,Brazil,BR,3,19,br,Americas,BRA
+46,43,2022,169,San Marino,SM,5,20,sm,Europe,SMR
+47,42,2022,168,Andorra,AD,5,21,ad,Europe,AND
+48,48,2022,166,Brunei,BN,6,22,bn,Asia,BRN
+49,50,2022,163,Barbados,BB,4,23,bb,Caribbean,BRB
+50,49,2022,159,Israel,IL,7,24,il,Middle East,ISR
+51,51,2022,159,Mexico,MX,3,24,mx,Americas,MEX
+52,55,2022,157,St. Kitts and Nevis,KN,4,25,kn,Caribbean,KNA
+53,52,2022,155,Bahamas,BS,4,26,bs,Caribbean,BHS
+54,56,2022,154,Vatican City,VA,5,27,va,Europe,LVA
+55,53,2022,153,Seychelles,SC,1,28,sc,Africa,SYC
+56,54,2022,153,Uruguay,UY,3,28,uy,Americas,URY
+57,67,2022,152,St. Vincent and the Grenadines,VC,4,29,vc,Caribbean,VCT
+58,58,2022,151,Antigua and Barbuda,AG,4,30,ag,Caribbean,ATG
+59,61,2022,151,Trinidad and Tobago,TT,4,30,tt,Caribbean,TTO
+60,57,2022,150,Costa Rica,CR,3,31,cr,Americas,CRI
+61,66,2022,147,St. Lucia,LC,4,32,lc,Caribbean,LCA
+62,69,2022,146,Grenada,GD,4,33,gd,Caribbean,GRD
+63,60,2022,146,Mauritius,MU,1,33,mu,Africa,MUS
+64,71,2022,145,Dominica,DM,4,34,dm,Caribbean,DMA
+65,59,2022,145,Taiwan (Chinese Taipei),TW,6,34,tw,Asia,TWN
+66,68,2022,144,Macao (SAR China),MO,6,35,mo,Asia,MCO
+67,80,2022,144,Ukraine,UA,5,35,ua,Europe,UKR
+68,65,2022,143,Panama,PA,3,36,pa,Americas,PAN
+69,63,2022,142,Paraguay,PY,3,37,py,Americas,PRY
+70,74,2022,136,Peru,PE,3,38,pe,Americas,PER
+71,75,2022,136,Serbia,RS,5,38,rs,Europe,SRB
+72,73,2022,134,El Salvador,SV,3,39,sv,Americas,SLV
+73,72,2022,133,Guatemala,GT,3,40,gt,Americas,GTM
+74,70,2022,133,Honduras,HN,3,40,hn,Americas,HND
+75,81,2022,132,Colombia,CO,3,41,co,Americas,COL
+76,77,2022,132,Samoa,WS,8,41,ws,Oceania,WSM
+77,76,2022,132,Solomon Islands,SB,8,41,sb,Oceania,SLB
+78,84,2022,130,Tonga,TO,8,42,to,Oceania,TON
+79,64,2022,129,Venezuela,VE,3,43,ve,Americas,VEN
+80,79,2022,128,Nicaragua,NI,3,44,ni,Americas,NIC
+81,85,2022,128,Tuvalu,TV,8,44,tv,Oceania,TUV
+82,82,2022,125,North Macedonia,MK,5,45,mk,Europe,MKD
+83,86,2022,124,Kiribati,KI,8,46,ki,Oceania,KIR
+84,88,2022,124,Montenegro,ME,5,46,me,Europe,MNE
+85,83,2022,123,Marshall Islands,MH,8,47,mh,Oceania,MHL
+86,87,2022,121,Moldova,MD,5,48,md,Europe,MDA
+87,92,2022,120,Palau Islands,PW,8,49,pw,Oceania,PLW
+88,89,2022,119,Russian Federation,RU,5,50,ru,Europe,RUS
+89,93,2022,118,Bosnia and Herzegovina,BA,5,51,ba,Europe,BIH
+90,90,2022,118,Micronesia,FM,8,51,fm,Oceania,FSM
+91,95,2022,116,Georgia,GE,5,52,ge,Europe,GEO
+92,94,2022,115,Albania,AL,5,53,al,Europe,ALB
+93,91,2022,110,Türkiye,TR,5,54,tr,Europe,TUR
+94,96,2022,105,South Africa,ZA,1,55,za,Africa,ZAF
+95,97,2022,103,Belize,BZ,3,56,bz,Americas,BLZ
+96,109,2022,99,Qatar,QA,7,57,qa,Middle East,QAT
+97,78,2022,98,Vanuatu,VU,8,58,vu,Oceania,VUT
+98,102,2022,96,Kuwait,KW,7,59,kw,Middle East,KWT
+99,99,2022,94,Timor-Leste,TL,6,60,tl,Asia,TLS
+100,98,2022,92,Ecuador,EC,3,61,ec,Americas,ECU
+101,104,2022,90,Nauru,NR,8,62,nr,Oceania,NRU
+102,100,2022,89,Fiji,FJ,8,63,fj,Oceania,FJI
+103,103,2022,89,Maldives,MV,6,63,mv,Asia,MDV
+104,101,2022,88,Guyana,GY,3,64,gy,Americas,GUY
+105,108,2022,87,Botswana,BW,1,65,bw,Africa,BWA
+106,105,2022,87,Jamaica,JM,4,65,jm,Caribbean,JAM
+107,110,2022,86,Bahrain,BH,7,66,bh,Middle East,BHR
+108,106,2022,83,Papua New Guinea,PG,8,67,pg,Oceania,PNG
+109,115,2022,81,Oman,OM,7,68,om,Middle East,OMN
+110,120,2022,81,Saudi Arabia,SA,7,68,sa,Middle East,SAU
+111,107,2022,80,Bolivia,BO,3,69,bo,Americas,BOL
+112,137,2022,80,China,CN,6,69,cn,Asia,CHN
+113,112,2022,79,Namibia,NA,1,70,na,Africa,NAM
+114,113,2022,79,Thailand,TH,6,70,th,Asia,THA
+115,116,2022,78,Belarus,BY,5,71,by,Europe,BLR
+116,119,2022,77,Lesotho,LS,1,72,ls,Africa,LSO
+117,111,2022,77,Suriname,SR,3,72,sr,Americas,SUR
+118,114,2022,76,Kazakhstan,KZ,6,73,kz,Asia,KAZ
+119,117,2022,75,eSwatini,SZ,1,74,sz,Africa,SWZ
+120,122,2022,74,Malawi,MW,1,75,mw,Africa,MWI
+121,128,2022,72,Indonesia,ID,6,76,id,Asia,IDN
+122,118,2022,72,Kenya,KE,1,76,ke,Africa,KEN
+123,123,2022,72,Tanzania,TZ,1,76,tz,Africa,TZA
+124,125,2022,72,Zambia,ZM,1,76,zm,Africa,ZMB
+125,124,2022,71,Tunisia,TN,1,77,tn,Africa,TUN
+126,126,2022,70,Azerbaijan,AZ,5,78,az,Europe,AZE
+127,132,2022,70,Dominican Republic,DO,4,78,do,Caribbean,DOM
+128,121,2022,69,The Gambia,GM,1,79,gm,Africa,GMB
+129,127,2022,67,Cape Verde Islands,CV,1,80,cv,Africa,CPV
+130,129,2022,67,Philippines,PH,6,80,ph,Asia,PHL
+131,130,2022,67,Uganda,UG,1,80,ug,Africa,UGA
+132,139,2022,66,Armenia,AM,7,81,am,Middle East,ARM
+133,135,2022,66,Zimbabwe,ZW,1,81,zw,Africa,ZWE
+134,131,2022,65,Cuba,CU,4,82,cu,Caribbean,CUB
+135,134,2022,65,Ghana,GH,1,82,gh,Africa,GHA
+136,138,2022,65,Morocco,MA,1,82,ma,Africa,MAR
+137,140,2022,64,Kyrgyzstan,KG,6,83,kg,Asia,KGZ
+138,133,2022,64,Sierra Leone,SL,1,83,sl,Africa,SLE
+139,144,2022,63,Mozambique,MZ,1,84,mz,Africa,MOZ
+140,136,2022,62,Benin,BJ,1,85,bj,Africa,BEN
+141,147,2022,62,Mongolia,MN,6,85,mn,Asia,MNG
+142,161,2022,61,Rwanda,RW,1,86,rw,Africa,RWA
+143,141,2022,61,Sao Tome and Principe,ST,1,86,st,Africa,STP
+144,163,2022,60,India,IN,6,87,in,Asia,IND
+145,143,2022,60,Mauritania,MR,1,87,mr,Africa,MRT
+146,152,2022,60,Tajikistan,TJ,6,87,tj,Asia,TJK
+147,142,2022,59,Burkina Faso,BF,1,88,bf,Africa,BFA
+148,153,2022,59,Uzbekistan,UZ,6,88,uz,Asia,UZB
+149,156,2022,58,Gabon,GA,1,89,ga,Africa,GAB
+150,146,2022,57,"Ivoire""",CI,1,90,ci,Africa,CIV
+151,145,2022,57,Senegal,SN,1,90,sn,Africa,SEN
+152,169,2022,56,Equatorial Guinea,GQ,1,91,gq,Africa,GNQ
+153,157,2022,56,Madagascar,MG,1,91,mg,Africa,MDG
+154,149,2022,55,Guinea,GN,1,92,gn,Africa,GIN
+155,150,2022,55,Mali,ML,1,92,ml,Africa,MLI
+156,148,2022,55,Togo,TG,1,92,tg,Africa,TGO
+157,172,2022,55,Vietnam,VN,6,92,vn,Asia,VNM
+158,158,2022,54,Bhutan,BT,6,93,bt,Asia,BTN
+159,164,2022,54,Cambodia,KH,6,93,kh,Asia,KHM
+160,155,2022,54,Chad,TD,1,93,td,Africa,TCD
+161,159,2022,54,Comoro Islands,KM,1,93,km,Africa,SRB
+162,151,2022,54,Niger,NE,1,93,ne,Africa,NER
+163,166,2022,53,Algeria,DZ,1,94,dz,Africa,DZA
+164,165,2022,53,Central African Republic,CF,1,94,cf,Africa,CAF
+165,168,2022,53,Egypt,EG,1,94,eg,Africa,EGY
+166,160,2022,53,Guinea-Bissau,GW,1,94,gw,Africa,GNB
+167,177,2022,53,Jordan,JO,7,94,jo,Middle East,JOR
+168,162,2022,53,Turkmenistan,TM,6,94,tm,Asia,TKM
+169,167,2022,51,Angola,AO,1,95,ao,Africa,AGO
+170,174,2022,51,Burundi,BI,1,95,bi,Africa,BDI
+171,175,2022,51,Cameroon,CM,1,95,cm,Africa,CMR
+172,170,2022,51,Laos,LA,6,95,la,Asia,LAO
+173,171,2022,50,Liberia,LR,1,96,lr,Africa,LBR
+174,176,2022,49,Congo (Rep.),CG,1,97,cg,Africa,COG
+175,154,2022,49,Haiti,HT,4,97,ht,Caribbean,HTI
+176,178,2022,48,Djibouti,DJ,1,98,dj,Africa,DJI
+177,180,2022,47,Myanmar,MM,6,99,mm,Asia,MMR
+178,183,2022,46,Ethiopia,ET,1,100,et,Africa,ETH
+179,173,2022,46,Nigeria,NG,1,100,ng,Africa,NGA
+180,190,2022,44,Eritrea,ER,1,101,er,Africa,ERI
+181,185,2022,44,South Sudan,SS,1,101,ss,Africa,SSD
+182,187,2022,43,Iran,IR,7,102,ir,Middle East,IRN
+183,179,2022,42,Congo (Dem. Rep.),CD,1,103,cd,Africa,COD
+184,189,2022,42,Lebanon,LB,7,103,lb,Middle East,LBN
+185,181,2022,42,Sri Lanka,LK,6,103,lk,Asia,LKA
+186,182,2022,42,Sudan,SD,1,103,sd,Africa,SDN
+187,186,2022,41,Bangladesh,BD,6,104,bd,Asia,BGD
+188,188,2022,41,Kosovo,XK,5,104,xk,Europe,XXK
+189,191,2022,41,Libya,LY,1,104,ly,Africa,LBY
+190,184,2022,40,North Korea,KP,6,105,kp,Asia,PRK
+191,192,2022,38,Nepal,NP,6,106,np,Asia,NPL
+192,193,2022,38,Palestinian Territory,PS,7,106,ps,Middle East,PSE
+193,195,2022,35,Somalia,SO,1,107,so,Africa,SOM
+194,194,2022,34,Yemen,YE,7,108,ye,Middle East,YEM
+195,196,2022,32,Pakistan,PK,6,109,pk,Asia,PAK
+196,197,2022,30,Syria,SY,7,110,sy,Middle East,SYR
+197,198,2022,29,Iraq,IQ,7,111,iq,Middle East,IRQ
+198,199,2022,27,Afghanistan,AF,6,112,af,Asia,AFG
