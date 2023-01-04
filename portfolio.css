@@ -65,6 +65,14 @@ h1, h2, h3, p{
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
+
+h{
+    color: black;
+    font-size: 40px;
+    font-family: 'Bowlby One', cursive;
+    font-weight: 500;
+}
+
     
 /*Border radius is the rounding of the edges */
 .myWeek1{
