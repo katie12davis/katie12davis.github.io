@@ -9,9 +9,10 @@
   "height": 250,
   "title": {
     "text": "Scottish Male Claimant Count (%)",
+    "fontSize":14,
     "subtitle": "Scotland (Men) Claimant Count. Source:ONS",
     "subtitleFontStyle": "italic",
-    "subtitleFontSize": 8,
+    "subtitleFontSize": 10,
     "anchor": "start",
     "color": "black"
   },

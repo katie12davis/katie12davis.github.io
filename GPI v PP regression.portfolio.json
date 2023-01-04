@@ -1,0 +1,106 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Gloal Peace Index. Sources - https://www.visionofhumanity.org/public-release-data/, https://worldpopulationreview.com/country-rankings/countries-currently-at-war,  ",
+  "title": {
+    "text": "Global Peace Index",
+    "subtitle": [
+      "The corrolation of a passports score with its global peace index ",
+      "Source - World Population Review Countries currently at war"
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "middle",
+    "color": "black"
+  },
+  "width": 800,
+  "height": 300,
+  "data": {
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Henley_2022_json.json"
+  },
+  "transform": [
+    {
+      "lookup": "code_lc",
+      "from": {
+        "key": "alpha2",
+        "fields": ["alpha3_UC", "Name_"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Country%20code%20UC.csv"
+        }
+      }
+    },
+    {
+      "lookup": "alpha3_UC",
+      "from": {
+        "key": "iso3c",
+        "fields": ["2022", "State of War"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Global%20Peace%20Index%202008-2022.csv"
+        }
+      }
+    }
+  ],
+  "layer": [
+    {
+      "mark": {"type": "circle", "size": 100, "color": "RGB(120,200,200)"},
+      "encoding": {
+        "x": {
+          "field": "score",
+          "type": "quantitative",
+          "title": "Passport Score",
+          "scale": {"domain": [20, 200], "nice": false}
+        },
+        "y": {
+          "field": "2022",
+          "type": "quantitative",
+          "title": "Global Peace Index",
+          "scale": {"domain": [1, 4]}
+        },
+        "color": {
+          "field": "State of War",
+          "type": "nominal",
+          "legend": {"orient": "top"},
+          "scale": {"domain": ["At War", "Peaceful"], "range": ["rgb(120,105,86)", "RGB(120,200,200)"]}
+        },
+        "tooltip": [
+          {"field": "Name_", "title": "Country"},
+          {"field": "score", "title": "Score", "type": "quantitative"},
+          {"field": "2022", "title": "GPI"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "gray"},
+      "transform": [
+        {
+          "regression": "2022",
+          "on": "score",
+          "method": "log",
+          "extent": [0, 200]
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "score",
+          "type": "quantitative",
+          "scale": {"domain": [20, 200], "nice": false}
+        },
+        "y": {"field": "2022", "type": "quantitative"}
+      }
+    },
+    {
+      "transform": [
+        {"regression": "2022", "on": "score", "params": true, "method": "log"},
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "gray",
+        "x": "width",
+        "align": "right",
+        "y": -10
+      },
+      "encoding": {"text": {"type": "nominal", "field": "R2"}}
+    }
+  ],
+  "config": {}
+}

@@ -1,0 +1,199 @@
+/* Richard Davies, Data Science for Economists */
+
+/* This is my second CSS file */
+
+
+/* Import a font
+Google - google fonts, find one you like, download to the computer or you can then find a link to import
+And then put the import URL onto your page */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+
+/* 255,255,255 is white - if after a professional colour adjust from here */
+
+body{
+    background-color: lightgray;
+}
+
+
+.topnav {
+    overflow: hidden;
+    background-color: #B7B6B6;
+    width: 100%;
+    position: fixed;
+    float: front;
+    top: 0;
+    left: 0;
+    opacity: 200%;
+    z-index: 1;
+     }
+
+
+.topnav a {
+float: left;
+display: block;
+color: #f2f2f2;
+text-align: center;
+padding: 20px 0px;
+text-decoration: none;
+font-size: 20px;
+cursor: pointer;
+width: 20%;
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;
+
+}
+
+.topnav a:hover {
+background-color: lightgray;
+color: black;
+}
+
+.topnav a.active {
+background-color:  RGB(0,200,200);
+opacity: 80%;
+color: white;
+}
+
+
+
+/* Choose the appearance of the tags, h1, h3 and p: */
+h1, h2, h3, p{
+    color:rgb(0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+    
+/*Border radius is the rounding of the edges */
+.myWeek1{
+    margin: auto;
+    max-width: 1200px;
+    text-align: center;
+    border-top: 2px;
+    border-bottom: 2px;
+    border-left: 0cm;
+    border-right: 0cm;
+    border-style: solid;
+    border-color: (rgb(100,100,100)) ;
+}
+
+.myWeek2{
+    margin: auto;
+    max-width: 1200px;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 0cm;
+    border-right: 0cm;
+    border-style: dashed;
+    border-color: (rgb(100,100,100)) ;
+}
+
+.myheader{
+    margin: auto;
+    max-width: 600px;
+    text-align: center;
+
+      
+    border-width: 0px;
+    border-bottom: 2px;
+    border-style: solid;
+    border-radius: 0px;
+    border-color: black;
+}
+
+
+
+/* Set the apperance of the class, chart */
+.chart{
+    background-color: white;
+    width:400px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: grey;
+    margin-bottom: 1cm;
+    padding-left: 0.1cm;
+
+
+}
+    
+
+/* Set the apperance for a particular chart */
+#Chart2{
+    border-color: grey; 
+    margin-bottom: 0.5cm;
+    height: 600 px;
+
+
+}
+
+/* Set the apperance for a particular chart */
+#Chart5{
+    width: 700px;
+    height:500px;
+    border-color: grey; 
+    margin-bottom: 0.5cm;
+
+
+}
+
+.chartw3{
+    background-color: white;
+    width: auto;  
+    height: auto; 
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: grey;
+    margin-bottom: 0.5cm;
+
+   
+
+}
+
+.chartw5{
+    width: 200px;
+    height:200px;
+    border-color: grey; 
+    margin-bottom: 0.5cm;
+
+
+}
+
+/* Containers can center text and graphs into the page*/
+.container {
+    display: flex;
+    flex-flow: wrap;
+    column-gap: 20px;
+    margin-top: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    justify-content: center;
+    align-content: center;
+  }
+
+
+#text {
+    position: static;
+    top: 80px;
+    right: 100px;
+    bottom: 50px;
+    left: 50px;
+    padding: 0px;
+    overflow-y: hidden;
+    box-sizing: border-box;
+  }
+
+#text2 {
+    position: static;
+    top: 80px;
+    right: 50px;
+    bottom: 50px;
+    left: 100px;
+    padding: 0px;
+    overflow-y: hidden;
+    box-sizing: border-box;
+  }
