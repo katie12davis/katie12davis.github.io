@@ -1,0 +1,46 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Weekly pay",
+  "data": {
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Public%20V%20Private%20Total%20weekly%20earnings.csv"
+  },
+  "width": 500,
+  "height": 300,
+  "repeat": {"layer": ["Private Sector", "Public Sector"]},
+  "title": {
+    "text": "Total Weekly Earnings",
+    "subtitle": "For both the Public and Private Sector",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10
+  },
+  "spec": {
+    "mark": {
+      "type": "line",
+      "color": "RGB(120,200,200)",
+      "width": 10,
+      "strokeWidth": 2,
+      "opacity": 1
+    },
+    "encoding": {
+      "x": {"field": "CDID", "type": "temporal", "title": "Year"},
+      "y": {
+        "field": {"repeat": "layer"},
+        "type": "quantitative",
+        "title": "Weekly Earnings /£",
+        "scale": {"domainMin": 250}
+      },
+      "color": {
+        "datum": {"repeat": "layer"},
+        "scale": {"range": ["#808080", "rgb(120,200,200)"]}
+      },
+      "tooltip": [
+        {
+          "field": {"repeat": "layer"},
+          "type": "nominal",
+          "title": "Weekly Wage"
+        }
+      ]
+    }
+  },
+  "config": {}
+}

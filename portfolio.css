@@ -23,10 +23,10 @@ body{
     background-color: #B7B6B6;
     width: 100%;
     position: fixed;
-    float: front;
-    top: 0;
+    float: left;
+    top: 0px;
     left: 0;
-    opacity: 200%;
+    /* THis ensures that this is infront of other items */
     z-index: 1;
      }
 
@@ -43,6 +43,7 @@ cursor: pointer;
 width: 20%;
 font-family: 'Montserrat', sans-serif;
 font-weight: 300;
+opacity: 100%;
 
 }
 
@@ -52,17 +53,24 @@ color: black;
 }
 
 .topnav a.active {
-background-color:  RGB(0,200,200);
-opacity: 80%;
+background-color:  RGB(120,200,200);
 color: white;
 }
 
-
-
-/* Choose the appearance of the tags, h1, h3 and p: */
-h1, h2, h3, p{
+h1{
     color:rgb(0, 0, 0);
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: RGB(120,200,200);
+    text-decoration-line: underline;
+
+}
+/* Choose the appearance of the tags, h1, h3 and p: */
+
+h2, h3, p{
+    color:rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
 
@@ -118,12 +126,28 @@ h4{
 .chart{
     background-color: white;
     width:400px;
-    border-width: 2px;
+    border-width: 3px;
     border-style: solid;
     border-radius: 5px;
-    border-color: grey;
+    border-color: RGB(120,200,200);
     margin-bottom: 1cm;
     padding-left: 0.1cm;
+    opacity: 80%;
+
+
+}
+
+.chart1{
+    background-color: white;
+    width:400px;
+    height: 430px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: RGB(120,200,200);
+    margin-bottom: 1cm;
+    padding-left: 0.1cm;
+    opacity: 80%;
 
 
 }
@@ -131,9 +155,11 @@ h4{
 
 /* Set the apperance for a particular chart */
 #Chart2{
-    border-color: grey; 
+    border-color: RGB(120,200,200); 
     margin-bottom: 0.5cm;
     height: 600 px;
+    opacity: 80%;
+    border-width: 3px;
 
 
 }
@@ -142,8 +168,10 @@ h4{
 #Chart5{
     width: 700px;
     height:500px;
-    border-color: grey; 
+    border-color: RGB(0,200,200); 
     margin-bottom: 0.5cm;
+    opacity: 80%;
+    border-width: 3px;
 
 
 }
@@ -152,24 +180,94 @@ h4{
     background-color: white;
     width: auto;  
     height: auto; 
-    border-width: 2px;
+    border-width: 3px;
     border-style: solid;
     border-radius: 5px;
-    border-color: grey;
+    border-color: RGB(120,200,200);
     margin-bottom: 0.5cm;
+    opacity: 80%;
 
    
 
 }
 
+.chartw3a{
+    background-color: white;
+    width: auto;  
+    height: auto; 
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: RGB(120,200,200);
+    margin-bottom: 0.5cm;
+    opacity: 80%;
+
+   
+
+}
+
+.chartw3b{
+    background-color: white;
+    width: auto;  
+    height: auto; 
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: grey;
+    margin-bottom: 0.5cm;
+    opacity: 80%;
+
+   
+
+}
 .chartw5{
     width: 200px;
     height:200px;
-    border-color: grey; 
+    border-color: RGB(120,200,200); 
     margin-bottom: 0.5cm;
+    opacity: 80%;
+    border-width: 3px;
+    opacity: 80%;
 
 
 }
+
+.png{
+    background-color: white;
+    width:500px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: RGB(120,200,200);
+    margin-bottom: 1cm;
+    padding: 5px;
+    opacity: 80%;
+}  
+
+.pnga{
+    background-color: white;
+    width:500px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: grey;
+    margin-bottom: 1cm;
+    padding: 5px;
+    opacity: 80%;
+}  
+
+.pnglrg{
+    background-color: white;
+    width: 450px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: grey;
+    margin-bottom: 1cm;
+    padding: 5px;
+    opacity: 80%;
+}  
+
 
 /* Containers can center text and graphs into the page*/
 .container {
