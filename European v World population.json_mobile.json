@@ -1,0 +1,28 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Population growth ",
+    "subtitle": "European and World population growth since 1955. Source: Worldometer",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Population%20levels.csv"
+  },
+  "height": 250,
+  "width": 250,
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Year", "type": "temporal"},
+    "y": {"field": "Population", "type": "quantitative"},
+    "color": {
+      "legend": {"orient": "bottom", "direction": "vertical"},
+      "field": "Europe or World",
+      "type": "nominal",
+      "scale": {"range": ["rgb(84,130,130)", "RGB(164,202,202)"]}
+    }
+  },
+  "config": {}
+}
