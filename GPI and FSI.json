@@ -23,7 +23,7 @@
         "color": "#1c2e4a"
       },
       "width": 1000,
-      "height": 400,
+      "height": 300,
       "transform": [
         {
           "lookup": "code_lc",
@@ -155,7 +155,7 @@
         "color": "#1c2e4a"
       },
       "width": 1000,
-      "height": 400,
+      "height": 300,
       "data": {
         "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Henley_2022_json.json"
       },
