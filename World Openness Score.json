@@ -8,7 +8,7 @@
     "font": "Montserrat, sans-serif",
     "subtitle": [
       "",
-    "A barometer of the state of mobility across the world. Source:Henley Passport index and Colab",
+    "A barometer of the state of mobility across the world.", "Source: Henley Passport index and Colab",
     "",
     "The maximum WOS is 199 x 199 = 39,601, assuming every country can visit every other country without requiring a visa.",
   "The closer the score gets to this ultimate number, the more open and borderless the world.",
@@ -20,8 +20,8 @@
     "anchor": "middle",
     "color": "#1c2e4a"
   },
-  "height":500,
-  "width":500,
+  "height":400,
+  "width":400,
   "data": {
     "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/WOS_json.json"
   },
