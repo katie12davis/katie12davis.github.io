@@ -33,6 +33,72 @@
 
 <body>
 
+  <script>
+       <!-- //Script to embed based on screen width -->
+
+    // Finding screen width:
+    let width = screen.width;
+
+
+if(width>450){
+
+    var myChart1 = "Chart1_ONSinflation.json";
+    var myChart2 = "Chart2_Aging population.json";
+    var myChart3 = "IMF outstanding lending USD 05102022.json";
+    var myChart4 = "IMF perecentage of GDP USD.json";
+    var myChart5 = "UK visits abroad graph_monthly.json";
+    var myChart6 = "Inline_Regional foreign visits bar.json";
+    var myChart7 = "Inline_Regional foreign visits line.json";
+    var myChart8 = "European v World population.json";
+    var myChart9 = "Scottish pop CC.json";
+    var myChart10 = "Scottish men CC.json";
+    var myChart11 = "Scottish women CC.json";
+    var myChart12 = "English pop CC.json";
+    var myChart13 = "English men CC.json";
+    var myChart14 = "English women CC.json";
+    var myChart15 = "Welsh pop CC.json";
+    var myChart16 = "Welsh men CC.json";
+    var myChart17 = "Welsh women CC.json";
+    var myChart18 = "Europe interactive map.json";
+    var myChart19 = "Europe GDP map.json";
+    var myChart20 = "Passport power distribution.portfolio.json";
+    var myChart21 = "GPI v PP regression.portfolio.json";
+    var myChart25 = "Regular PublicvPrivate.json";
+    var myChart26 = "Total PublicvPrivate.json";
+
+
+} else{   
+    //Define charts:
+    var myChart1 = "Chart1_ONSinflation.json";
+    var myChart2 = "Chart2_Aging population.json";
+    var myChart3 = "IMF outstanding lending USD 05102022.json";
+    var myChart4 = "IMF perecentage of GDP USD.json";
+    var myChart5 = "UK visits abroad graph_monthly.json";
+    var myChart6 = "Inline_Regional foreign visits bar_mobile.json";
+    var myChart7 = "Inline_Regional foreign visits line_mobile.json";
+    var myChart8 = "European v World population.json_mobile.json";
+    var myChart9 = "Scottish pop CC.json";
+    var myChart10 = "Scottish men CC.json";
+    var myChart11 = "Scottish women CC.json";
+    var myChart12 = "English pop CC.json";
+    var myChart13 = "English men CC.json";
+    var myChart14 = "English women CC.json";
+    var myChart15 = "Welsh pop CC.json";
+    var myChart16 = "Welsh men CC.json";
+    var myChart17 = "Welsh women CC.json";
+    var myChart18 = "Europe interactive map_mobile.json";
+    var myChart19 = "Europe GDP map_mobile.json";
+    var myChart20 = "Passport power distribution.portfolio_mobile.json";
+    var myChart21 = "GPI v PP regression.portfolio_mobile.json";
+    var myChart25 = "Regular PublicvPrivate_mobile.json";
+    var myChart26 = "Total PublicvPrivate_mobile.json";
+}
+
+  </script>  
+
+
+
+
     <!-- This inserts a top navigation bar -->
     <div class="topnav" >
 
@@ -310,7 +376,7 @@
 
     <container class="container">
         <div class="png" id="Chart22">
-            <img src="PPvFSI_blue (1).png" />
+            <img src="PPvFSI_blue (1).png" width="100%" alt=""  />
         </div>
     </container>
     <h3> This graph plots a countries passport ranking vs its value on the Fragile States Index. <br>
@@ -328,14 +394,14 @@
 
         <container class="container">
             <div class="pnga" id="Chart23">
-                <img src="Allyears Region Matching (1).png" />
+                <img src="Allyears Region Matching (1).png" width="100%" alt="" />
             </div>
         </container>
 
 
         <container class="container">  
             <div class="pnglrg" id="Chart24">
-                <img src="Hierarchical Clustering Dendogram_orientated (3).png" />
+                <img src="Hierarchical Clustering Dendogram_orientated (3).png" width="100%" alt="" />
             </div>
         </container>
         <h3> Regions are predicted correctly 43% of the time (Confusion Matrix).
@@ -343,7 +409,7 @@
             <br>
             Initial grouping - generally between HIC and LICs.
             <br> 
-            Later groups often contain same continetn countries
+            Later groups often contain same continent countries
              </h3>
         
 </div>
@@ -355,68 +421,7 @@
 
 </body>
 
-   <!-- //Script to embed based on screen width -->
-   <script>
-
-    // Finding screen width:
-    let width = screen.width;
-
-<!-- Here will be the different chart sizes based on screen width, but for now is just the original charts -->
-
-if(width>450){
-
-    var myChart1 = "Chart1_ONSinflation.json";
-    var myChart2 = "Chart2_Aging population.json";
-    var myChart3 = "IMF outstanding lending USD 05102022.json";
-    var myChart4 = "IMF perecentage of GDP USD.json";
-    var myChart5 = "UK visits abroad graph_monthly.json";
-    var myChart6 = "Inline_Regional foreign visits bar.json";
-    var myChart7 = "Inline_Regional foreign visits line.json";
-    var myChart8 = "European v World population.json";
-    var myChart9 = "Scottish pop CC.json";
-    var myChart10 = "Scottish men CC.json";
-    var myChart11 = "Scottish women CC.json";
-    var myChart12 = "English pop CC.json";
-    var myChart13 = "English men CC.json";
-    var myChart14 = "English women CC.json";
-    var myChart15 = "Welsh pop CC.json";
-    var myChart16 = "Welsh men CC.json";
-    var myChart17 = "Welsh women CC.json";
-    var myChart18 = "Europe interactive map.json";
-    var myChart19 = "Europe GDP map.json";
-    var myChart20 = "Passport power distribution.portfolio.json";
-    var myChart21 = "GPI v PP regression.portfolio.json";
-    var myChart25 = "Regular PublicvPrivate.json";
-    var myChart26 = "Total PublicvPrivate.json";
-
-
-} else{   
-    //Define charts:
-    var myChart1 = "Chart1_ONSinflation.json";
-    var myChart2 = "Chart2_Aging population.json";
-    var myChart3 = "IMF outstanding lending USD 05102022.json";
-    var myChart4 = "IMF perecentage of GDP USD.json";
-    var myChart5 = "UK visits abroad graph_monthly.json";
-    var myChart6 = "Inline_Regional foreign visits bar_mobile.json";
-    var myChart7 = "Inline_Regional foreign visits line_mobile.json";
-    var myChart8 = "European v World population.json_mobile.json";
-    var myChart9 = "Scottish pop CC.json";
-    var myChart10 = "Scottish men CC.json";
-    var myChart11 = "Scottish women CC.json";
-    var myChart12 = "English pop CC.json";
-    var myChart13 = "English men CC.json";
-    var myChart14 = "English women CC.json";
-    var myChart15 = "Welsh pop CC.json";
-    var myChart16 = "Welsh men CC.json";
-    var myChart17 = "Welsh women CC.json";
-    var myChart18 = "Europe interactive map_mobile.json";
-    var myChart19 = "Europe GDP map_mobile.json";
-    var myChart20 = "Passport power distribution.portfolio_mobile.json";
-    var myChart21 = "GPI v PP regression.portfolio_mobile.json";
-    var myChart25 = "Regular PublicvPrivate_mobile.json";
-    var myChart26 = "Total PublicvPrivate_mobile.json";
-}
-
+<script>
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
