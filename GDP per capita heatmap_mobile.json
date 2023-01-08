@@ -5,7 +5,7 @@
   },
   "background": "whitesmoke",
   "title": {
-    "text": "Heatmap - GDP per Capita against Passport Score",
+    "text": "GDP per Capita against Passport Score",
     "fontSize": 14,
     "font": "Montserrat, sans-serif",
     "subtitle": ["Source: Henley & Partners and World Bank", ""],
@@ -56,7 +56,7 @@
     }
   ],
   "mark": "rect",
-  "width": 180,
+  "width": 240,
   "height": 250,
   "encoding": {
     "x": {
@@ -92,7 +92,7 @@
       "type": "quantitative",
       "title": ["Number", "of matches"],
       "scale": {"scheme": "lighttealblue"},
-      "legend": {"titleColor": "#1c2e4a", "labelColor": "#1c2e4a"}
+      "legend": {"titleColor": "#1c2e4a", "labelColor": "#1c2e4a", "orient": "bottom"}
     }
   },
   "config": {"view": {"stroke": "transparent"}}

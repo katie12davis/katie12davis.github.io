@@ -18,7 +18,7 @@
     "color": "#1c2e4a",
     "anchor": "start"
   },
-  "width": 150,
+  "width": 240,
   "height": 250,
   "params": [
     {
@@ -127,7 +127,9 @@
             "titleColor": "#1c2e4a",
             "labelColor": "#1c2e4a",
             "labelFontSize": 10,
-            "titleFontSize": 10
+            "titleFontSize": 10,
+            "orient": "bottom",
+            "direction": "vertical"
           }
         },
         "tooltip": [

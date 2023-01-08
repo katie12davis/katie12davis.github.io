@@ -7,7 +7,7 @@
     "fontSize": 14,
     "font": "Montserrat, sans-serif",
     "subtitle": [
-      "The corrolation of a passports score with a countries received remittances",
+      "The corrolation of a passports score with a","countries received remittances",
       "Source - World Bank and Henley & Partners"
     ],
     "subtitleFontStyle": "italic",
@@ -16,7 +16,7 @@
     "anchor": "start",
     "color": "#1c2e4a"
   },
-  "width": 180,
+  "width": 240,
   "height": 250,
   "params": [
     {
@@ -134,7 +134,8 @@
             "titleColor": "#1c2e4a",
             "labelColor": "#1c2e4a",
             "labelFontSize": 10,
-            "titleFontSize": 10
+            "titleFontSize": 10,
+            "orient": "bottom", "direction": "vertical"
           }
         },
         "tooltip": [
