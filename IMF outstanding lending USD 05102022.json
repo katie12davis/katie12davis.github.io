@@ -23,7 +23,7 @@
     "y": {
       "field": "Total_Billions_USD",
       "type": "quantitative",
-      "title": "Total lending ($/billions)",
+      "title": "Total lending ($billions)",
       "axis": {"grid": false}
     }
   },

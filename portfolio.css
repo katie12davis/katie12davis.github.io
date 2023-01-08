@@ -1,11 +1,4 @@
-/* Richard Davies, Data Science for Economists */
 
-/* This is my second CSS file */
-
-
-/* Import a font
-Google - google fonts, find one you like, download to the computer or you can then find a link to import
-And then put the import URL onto your page */
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
@@ -14,7 +7,9 @@ And then put the import URL onto your page */
 /* 255,255,255 is white - if after a professional colour adjust from here */
 
 body{
-    background-color: lightgray;
+    background-color: whitesmoke;
+    padding: 0;
+    margin: 0;
 }
 
 
@@ -75,10 +70,12 @@ h2, h3, p{
 }
 
 h4{
-    color: black;
-    font-size: 40px;
-    font-family: 'Bowlby One', cursive;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
+    padding-bottom: -20px;
 }
 
     
@@ -109,18 +106,23 @@ h4{
 
 .myheader{
     margin: auto;
-    max-width: 600px;
+    max-width: 100%;
     text-align: center;
-
-      
+    background-color: RGB(120,200,200); 
+    padding: 0px; 
     border-width: 0px;
-    border-bottom: 2px;
+    border-bottom: -20px;
     border-style: solid;
     border-radius: 0px;
     border-color: black;
+    padding-top: -100;
 }
 
-
+#textH {
+    position: left;
+    overflow-y: hidden;
+    height: 220px;
+  }
 
 /* Set the apperance of the class, chart */
 .chart{
