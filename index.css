@@ -64,20 +64,16 @@ p{
   }
 
 .container{
-    background-color: transparent;
     text-align: center;
     margin-top: 350px;
 } 
 
 .container1{
-    margin-top: -20px;
-    background-color: transparent;
     text-align: center;
 }
 
 
 .footer{
-    position: absolute;
     left: 0;
     bottom: 0;
     width: 100%;
