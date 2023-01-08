@@ -7,7 +7,7 @@
     "fontSize": 14,
     "font": "Montserrat, sans-serif",
     "subtitle": [
-      "The corrolation of a passports score with the country's GDP reliance upon Exports",
+      "The corrolation of a passports score with the country's GDP reliance","upon Exports",
       "Source - World Bank"
     ],
     "subtitleFontStyle": "italic",
@@ -95,7 +95,7 @@
           "scale": {"domainMin": 25},
           "axis": {
             "titleFont": "Montserrat, sans-serif",
-            "titleFontSize": 15,
+            "titleFontSize": 10,
             "titleColor": "#1c2e4a",
             "domainColor": "#1c2e4a",
             "tickColor": "#1c2e4a",
@@ -108,7 +108,7 @@
           "title": "Exports of goods and services (% of GDP)",
           "axis": {
             "titleFont": "Montserrat, sans-serif",
-            "titleFontSize": 15,
+            "titleFontSize": 10,
             "titleColor": "#1c2e4a",
             "domainColor": "#1c2e4a",
             "tickColor": "#1c2e4a",
@@ -118,7 +118,7 @@
         "size": {
           "field": "GDPpercapita",
           "type": "quantitative",
-          "title": "GDP per Capita /USD",
+          "title": ["GDP per Capita", "/USD"],
           "legend": {"titleColor": "#1c2e4a", "labelColor": "#1c2e4a"}
         },
         "tooltip": [

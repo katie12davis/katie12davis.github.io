@@ -106,7 +106,7 @@
           "scale": {"domainMin": 25},
           "axis": {
             "titleFont": "Montserrat, sans-serif",
-            "titleFontSize": 15,
+            "titleFontSize": 10,
             "titleColor": "#1c2e4a",
             "domainColor": "#1c2e4a",
             "tickColor": "#1c2e4a",
@@ -119,7 +119,7 @@
           "title": "Remittances received /% of GDP",
           "axis": {
             "titleFont": "Montserrat, sans-serif",
-            "titleFontSize": 15,
+            "titleFontSize": 10,
             "titleColor": "#1c2e4a",
             "domainColor": "#1c2e4a",
             "tickColor": "#1c2e4a",

@@ -18,7 +18,7 @@
     "color": "#1c2e4a",
     "anchor": "start"
   },
-  "width": 200,
+  "width": 150,
   "height": 250,
   "params": [
     {
@@ -98,7 +98,7 @@
           "scale": {"domainMin": 30},
           "axis": {
             "titleFont": "Montserrat, sans-serif",
-            "titleFontSize": 15,
+            "titleFontSize": 10,
             "titleColor": "#1c2e4a",
             "domainColor": "#1c2e4a",
             "tickColor": "#1c2e4a",
@@ -112,7 +112,7 @@
           "scale": {"domainMin": -100},
           "axis": {
             "titleFont": "Montserrat, sans-serif",
-            "titleFontSize": 15,
+            "titleFontSize": 10,
             "titleColor": "#1c2e4a",
             "domainColor": "#1c2e4a",
             "tickColor": "#1c2e4a",
