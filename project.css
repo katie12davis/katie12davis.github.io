@@ -265,6 +265,8 @@ h9{
 }
 
   #text {
+    align-self: center;
+    width: 80%;
     position: left;
     top: 80px;
     right: 100px;
