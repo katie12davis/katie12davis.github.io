@@ -1,0 +1,178 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "International Tourism",
+  "background": "whitesmoke",
+
+  "title": {
+    "text": "International Tourism",
+    "fontSize": 30,
+    "font": "Montserrat, sans-serif",
+    "subtitle": [
+      "The corrolation of a passports score with country's tourism arrival and departure levels ",
+      "Source - Henley & Partners and World Bank", ""
+    ],    
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 15,
+    "subtitleColor": "#1c2e4a",
+    "color": "#1c2e4a",
+    "anchor": "start"
+  },
+  "width": 900,
+  "height": 400,
+  "params": [
+    {
+      "name": "select",
+      "value": "Number of arrivals",
+      "bind": {
+        "input": "select",
+        "options": ["Number of arrivals", "Number of international departures"],
+        "name": "Direction of tourism:"
+      }
+    }
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Henley%20YOY/2016HPI_json.json"
+  },
+  "transform": [
+    {
+      "lookup": "code_lc",
+      "from": {
+        "key": "alpha2",
+        "fields": ["alpha3_UC"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Country%20code%20UC.csv"
+        }
+      }
+    },
+    {
+      "lookup": "alpha3_UC",
+      "from": {
+        "key": "Country Codes",
+        "fields": ["Country Name"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/WorldBankCodes.csv"
+        }
+      }
+    },
+    {
+      "lookup": "Country Name",
+      "from": {
+        "key": "country",
+        "fields": ["Number of arrivals"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/International%20Arr/TourismArr_2016_json%20(2).json"
+        }
+      }
+    },
+    {
+      "lookup": "Country Name",
+      "from": {
+        "key": "country",
+        "fields": ["Number of international departures"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/Tourism/TourismDep_2016_json.json"
+        }
+      }
+    },
+
+    {
+      "lookup": "Country Name",
+      "from": {
+        "key": "country",
+        "fields": ["GDPpercapita"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/GDP%20per%20capita/GDP_per_capita_2019_json.json"
+        }
+      }
+    },
+
+    {"calculate": "datum[select]", "as": "Tourism_numbers"}
+  ],
+  "layer": [
+    {
+      "mark": {"type": "circle", "size": 100, "color": "#1c2e4a", "opacity":1},
+      "encoding": {
+        "x": {
+          "field": "score",
+          "type": "quantitative",
+          "title": "Passport Score",
+          "scale": {"domainMin": 30},
+          "axis": {
+            "titleFont": "Montserrat, sans-serif",
+            "titleFontSize": 15,
+            "titleColor":"#1c2e4a",
+            "domainColor":"#1c2e4a",
+            "tickColor":"#1c2e4a",
+            "labelColor":"#1c2e4a"
+          }
+        },
+        "y": {
+          "field": "Tourism_numbers",
+          "type": "quantitative",
+          "title": "Number of Tourists",
+          "scale": {"domainMin": -100},
+          "axis": {
+            "titleFont": "Montserrat, sans-serif",
+            "titleFontSize": 15,
+            "titleColor":"#1c2e4a",
+            "domainColor":"#1c2e4a",
+            "tickColor":"#1c2e4a",
+            "labelColor":"#1c2e4a"
+          }
+        },
+        "size": {
+          "field": "GDPpercapita",
+          "type": "quantitative",
+          "title": "GDP per Capita /USD",
+          "legend": { "labelFont":"Montserrat, sans-serif", "titleColor":"#1c2e4a","labelColor":"#1c2e4a"}},
+        "tooltip": [
+          {"field": "name", "title": "Country"},
+          {"field": "score", "title": "Score", "type": "quantitative"},
+          {"field": "Number of arrivals", "title": "Number of Arrivals"},
+          {"field": "GDPpercapita", "title": "GDP per Capita", "type": "quantitative"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "maroon"},
+      "transform": [
+        {
+          "regression": "Tourism_numbers",
+          "on": "score",
+          "method": "exp",
+          "extent": [30, 180]
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "score",
+          "type": "quantitative",
+          "scale": {"nice": false, "domainMin": 30}
+        },
+        "y": {"field": "Tourism_numbers", "type": "quantitative"}
+      }
+    },
+    {
+      "transform": [
+        {
+          "regression": "Tourism_numbers",
+          "on": "score",
+          "params": true,
+          "method": "log"
+        },
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "#1c2e4a",
+        "size":15,
+        "x": "width",
+        "align": "right",
+        "y": -20
+        
+      },
+      "encoding": {"text": {"type": "nominal", "field": "R2"}}
+    }
+  ],
+  "config": {}
+}

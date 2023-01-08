@@ -1,0 +1,50 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Passport power over time",
+  "title": {
+    "text": "Passport power over time",
+    "subtitle": [
+      "The changes in the distribution of passport power over time",
+      "Source - Henley Passport power index"
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "middle",
+    "color": "black"
+  },
+  "width": 500,
+  "height": 300,
+  "data": {
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Henley_indexes_json_v5.json"
+  },
+  "mark": "bar",
+  "params": [
+    {
+      "name": "yearSelector",
+      "value": 2022,
+      "bind": {
+        "input": "range",
+        "min": 2010,
+        "max": 2022,
+        "step": 1,
+        "name": "Year:"
+      }
+    }
+  ],
+  "transform": [
+    {"calculate": "toNumber(yearSelector)", "as": "yearS"},
+    {"filter": "datum.yearS == datum.year_h"}
+  ],
+  "encoding": {
+    "x": {
+      "bin": true,
+      "field": "score",
+      "scale": {"domainMax": 200, "domainMin": 0},
+      "title": "Passport Score",
+      "axis": {"values": [0, 20, 40, 60, 80, 100, 120, 140, 160, 180, 200]}
+    },
+    "y": {"aggregate": "count", "field": "score", "title": "Count of Scores"},
+    "color": {"field": "Region", "scale": {"scheme": "category20c"}}
+  },
+  "config": {}
+}
