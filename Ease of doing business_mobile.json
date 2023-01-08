@@ -104,7 +104,8 @@
             "labelFont": "Montserrat, sans-serif",
             "titleColor": "#1c2e4a",
             "labelColor": "#1c2e4a",
-            "orient": "bottom"
+            "orient": "bottom",
+            "direction": "vertical"
           }
         },
         "tooltip": [
