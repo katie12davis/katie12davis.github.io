@@ -156,16 +156,15 @@ h9{
 .myheader{
     align-items: center;
     margin: auto;
-    max-width: 80%;
+    max-width: 90%;
     text-align: center;
     border-width: 0px;
     border-bottom: 0px;
     border-style: solid;
     border-radius: 0px;
-    border-color: #1c2e4a;
     padding: 0;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
     margin: 0;
     background-color: #1c2e4a;
 }
@@ -228,13 +227,13 @@ h9{
 .textsection{
     margin: auto;
     background-color:#1c2e4a ;
-    width: 60%;
+    width: 70%;
     text-align: center;
     margin:  0;
     padding: 0;
     z-index: 1;
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 15%;
+    padding-right: 15%;
     overflow: hidden;
     background-size: 100%;
 }
