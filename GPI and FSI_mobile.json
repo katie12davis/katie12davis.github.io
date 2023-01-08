@@ -131,9 +131,9 @@
           ],
           "mark": {
             "type": "text",
-            "size": 15,
+            "size": 10,
             "color": "#1c2e4a",
-            "x": 990,
+            "x": 240,
             "align": "right",
             "y": 17
           },
@@ -285,9 +285,9 @@
           ],
           "mark": {
             "type": "text",
-            "size": 15,
+            "size": 10,
             "color": "#1c2e4a",
-            "x": 990,
+            "x": 240,
             "align": "right",
             "y": 17
           },
