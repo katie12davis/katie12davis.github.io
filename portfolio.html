@@ -355,9 +355,16 @@
 
 </body>
 
+   <!-- //Script to embed based on screen width -->
+   <script>
 
-<script>
-    //Define charts:
+    // Finding screen width:
+    let width = screen.width;
+
+<!-- Here will be the different chart sizes based on screen width, but for now is just the original charts -->
+
+if(width>450){
+
     var myChart1 = "Chart1_ONSinflation.json";
     var myChart2 = "Chart2_Aging population.json";
     var myChart3 = "IMF outstanding lending USD 05102022.json";
@@ -382,6 +389,33 @@
     var myChart25 = "Regular PublicvPrivate.json";
     var myChart26 = "Total PublicvPrivate.json";
 
+
+} else{   
+    //Define charts:
+    var myChart1 = "Chart1_ONSinflation.json";
+    var myChart2 = "Chart2_Aging population.json";
+    var myChart3 = "IMF outstanding lending USD 05102022.json";
+    var myChart4 = "IMF perecentage of GDP USD.json";
+    var myChart5 = "UK visits abroad graph_monthly.json";
+    var myChart6 = "Inline_Regional foreign visits bar_mobile.json";
+    var myChart7 = "Inline_Regional foreign visits line_mobile.json";
+    var myChart8 = "European v World population.json_mobile.json";
+    var myChart9 = "Scottish pop CC.json";
+    var myChart10 = "Scottish men CC.json";
+    var myChart11 = "Scottish women CC.json";
+    var myChart12 = "English pop CC.json";
+    var myChart13 = "English men CC.json";
+    var myChart14 = "English women CC.json";
+    var myChart15 = "Welsh pop CC.json";
+    var myChart16 = "Welsh men CC.json";
+    var myChart17 = "Welsh women CC.json";
+    var myChart18 = "Europe interactive map_mobile.json";
+    var myChart19 = "Europe GDP map_mobile.json";
+    var myChart20 = "Passport power distribution.portfolio_mobile.json";
+    var myChart21 = "GPI v PP regression.portfolio_mobile.json";
+    var myChart25 = "Regular PublicvPrivate_mobile.json";
+    var myChart26 = "Total PublicvPrivate_mobile.json";
+}
 
 
     // Embed charts:
