@@ -1,0 +1,61 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "The World Openness Score (WOS) is a real-time barometer of the state of mobility around the world",
+  "background":"whitesmoke",
+   "title": {
+    "text": "World Openness Score (WOS)",
+    "fontSize": 30,
+    "font": "Montserrat, sans-serif",
+    "subtitle": [
+      "",
+    "A barometer of the state of mobility across the world. Source:Henley Passport index and Colab",
+    "",
+    "The maximum WOS is 199 x 199 = 39,601, assuming every country can visit every other country without requiring a visa.",
+  "The closer the score gets to this ultimate number, the more open and borderless the world.",
+  "What the WOS can tell us about the welcomeness of our world is depicted through the global increases or decreases of openness by country.",
+""],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 20,
+    "subtitleColor": "#1c2e4a",
+    "anchor": "middle",
+    "color": "#1c2e4a"
+  },
+  "height":500,
+  "width":500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/WOS_json.json"
+  },
+  "mark": {"type": "line", "point":{"filled": false,"fill":"#1c2e4a"}},
+  "encoding": {
+    "x": {"field": "year_h", "type": "ordinal", "title": "Year",
+    "axis": {
+      "titleFont": "Montserrat, sans-serif",
+      "titleFontSize": 15,
+      "titleColor":"#1c2e4a",
+      "domainColor":"#1c2e4a",
+      "tickColor":"#1c2e4a",
+      "labelColor":"#1c2e4a"
+    }},
+    "y": {
+      "field": "score",
+      "title": "World Openess Score (WOS)",
+      "type": "quantitative",
+      "scale": {"domain": [15000, 23000]},
+      "axis": {
+        "titleFont": "Montserrat, sans-serif",
+        "titleFontSize": 15,
+        "titleColor":"#1c2e4a",
+        "domainColor":"#1c2e4a",
+        "tickColor":"#1c2e4a",
+        "labelColor":"#1c2e4a"
+      }
+    },
+    "tooltip": [
+      {"field": "score", "type": "quantitative", "title": "WOS"},
+      {"field": "year_h", "type": "ordinal", "title": "Year"}
+    ],
+    "stroke": {"value": "#1c2e4a"},
+    "strokeWidth": {"value":3}
+  },
+  "config": {}
+}

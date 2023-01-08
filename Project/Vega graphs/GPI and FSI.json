@@ -1,0 +1,297 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Gloal Peace Index. Sources - https://www.visionofhumanity.org/public-release-data/, https://worldpopulationreview.com/country-rankings/countries-currently-at-war,  ",
+  "background": "whitesmoke",
+  "data": {
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Henley_2022_json.json"
+  },
+  "vconcat": [
+    {
+      "title": {
+        "text": "Global Peace Index",
+        "fontSize": 30,
+        "font": "Montserrat, sans-serif",
+        "subtitle": [
+          "The corrolation of a passports score with the country's global peace index ",
+          "Where 1 is the most peaceful, and 4 is the least",
+          "Source - World Population Review Countries currently at war, Vision of Humanity and Henley & Partners"
+        ],
+        "subtitleFontStyle": "italic",
+        "subtitleFontSize": 15,
+        "subtitleColor": "#1c2e4a",
+        "anchor": "start",
+        "color": "#1c2e4a"
+      },
+      "width": 1000,
+      "height": 400,
+      "transform": [
+        {
+          "lookup": "code_lc",
+          "from": {
+            "key": "alpha2",
+            "fields": ["alpha3_UC", "Name_"],
+            "data": {
+              "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Country%20code%20UC.csv"
+            }
+          }
+        },
+        {
+          "lookup": "alpha3_UC",
+          "from": {
+            "key": "iso3c",
+            "fields": ["2022", "State of War"],
+            "data": {
+              "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Global%20Peace%20Index%202008-2022.csv"
+            }
+          }
+        }
+      ],
+      "layer": [
+        {
+          "mark": {
+            "type": "circle",
+            "size": 100,
+            "opacity": 1,
+            "color": "green"
+          },
+          "encoding": {
+            "x": {
+              "field": "score",
+              "type": "quantitative",
+              "title": "Passport Score",
+              "scale": {"domain": [20, 200], "nice": false},
+              "axis": {
+                "titleFont": "Montserrat, sans-serif",
+                "titleFontSize": 15,
+                "titleColor": "#1c2e4a",
+                "domainColor": "#1c2e4a",
+                "tickColor": "#1c2e4a",
+                "labelColor": "#1c2e4a"
+              }
+            },
+            "y": {
+              "field": "2022",
+              "type": "quantitative",
+              "title": "Global Peace Index",
+              "scale": {"domain": [1, 4]},
+              "axis": {
+                "titleFont": "Montserrat, sans-serif",
+                "titleFontSize": 15,
+                "titleColor": "#1c2e4a",
+                "domainColor": "#1c2e4a",
+                "tickColor": "#1c2e4a",
+                "labelColor": "#1c2e4a"
+              }
+            },
+            "color": {
+              "field": "State of War",
+              "type": "nominal",
+              "scale": {
+                "domain": ["At War", "Peaceful"],
+                "range": ["maroon", "#1c2e4a"]
+              }
+            },
+            "tooltip": [
+              {"field": "Name_", "title": "Country"},
+              {"field": "score", "title": "Score", "type": "quantitative"},
+              {"field": "2022", "title": "GPI"}
+            ]
+          }
+        },
+        {
+          "mark": {"type": "line", "color": "gray"},
+          "transform": [
+            {
+              "regression": "2022",
+              "on": "score",
+              "method": "log",
+              "extent": [0, 200]
+            }
+          ],
+          "encoding": {
+            "x": {
+              "field": "score",
+              "type": "quantitative",
+              "scale": {"domain": [20, 200], "nice": false}
+            },
+            "y": {"field": "2022", "type": "quantitative"}
+          }
+        },
+        {
+          "transform": [
+            {
+              "regression": "2022",
+              "on": "score",
+              "params": true,
+              "method": "log"
+            },
+            {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+          ],
+          "mark": {
+            "type": "text",
+            "size": 15,
+            "color": "#1c2e4a",
+            "x": 990,
+            "align": "right",
+            "y": 17
+          },
+          "encoding": {"text": {"type": "nominal", "field": "R2"}}
+        }
+      ]
+    },
+    {
+      "title": {
+        "text": "Fragile States Index",
+        "fontSize": 30,
+        "font": "Montserrat, sans-serif",
+        "subtitle": [
+          "The corrolation of a passports score with the country's fragile states index ",
+          "Source - Fragile States Index and Henley & Partners"
+        ],
+        "subtitleFontStyle": "italic",
+        "subtitleFontSize": 15,
+        "subtitleColor": "#1c2e4a",
+        "anchor": "start",
+        "color": "#1c2e4a"
+      },
+      "width": 1000,
+      "height": 400,
+      "data": {
+        "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Henley_2022_json.json"
+      },
+      "transform": [
+        {
+          "lookup": "code_lc",
+          "from": {
+            "key": "alpha2",
+            "fields": ["alpha3_UC", "Name_"],
+            "data": {
+              "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Country%20code%20UC.csv"
+            }
+          }
+        },
+        {
+          "lookup": "alpha3_UC",
+          "from": {
+            "key": "iso3c",
+            "fields": ["2022", "State of War"],
+            "data": {
+              "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Global%20Peace%20Index%202008-2022.csv"
+            }
+          }
+        },
+        {
+          "lookup": "alpha3_UC",
+          "from": {
+            "key": "alpha3",
+            "fields": ["Fragile States Index"],
+            "data": {
+              "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Henley%20YOY/2022HPI_FSI_json.json"
+            }
+          }
+        }
+      ],
+      "layer": [
+        {
+          "mark": {
+            "type": "circle",
+            "size": 100,
+            "opacity": 1,
+            "color": "green"
+          },
+          "encoding": {
+            "x": {
+              "field": "score",
+              "type": "quantitative",
+              "title": "Passport Score",
+              "scale": {"domain": [20, 200], "nice": false},
+              "axis": {
+                "titleFont": "Montserrat, sans-serif",
+                "titleFontSize": 15,
+                "titleColor": "#1c2e4a",
+                "domainColor": "#1c2e4a",
+                "tickColor": "#1c2e4a",
+                "labelColor": "#1c2e4a"
+              }
+            },
+            "y": {
+              "field": "Fragile States Index",
+              "type": "quantitative",
+              "title": "Fragile States Index",
+              "axis": {
+                "titleFont": "Montserrat, sans-serif",
+                "titleFontSize": 15,
+                "titleColor": "#1c2e4a",
+                "domainColor": "#1c2e4a",
+                "tickColor": "#1c2e4a",
+                "labelColor": "#1c2e4a"
+              }
+            },
+            "color": {
+              "field": "State of War",
+              "type": "nominal",
+              "scale": {
+                "domain": ["At War", "Peaceful"],
+                "range": ["maroon", "#1c2e4a"]
+              },
+              "legend": {
+                "labelFont": "Montserrat, sans-serif",
+                "titleColor": "#1c2e4a",
+                "labelColor": "#1c2e4a",
+                "titleFontSize": 20,
+                "orient": "bottom-right",
+                "symbolSize": 50,
+                "labelFontSize": 14
+              }
+            },
+            "tooltip": [
+              {"field": "Name_", "title": "Country"},
+              {"field": "score", "title": "Score", "type": "quantitative"},
+              {"field": "2022", "title": "GPI"}
+            ]
+          }
+        },
+        {
+          "mark": {"type": "line", "color": "gray"},
+          "transform": [
+            {
+              "regression": "Fragile States Index",
+              "on": "score",
+              "method": "linear",
+              "extent": [20, 200]
+            }
+          ],
+          "encoding": {
+            "x": {
+              "field": "score",
+              "type": "quantitative",
+              "scale": {"domain": [20, 200], "nice": false}
+            },
+            "y": {"field": "Fragile States Index", "type": "quantitative"}
+          }
+        },
+        {
+          "transform": [
+            {
+              "regression": "Fragile States Index",
+              "on": "score",
+              "params": true,
+              "method": "linear"
+            },
+            {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+          ],
+          "mark": {
+            "type": "text",
+            "size": 15,
+            "color": "#1c2e4a",
+            "x": 990,
+            "align": "right",
+            "y": 17
+          },
+          "encoding": {"text": {"type": "nominal", "field": "R2"}}
+        }
+      ]
+    }
+  ],
+  "config": {}
+}

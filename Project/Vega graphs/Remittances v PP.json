@@ -1,0 +1,189 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Remittances",
+  "background": "whitesmoke",
+  "title": {
+    "text": "Remmitances",
+    "fontSize": 30,
+    "font": "Montserrat, sans-serif",
+    "subtitle": [
+      "The corrolation of a passports score with a countries received remittances",
+      "Source - World Bank and Henley & Partners"
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 15,
+    "subtitleColor": "#1c2e4a",
+    "anchor": "start",
+    "color": "#1c2e4a"
+  },
+  "width": 900,
+  "height": 400,
+  "params": [
+    {
+      "name": "select",
+      "value": "null",
+      "bind": {
+        "input": "select",
+        "options": [
+          "null",
+          "Asia",
+          "Africa",
+          "Americas",
+          "Caribbean",
+          "Europe",
+          "Middle East",
+          "Oceania"
+        ],
+        "name": "Region:"
+      }
+    }
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Henley%20YOY/2019HPI_json.json"
+  },
+  "transform": [
+    {"filter": "select == 'null'?select:datum.Region==select"},
+
+    {
+      "lookup": "code_lc",
+      "from": {
+        "key": "alpha2",
+        "fields": ["alpha3_UC"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Country%20code%20UC.csv"
+        }
+      }
+    },
+    {
+      "lookup": "alpha3_UC",
+      "from": {
+        "key": "Country Codes",
+        "fields": ["Country Name"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/WorldBankCodes.csv"
+        }
+      }
+    },
+    {
+      "lookup": "Country Name",
+      "from": {
+        "key": "country",
+        "fields": ["Remittances received /% of GDP"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/Remittances/Remittances_GDP_2019_json.json"
+        }
+      }
+    },
+    {
+      "lookup": "Country Name",
+      "from": {
+        "key": "country",
+        "fields": ["Remittances recieved /USD"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/Remittances/Remittances_USD_2019_json.json"
+        }
+      }
+    },    {
+      "lookup": "Country Name",
+      "from": {
+        "key": "country",
+        "fields": ["GDPpercapita"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/GDP%20per%20capita/GDP_per_capita_2019_json.json"
+        }
+      }
+    },
+    
+    {"calculate": "datum[select]", "as": "Remittances"}
+  ],
+  "layer": [
+    {
+      "mark": {"type": "circle", "size": 100, "opacity":1, "color": "#1c2e4a"},
+      "encoding": {
+        "x": {
+          "field": "score",
+          "type": "quantitative",
+          "title": "Passport Score",
+          "scale": {"domainMin": 25},
+          "axis": {
+            "titleFont": "Montserrat, sans-serif",
+            "titleFontSize": 15,
+            "titleColor":"#1c2e4a",
+            "domainColor":"#1c2e4a",
+            "tickColor":"#1c2e4a",
+            "labelColor":"#1c2e4a"
+          }
+          
+        },
+        "y": {
+          "field": "Remittances received /% of GDP",
+          "type": "quantitative",
+          "title": "Remittances received /% of GDP",
+          "axis": {
+            "titleFont": "Montserrat, sans-serif",
+            "titleFontSize": 15,
+            "titleColor":"#1c2e4a",
+            "domainColor":"#1c2e4a",
+            "tickColor":"#1c2e4a",
+            "labelColor":"#1c2e4a"
+          }         
+        },
+        "size": {
+          "field": "GDPpercapita",
+          "type": "quantitative",
+          "title": "GDP per Capita /USD",
+          "legend": {"titleColor":"#1c2e4a","labelColor":"#1c2e4a"}
+        },
+        "tooltip": [
+          {"field": "name", "title": "Country"},
+          {"field": "score", "title": "Score", "type": "quantitative"},
+          {
+            "field": "Remittances received /% of GDP",
+            "title": "Percentage of GDP"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "maroon"},
+      "transform": [
+        {
+          "regression": "Remittances received /% of GDP",
+          "on": "score",
+          "method": "linear",
+          "extent": [25, 200]
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "score",
+          "type": "quantitative",
+          "scale": {"nice": false, "domainMin": 25}
+        },
+        "y": {"field": "Remittances received /% of GDP", "type": "quantitative"}
+      }
+    },
+    {
+      "transform": [
+        {
+          "regression": "Remittances received /% of GDP",
+          "on": "score",
+          "params": true,
+          "method": "log"
+        },
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "#1c2e4a",
+        "size":15,
+        "x": "width",
+        "align": "right",
+        "y": -20
+        
+      },
+      "encoding": {"text": {"type": "nominal", "field": "R2"}}
+    }    
+  ],
+  "config": {}
+}
