@@ -94,9 +94,9 @@ if(width>450){
         <br>
          
         <h1>Passport Power - is it all that important?</h1>        
-        <h9>A passport is one of the most powerful and important documents that someone can own, which some individuals are willing <br>
+        <h9>A passport is one of the most powerful and important documents that someone can own, which some individuals are willing 
             to spend up to $2.9 million dollars for a new one. A new citizenship and passport enables escape from war
-            <br> and instability and eases work and travel.
+             and instability and eases work and travel.
         </h9> 
         <h9>       
             <br> <br><i>But what does a powerful passport mean for the country named on its cover? </i>
@@ -171,22 +171,22 @@ if(width>450){
     <h8> The Economy </h8> <br><br>
     <h9>
         Whilst it varies at the top, higher scored countries have the strongest GDPs.
-         <br>Whereas countries scoring 105 or below, predominantly have a GDP/capita less than $10,000.
+         Whereas countries scoring 105 or below, predominantly have a GDP/capita less than $10,000.
          <br><br>
-The trends for international tourism and export dependency are similar, in that countries with a low score are have a<br>
+The trends for international tourism and export dependency are similar, in that countries with a low score are have a
  lower dependency on exports and lower tourism numbers, and those with a high score vary more.
  <br><br>
-When looking at less developed Regions, there is a stronger relationship between export dependency and passport power.<br>
- A strong passport can enable local entrepreneurs to more easily sell their goods abroad, which is less <br>likely to have
+When looking at less developed Regions, there is a stronger relationship between export dependency and passport power.
+ A strong passport can enable local entrepreneurs to more easily sell their goods abroad, which is less likely to have
   an impact in already highly developed nations, but for less developed nations this could be a powerful change.
   <br><br>
-With international tourism, it seems a country with a stronger passport is more appealing to visit, likely because <br>
- passport agreements are often bilateral. So a higher score often means more passports can easily visit your country.<br>
+With international tourism, it seems a country with a stronger passport is more appealing to visit, likely because 
+ passport agreements are often bilateral. So a higher score often means more passports can easily visit your country.
   But a strong passport does not induce travel outwards. 
   <br><br>
-I expected a stronger passport would correlate with high remittance dependency, in particular in LICs as it<br> eases mobility.
- However countries with strong passports are highly unlikely to rely largely on remittances,<br> and weak passports rely on them
-  much more, especially in the Caribbean.<br> However in Africa there is a slight trend with some countries that a stronger<br> passport
+I expected a stronger passport would correlate with high remittance dependency, in particular in LICs as it eases mobility.
+ However countries with strong passports are highly unlikely to rely largely on remittances, and weak passports rely on them
+  much more, especially in the Caribbean. However in Africa there is a slight trend with some countries that a stronger passport
    correlates with increased remittance reliance.
 
        
@@ -217,12 +217,12 @@ I expected a stronger passport would correlate with high remittance dependency, 
     <h9>
         
 There is an incredibly strong correlation between passport scores and the peacefulness/fragility of a nation.
- It is likely that citizens <br> from more stable nations are seen as less of a threat, so are more likely to gain visa-free travel 
- or visa on a arrival agreements <br> from other countries.
+ It is likely that citizens  from more stable nations are seen as less of a threat, so are more likely to gain visa-free travel 
+ or visa on a arrival agreements  from other countries.
  <br><br>
 Ease of doing business measures regulations directly  affecting businesses and 
-it seems countries with more<br> powerful passports have more favourable regulations, likely 
-because they are more outward looking and <br> friendly as a nation, so are more likely to focus
+it seems countries with more powerful passports have more favourable regulations, likely 
+because they are more outward looking and friendly as a nation, so are more likely to focus
  on business, rather than corruption.
 
        
@@ -247,12 +247,12 @@ because they are more outward looking and <br> friendly as a nation, so are more
     <h8> Data </h8>
     <br> <br>
     <h9>
-Passport ranking was obtained from the Henley & Partners API, using a colab loop, used for later yearly and WOS data. <br>
+Passport ranking was obtained from the Henley & Partners API, using a colab loop, used for later yearly and WOS data. 
  For this to be replicated yearly, ‘2023’ must simply be added to my year definition and the code rerun. <br> <br>
  <a class="smallbutton" href="https://colab.research.google.com/drive/1UPxSJlleP6tpjaR5ua0Ny6Txn7Fbrf08?usp=sharing">
      <b>  Henley API Cleaning </b></a> 
 <br><br><br>
-For World Bank data I used their API with specified years for each chart, this can be replicated whenever <br>
+For World Bank data I used their API with specified years for each chart, this can be replicated whenever 
 new data is released by changing the year and uploading this data into the vega-code. <br> <br>
 <a class="smallbutton" href="https://colab.research.google.com/drive/1C4dbBrYCmmu2XBdFd-U3q1A55YaqOT9-?usp=sharing">
      <b>  World Bank Colab </b></a> 
@@ -268,15 +268,15 @@ The FSI, GPI and Countries currently at war data was downloaded in CSV files and
     <h8> Challenges in data cleaning/analysis</h8>
     <Br> <Br>
     <h9>
-My map had the most issues. I inserted a year slider which would not work because I was using the topojson as my first data source, <br>
-and looking up passport data onto it which worked for only one year. By starting with passport data and looking up the topojson, <br>
+My map had the most issues. I inserted a year slider which would not work because I was using the topojson as my first data source, 
+and looking up passport data onto it which worked for only one year. By starting with passport data and looking up the topojson, 
 the slider worked. I found alpha3 using pycountry, and matched region_id with region names.
 <br> <br>
-There were also issues presenting the score, because I wanted to show both score and rank but needed a score inverse so both <br>
- would work in the same direction with blue representing good. Calculating the inverse in vega did not work since 2007, 2009 <br>
- and certain countries had 0 scores due to an API fault, so the inverse calculated as infinity breaking the map. So I created <br>
-  a unique number for every row of data (year and country). Which I matched with the inverse score calculated elsewhere, where <br>
-  score ‘0’s had been dropped so no infinity would be calculated. Whilst some data is now missing, this would have been the case <br>
+There were also issues presenting the score, because I wanted to show both score and rank but needed a score inverse so both 
+ would work in the same direction with blue representing good. Calculating the inverse in vega did not work since 2007, 2009 
+ and certain countries had 0 scores due to an API fault, so the inverse calculated as infinity breaking the map. So I created 
+  a unique number for every row of data (year and country). Which I matched with the inverse score calculated elsewhere, where 
+  score ‘0’s had been dropped so no infinity would be calculated. Whilst some data is now missing, this would have been the case 
    regardless.
 <br> <br>   
 World Bank data misses countries in recent years so I manually chose the most recent year with maximum country variation.
