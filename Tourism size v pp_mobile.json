@@ -1,48 +1,40 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Remittances",
+  "description": "International Tourism",
   "background": "whitesmoke",
   "title": {
-    "text": "Export dependency",
+    "text": "International Tourism",
     "fontSize": 14,
     "font": "Montserrat, sans-serif",
     "subtitle": [
-      "The corrolation of a passports score with the country's GDP reliance upon Exports",
-      "Source - World Bank"
+      "The corrolation of a passports score with country's tourism",
+      " arrival and departure levels ",
+      "Source - Henley & Partners and World Bank",
+      ""
     ],
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,
     "subtitleColor": "#1c2e4a",
-    "anchor": "start",
-    "color": "#1c2e4a"
+    "color": "#1c2e4a",
+    "anchor": "start"
   },
   "width": 200,
   "height": 250,
   "params": [
     {
       "name": "select",
-      "value": "null",
+      "value": "Number of arrivals",
       "bind": {
         "input": "select",
-        "options": [
-          "null",
-          "Asia",
-          "Africa",
-          "Americas",
-          "Caribbean",
-          "Europe",
-          "Middle East",
-          "Oceania"
-        ],
-        "name": "Region:"
+        "options": ["Number of arrivals", "Number of international departures"],
+        "name": "Direction of tourism:"
       }
     }
   ],
   "data": {
-    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Henley%20YOY/2018HPI_json.json"
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Henley%20YOY/2016HPI_json.json"
   },
   "transform": [
-    {"filter": "select == 'null'?select:datum.Region==select"},
     {
       "lookup": "code_lc",
       "from": {
@@ -67,9 +59,19 @@
       "lookup": "Country Name",
       "from": {
         "key": "country",
-        "fields": ["Exports of goods and services (% of GDP)"],
+        "fields": ["Number of arrivals"],
         "data": {
-          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/Exports/Exports_2019_json.json"
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/International%20Arr/TourismArr_2016_json%20(2).json"
+        }
+      }
+    },
+    {
+      "lookup": "Country Name",
+      "from": {
+        "key": "country",
+        "fields": ["Number of international departures"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/Tourism/TourismDep_2016_json.json"
         }
       }
     },
@@ -82,17 +84,18 @@
           "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/GDP%20per%20capita/GDP_per_capita_2019_json.json"
         }
       }
-    }
+    },
+    {"calculate": "datum[select]", "as": "Tourism_numbers"}
   ],
   "layer": [
     {
-      "mark": {"type": "circle", "size": 50, "color": "#1c2e4a", "opacity": 1},
+      "mark": {"type": "circle", "size": 100, "color": "#1c2e4a", "opacity": 1},
       "encoding": {
         "x": {
           "field": "score",
           "type": "quantitative",
           "title": "Passport Score",
-          "scale": {"domainMin": 25},
+          "scale": {"domainMin": 30},
           "axis": {
             "titleFont": "Montserrat, sans-serif",
             "titleFontSize": 15,
@@ -103,9 +106,10 @@
           }
         },
         "y": {
-          "field": "Exports of goods and services (% of GDP)",
+          "field": "Tourism_numbers",
           "type": "quantitative",
-          "title": "Exports of goods and services (% of GDP)",
+          "title": "Number of Tourists",
+          "scale": {"domainMin": -100},
           "axis": {
             "titleFont": "Montserrat, sans-serif",
             "titleFontSize": 15,
@@ -118,16 +122,18 @@
         "size": {
           "field": "GDPpercapita",
           "type": "quantitative",
-          "title": "GDP per Capita /USD",
-          "legend": {"titleColor": "#1c2e4a", "labelColor": "#1c2e4a"}
+          "title": ["GDP per Capita", "/USD"],
+          "legend": {
+            "titleColor": "#1c2e4a",
+            "labelColor": "#1c2e4a",
+            "labelFontSize": 10,
+            "titleFontSize": 10
+          }
         },
         "tooltip": [
           {"field": "name", "title": "Country"},
           {"field": "score", "title": "Score", "type": "quantitative"},
-          {
-            "field": "Exports of goods and services (% of GDP)",
-            "title": "Exports of goods and services (% of GDP)"
-          },
+          {"field": "Number of arrivals", "title": "Number of Arrivals"},
           {
             "field": "GDPpercapita",
             "title": "GDP per Capita",
@@ -140,28 +146,25 @@
       "mark": {"type": "line", "color": "maroon"},
       "transform": [
         {
-          "regression": "Exports of goods and services (% of GDP)",
+          "regression": "Tourism_numbers",
           "on": "score",
-          "method": "log",
-          "extent": [25, 200]
+          "method": "exp",
+          "extent": [30, 180]
         }
       ],
       "encoding": {
         "x": {
           "field": "score",
           "type": "quantitative",
-          "scale": {"nice": false, "domainMin": 25}
+          "scale": {"nice": false, "domainMin": 30}
         },
-        "y": {
-          "field": "Exports of goods and services (% of GDP)",
-          "type": "quantitative"
-        }
+        "y": {"field": "Tourism_numbers", "type": "quantitative"}
       }
     },
     {
       "transform": [
         {
-          "regression": "Exports of goods and services (% of GDP)",
+          "regression": "Tourism_numbers",
           "on": "score",
           "params": true,
           "method": "log"

@@ -1,0 +1,99 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Henley%20YOY/2019HPI_json.json"
+  },
+  "background": "whitesmoke",
+  "title": {
+    "text": "Heatmap - GDP per Capita against Passport Score",
+    "fontSize": 14,
+    "font": "Montserrat, sans-serif",
+    "subtitle": ["Source: Henley & Partners and World Bank", ""],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "subtitleColor": "#1c2e4a",
+    "color": "#1c2e4a",
+    "anchor": "start"
+  },
+  "transform": [
+    {
+      "lookup": "code_lc",
+      "from": {
+        "key": "alpha2",
+        "fields": ["alpha3_UC"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Country%20code%20UC.csv"
+        }
+      }
+    },
+    {
+      "lookup": "alpha3_UC",
+      "from": {
+        "key": "Country Codes",
+        "fields": ["Country Name"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/WorldBankCodes.csv"
+        }
+      }
+    },
+    {
+      "lookup": "Country Name",
+      "from": {
+        "key": "country",
+        "fields": ["GDPpercapita"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/GDP%20per%20capita/GDP_per_capita_2019_json.json"
+        }
+      }
+    },
+    {
+      "filter": {
+        "and": [
+          {"field": "score", "valid": true},
+          {"field": "GDPpercapita", "valid": true}
+        ]
+      }
+    }
+  ],
+  "mark": "rect",
+  "width": 200,
+  "height": 250,
+  "encoding": {
+    "x": {
+      "bin": {"maxbins": 60},
+      "field": "score",
+      "type": "quantitative",
+      "title": "Passport Score",
+      "axis": {
+        "titleFont": "Montserrat, sans-serif",
+        "titleFontSize": 15,
+        "titleColor": "#1c2e4a",
+        "domainColor": "#1c2e4a",
+        "tickColor": "#1c2e4a",
+        "labelColor": "#1c2e4a"
+      }
+    },
+    "y": {
+      "bin": {"maxbins": 40},
+      "field": "GDPpercapita",
+      "type": "quantitative",
+      "title": "GDP per Capita / USD",
+      "axis": {
+        "titleFont": "Montserrat, sans-serif",
+        "titleFontSize": 15,
+        "titleColor": "#1c2e4a",
+        "domainColor": "#1c2e4a",
+        "tickColor": "#1c2e4a",
+        "labelColor": "#1c2e4a"
+      }
+    },
+    "color": {
+      "aggregate": "count",
+      "type": "quantitative",
+      "title": "Number of matches",
+      "scale": {"scheme": "lighttealblue"},
+      "legend": {"titleColor": "#1c2e4a", "labelColor": "#1c2e4a"}
+    }
+  },
+  "config": {"view": {"stroke": "transparent"}}
+}

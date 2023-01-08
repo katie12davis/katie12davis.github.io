@@ -3,12 +3,12 @@
   "description": "Remittances",
   "background": "whitesmoke",
   "title": {
-    "text": "Export dependency",
+    "text": "Remmitances",
     "fontSize": 14,
     "font": "Montserrat, sans-serif",
     "subtitle": [
-      "The corrolation of a passports score with the country's GDP reliance upon Exports",
-      "Source - World Bank"
+      "The corrolation of a passports score with a countries received remittances",
+      "Source - World Bank and Henley & Partners"
     ],
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,
@@ -39,7 +39,7 @@
     }
   ],
   "data": {
-    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Henley%20YOY/2018HPI_json.json"
+    "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Henley%20YOY/2019HPI_json.json"
   },
   "transform": [
     {"filter": "select == 'null'?select:datum.Region==select"},
@@ -67,9 +67,19 @@
       "lookup": "Country Name",
       "from": {
         "key": "country",
-        "fields": ["Exports of goods and services (% of GDP)"],
+        "fields": ["Remittances received /% of GDP"],
         "data": {
-          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/Exports/Exports_2019_json.json"
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/Remittances/Remittances_GDP_2019_json.json"
+        }
+      }
+    },
+    {
+      "lookup": "Country Name",
+      "from": {
+        "key": "country",
+        "fields": ["Remittances recieved /USD"],
+        "data": {
+          "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/Remittances/Remittances_USD_2019_json.json"
         }
       }
     },
@@ -82,11 +92,12 @@
           "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/World%20Bank/GDP%20per%20capita/GDP_per_capita_2019_json.json"
         }
       }
-    }
+    },
+    {"calculate": "datum[select]", "as": "Remittances"}
   ],
   "layer": [
     {
-      "mark": {"type": "circle", "size": 50, "color": "#1c2e4a", "opacity": 1},
+      "mark": {"type": "circle", "size": 100, "opacity": 1, "color": "#1c2e4a"},
       "encoding": {
         "x": {
           "field": "score",
@@ -103,9 +114,9 @@
           }
         },
         "y": {
-          "field": "Exports of goods and services (% of GDP)",
+          "field": "Remittances received /% of GDP",
           "type": "quantitative",
-          "title": "Exports of goods and services (% of GDP)",
+          "title": "Remittances received /% of GDP",
           "axis": {
             "titleFont": "Montserrat, sans-serif",
             "titleFontSize": 15,
@@ -118,20 +129,20 @@
         "size": {
           "field": "GDPpercapita",
           "type": "quantitative",
-          "title": "GDP per Capita /USD",
-          "legend": {"titleColor": "#1c2e4a", "labelColor": "#1c2e4a"}
+          "title": ["GDP per Capita", "/USD"],
+          "legend": {
+            "titleColor": "#1c2e4a",
+            "labelColor": "#1c2e4a",
+            "labelFontSize": 10,
+            "titleFontSize": 10
+          }
         },
         "tooltip": [
           {"field": "name", "title": "Country"},
           {"field": "score", "title": "Score", "type": "quantitative"},
           {
-            "field": "Exports of goods and services (% of GDP)",
-            "title": "Exports of goods and services (% of GDP)"
-          },
-          {
-            "field": "GDPpercapita",
-            "title": "GDP per Capita",
-            "type": "quantitative"
+            "field": "Remittances received /% of GDP",
+            "title": "Percentage of GDP"
           }
         ]
       }
@@ -140,9 +151,9 @@
       "mark": {"type": "line", "color": "maroon"},
       "transform": [
         {
-          "regression": "Exports of goods and services (% of GDP)",
+          "regression": "Remittances received /% of GDP",
           "on": "score",
-          "method": "log",
+          "method": "linear",
           "extent": [25, 200]
         }
       ],
@@ -152,16 +163,13 @@
           "type": "quantitative",
           "scale": {"nice": false, "domainMin": 25}
         },
-        "y": {
-          "field": "Exports of goods and services (% of GDP)",
-          "type": "quantitative"
-        }
+        "y": {"field": "Remittances received /% of GDP", "type": "quantitative"}
       }
     },
     {
       "transform": [
         {
-          "regression": "Exports of goods and services (% of GDP)",
+          "regression": "Remittances received /% of GDP",
           "on": "score",
           "params": true,
           "method": "log"
