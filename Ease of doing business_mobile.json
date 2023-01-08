@@ -18,7 +18,7 @@
     "anchor": "start",
     "color": "#1c2e4a"
   },
-  "width": 180,
+  "width": 240,
   "height": 250,
   "data": {
     "url": "https://raw.githubusercontent.com/katie12davis/katie12davis.github.io/main/Project/Data/Henley%20YOY/2019HPI_json.json"
@@ -103,7 +103,8 @@
           "legend": {
             "labelFont": "Montserrat, sans-serif",
             "titleColor": "#1c2e4a",
-            "labelColor": "#1c2e4a"
+            "labelColor": "#1c2e4a",
+            "orient": "bottom"
           }
         },
         "tooltip": [
